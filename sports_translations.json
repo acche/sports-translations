@@ -1,0 +1,7559 @@
+{
+  "version": "2.0.0",
+  "description": "Universal Multi-Sport Translation Dataset (Football, Basketball, Asian Games)",
+  "updated_at": "2026-09-14T23:15:00Z",
+  "count": 396,
+  "translations": [
+    {
+      "id": "premier_league",
+      "sport": "football",
+      "type": "league",
+      "canonical_name": "Premier League",
+      "translations": {
+        "zh-Hans": "英超",
+        "zh-Hant": "英超",
+        "en": "Premier League",
+        "ja": "プレミアリーグ",
+        "es": "Premier League"
+      },
+      "aliases": [
+        "英超",
+        "Premier League",
+        "EPL",
+        "English Premier League"
+      ]
+    },
+    {
+      "id": "primera_division",
+      "sport": "football",
+      "type": "league",
+      "canonical_name": "Primera Division",
+      "translations": {
+        "zh-Hans": "西甲",
+        "zh-Hant": "西甲",
+        "en": "La Liga",
+        "ja": "ラ・リーガ",
+        "es": "La Liga"
+      },
+      "aliases": [
+        "西甲",
+        "La Liga",
+        "LaLiga",
+        "Primera Division"
+      ]
+    },
+    {
+      "id": "serie_a",
+      "sport": "football",
+      "type": "league",
+      "canonical_name": "Serie A",
+      "translations": {
+        "zh-Hans": "意甲",
+        "zh-Hant": "意甲",
+        "en": "Serie A",
+        "ja": "セリエA",
+        "es": "Serie A"
+      },
+      "aliases": [
+        "意甲",
+        "Serie A",
+        "Italian Serie A"
+      ]
+    },
+    {
+      "id": "bundesliga",
+      "sport": "football",
+      "type": "league",
+      "canonical_name": "Bundesliga",
+      "translations": {
+        "zh-Hans": "德甲",
+        "zh-Hant": "德甲",
+        "en": "Bundesliga",
+        "ja": "ブンデスリーガ",
+        "es": "Bundesliga"
+      },
+      "aliases": [
+        "德甲",
+        "Bundesliga",
+        "German Bundesliga"
+      ]
+    },
+    {
+      "id": "ligue_1",
+      "sport": "football",
+      "type": "league",
+      "canonical_name": "Ligue 1",
+      "translations": {
+        "zh-Hans": "法甲",
+        "zh-Hant": "法甲",
+        "en": "Ligue 1",
+        "ja": "リーグ・アン",
+        "es": "Ligue 1"
+      },
+      "aliases": [
+        "法甲",
+        "Ligue 1",
+        "French Ligue 1"
+      ]
+    },
+    {
+      "id": "championship",
+      "sport": "football",
+      "type": "league",
+      "canonical_name": "Championship",
+      "translations": {
+        "zh-Hans": "英冠",
+        "zh-Hant": "英冠",
+        "en": "EFL Championship",
+        "ja": "EFLチャンピオンシップ",
+        "es": "EFL Championship"
+      },
+      "aliases": [
+        "英冠",
+        "Championship",
+        "EFL Championship"
+      ]
+    },
+    {
+      "id": "campeonato_brasileiro_serie_a",
+      "sport": "football",
+      "type": "league",
+      "canonical_name": "Campeonato Brasileiro Série A",
+      "translations": {
+        "zh-Hans": "巴甲",
+        "zh-Hant": "巴甲",
+        "en": "Brasileirão Série A",
+        "ja": "カンピオナート・ブラジレイロ・セリエA",
+        "es": "Campeonato Brasileño Serie A"
+      },
+      "aliases": [
+        "巴甲",
+        "Brasileirão",
+        "Brasileirao",
+        "Serie A Brazil",
+        "Campeonato Brasileiro",
+        "Campeonato Brasileiro Série A"
+      ]
+    },
+    {
+      "id": "eredivisie",
+      "sport": "football",
+      "type": "league",
+      "canonical_name": "Eredivisie",
+      "translations": {
+        "zh-Hans": "荷甲",
+        "zh-Hant": "荷甲",
+        "en": "Eredivisie",
+        "ja": "エールディヴィジ",
+        "es": "Eredivisie"
+      },
+      "aliases": [
+        "荷甲",
+        "Eredivisie",
+        "Dutch Eredivisie"
+      ]
+    },
+    {
+      "id": "primeira_liga",
+      "sport": "football",
+      "type": "league",
+      "canonical_name": "Primeira Liga",
+      "translations": {
+        "zh-Hans": "葡超",
+        "zh-Hant": "葡超",
+        "en": "Primeira Liga",
+        "ja": "プリメイラ・リーガ",
+        "es": "Primeira Liga"
+      },
+      "aliases": [
+        "葡超",
+        "Primeira Liga",
+        "Liga Portugal"
+      ]
+    },
+    {
+      "id": "copa_libertadores",
+      "sport": "football",
+      "type": "league",
+      "canonical_name": "Copa Libertadores",
+      "translations": {
+        "zh-Hans": "南美解放者杯",
+        "zh-Hant": "南美自由盃",
+        "en": "Copa Libertadores",
+        "ja": "コパ・リベルタドーレス",
+        "es": "Copa Libertadores"
+      },
+      "aliases": [
+        "解放者杯",
+        "自由盃",
+        "Libertadores",
+        "Copa Libertadores"
+      ]
+    },
+    {
+      "id": "uefa_champions_league",
+      "sport": "football",
+      "type": "league",
+      "canonical_name": "UEFA Champions League",
+      "translations": {
+        "zh-Hans": "欧冠",
+        "zh-Hant": "歐冠",
+        "en": "UEFA Champions League",
+        "ja": "UEFAチャンピオンズリーグ",
+        "es": "Liga de Campeones de la UEFA"
+      },
+      "aliases": [
+        "欧冠",
+        "歐聯",
+        "UCL",
+        "Champions League",
+        "UEFA Champions League"
+      ]
+    },
+    {
+      "id": "european_championship",
+      "sport": "football",
+      "type": "league",
+      "canonical_name": "European Championship",
+      "translations": {
+        "zh-Hans": "欧洲杯",
+        "zh-Hant": "歐洲國家盃",
+        "en": "UEFA European Championship",
+        "ja": "欧州選手権",
+        "es": "Campeonato Europeo de la UEFA"
+      },
+      "aliases": [
+        "欧洲杯",
+        "歐國盃",
+        "UEFA Euro",
+        "Euro 2024",
+        "European Championship"
+      ]
+    },
+    {
+      "id": "fifa_world_cup",
+      "sport": "football",
+      "type": "league",
+      "canonical_name": "FIFA World Cup",
+      "translations": {
+        "zh-Hans": "世界杯",
+        "zh-Hant": "世界盃",
+        "en": "FIFA World Cup",
+        "ja": "FIFAワールドカップ",
+        "es": "Copa Mundial de la FIFA"
+      },
+      "aliases": [
+        "世界杯",
+        "世足",
+        "World Cup",
+        "FIFA World Cup"
+      ]
+    },
+    {
+      "id": "fb_1_fc_heidenheim_1846",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "1. FC Heidenheim 1846",
+      "translations": {
+        "zh-Hans": "海登海姆",
+        "zh-Hant": "海登咸",
+        "en": "Heidenheim",
+        "ja": "1.FCハイデンハイム1846",
+        "es": "Heidenheim"
+      },
+      "aliases": [
+        "1. FC Heidenheim 1846",
+        "Heidenheim",
+        "海登咸",
+        "海登海姆"
+      ]
+    },
+    {
+      "id": "fb_1_fc_k_ln",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "1. FC Köln",
+      "translations": {
+        "zh-Hans": "科隆",
+        "zh-Hant": "科隆",
+        "en": "FC Köln",
+        "ja": "1.FCケルン",
+        "es": "Colonia"
+      },
+      "aliases": [
+        "1. FC Koln",
+        "1. FC Köln",
+        "FC Köln",
+        "Koln",
+        "科隆"
+      ]
+    },
+    {
+      "id": "fb_1_fc_union_berlin",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "1. FC Union Berlin",
+      "translations": {
+        "zh-Hans": "柏林联合",
+        "zh-Hant": "柏林聯",
+        "en": "Union Berlin",
+        "ja": "1.FCウニオン・ベルリン",
+        "es": "Unión Berlín"
+      },
+      "aliases": [
+        "1. FC Union Berlin",
+        "Union Berlin",
+        "柏林联合",
+        "柏林聯"
+      ]
+    },
+    {
+      "id": "fb_1_fsv_mainz_05",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "1. FSV Mainz 05",
+      "translations": {
+        "zh-Hans": "美因茨",
+        "zh-Hant": "緬恩斯",
+        "en": "Mainz 05",
+        "ja": "1.FSVマインツ05",
+        "es": "Maguncia"
+      },
+      "aliases": [
+        "1. FSV Mainz 05",
+        "Mainz",
+        "Mainz 05",
+        "緬恩斯",
+        "美因茨"
+      ]
+    },
+    {
+      "id": "fb_2_de_mayo",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "2 de Mayo",
+      "translations": {
+        "zh-Hans": "五月二日",
+        "zh-Hant": "五月二日",
+        "en": "2 de Mayo",
+        "ja": "2・デ・マヨ",
+        "es": "2 de Mayo"
+      },
+      "aliases": [
+        "2 de Mayo",
+        "五月二日"
+      ]
+    },
+    {
+      "id": "fb_aa_argentinos_juniors",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "AA Argentinos Juniors",
+      "translations": {
+        "zh-Hans": "阿根廷青年人",
+        "zh-Hant": "小阿根廷人",
+        "en": "Argentinos Juniors",
+        "ja": "AAアルヘンティノス・ジュニアーズ",
+        "es": "Argentinos Juniors"
+      },
+      "aliases": [
+        "AA Argentinos Juniors",
+        "Argentinos Juniors",
+        "小阿根廷人",
+        "阿根廷青年人"
+      ]
+    },
+    {
+      "id": "fb_ac_milan",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "AC Milan",
+      "translations": {
+        "zh-Hans": "AC米兰",
+        "zh-Hant": "AC米蘭",
+        "en": "AC Milan",
+        "ja": "ACミラン",
+        "es": "AC Milan"
+      },
+      "aliases": [
+        "AC Milan",
+        "AC米兰",
+        "AC米蘭",
+        "Milan",
+        "红黑军团"
+      ]
+    },
+    {
+      "id": "fb_ac_monza",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "AC Monza",
+      "translations": {
+        "zh-Hans": "蒙扎",
+        "zh-Hant": "蒙沙",
+        "en": "Monza",
+        "ja": "ACモンツァ",
+        "es": "Monza"
+      },
+      "aliases": [
+        "AC Monza",
+        "Monza",
+        "蒙扎",
+        "蒙沙"
+      ]
+    },
+    {
+      "id": "fb_ac_pisa_1909",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "AC Pisa 1909",
+      "translations": {
+        "zh-Hans": "比萨",
+        "zh-Hant": "比薩",
+        "en": "Pisa",
+        "ja": "ACピサ1909",
+        "es": "Pisa"
+      },
+      "aliases": [
+        "AC Pisa 1909",
+        "Pisa",
+        "比萨",
+        "比薩"
+      ]
+    },
+    {
+      "id": "fb_acf_fiorentina",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "ACF Fiorentina",
+      "translations": {
+        "zh-Hans": "佛罗伦萨",
+        "zh-Hant": "費倫天拿",
+        "en": "Fiorentina",
+        "ja": "ACFフィオレンティーナ",
+        "es": "Fiorentina"
+      },
+      "aliases": [
+        "ACF Fiorentina",
+        "Fiorentina",
+        "佛罗伦萨",
+        "紫百合",
+        "費倫天拿"
+      ]
+    },
+    {
+      "id": "fb_ado_den_haag",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "ADO Den Haag",
+      "translations": {
+        "zh-Hans": "海牙",
+        "zh-Hant": "海牙",
+        "en": "ADO Den Haag",
+        "ja": "ADOデン・ハーグ",
+        "es": "ADO Den Haag"
+      },
+      "aliases": [
+        "ADO Den Haag",
+        "Den Haag",
+        "海牙"
+      ]
+    },
+    {
+      "id": "fb_afc_ajax",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "AFC Ajax",
+      "translations": {
+        "zh-Hans": "阿贾克斯",
+        "zh-Hant": "阿積士",
+        "en": "Ajax",
+        "ja": "アヤックス",
+        "es": "Ajax"
+      },
+      "aliases": [
+        "AFC Ajax",
+        "Ajax",
+        "阿積士",
+        "阿贾克斯"
+      ]
+    },
+    {
+      "id": "fb_afc_bournemouth",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "AFC Bournemouth",
+      "translations": {
+        "zh-Hans": "伯恩茅斯",
+        "zh-Hant": "般尼茅夫",
+        "en": "Bournemouth",
+        "ja": "ボーンマス",
+        "es": "Bournemouth"
+      },
+      "aliases": [
+        "AFC Bournemouth",
+        "Bournemouth",
+        "伯恩茅斯",
+        "般尼茅夫"
+      ]
+    },
+    {
+      "id": "fb_aj_auxerre",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "AJ Auxerre",
+      "translations": {
+        "zh-Hans": "欧塞尔",
+        "zh-Hant": "歐塞爾",
+        "en": "Auxerre",
+        "ja": "AJオセール",
+        "es": "Auxerre"
+      },
+      "aliases": [
+        "AJ Auxerre",
+        "Auxerre",
+        "欧塞尔",
+        "歐塞爾"
+      ]
+    },
+    {
+      "id": "fb_as_monaco_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "AS Monaco FC",
+      "translations": {
+        "zh-Hans": "摩纳哥",
+        "zh-Hant": "摩納哥",
+        "en": "Monaco",
+        "ja": "ASモナコ",
+        "es": "Mónaco"
+      },
+      "aliases": [
+        "AS Monaco FC",
+        "Monaco",
+        "摩納哥",
+        "摩纳哥"
+      ]
+    },
+    {
+      "id": "fb_as_roma",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "AS Roma",
+      "translations": {
+        "zh-Hans": "罗马",
+        "zh-Hant": "羅馬",
+        "en": "AS Roma",
+        "ja": "ASローマ",
+        "es": "AS Roma"
+      },
+      "aliases": [
+        "AS Roma",
+        "Roma",
+        "红狼",
+        "罗马",
+        "羅馬"
+      ]
+    },
+    {
+      "id": "fb_avs",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "AVS",
+      "translations": {
+        "zh-Hans": "AVS俱乐部",
+        "zh-Hant": "AVS體育會",
+        "en": "AVS",
+        "ja": "AVSフトボル",
+        "es": "AVS"
+      },
+      "aliases": [
+        "AVS",
+        "AVS Futebol",
+        "AVS俱乐部",
+        "AVS體育會"
+      ]
+    },
+    {
+      "id": "fb_az",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "AZ",
+      "translations": {
+        "zh-Hans": "阿尔克马尔",
+        "zh-Hant": "阿爾克馬爾",
+        "en": "AZ Alkmaar",
+        "ja": "AZアルクマール",
+        "es": "AZ Alkmaar"
+      },
+      "aliases": [
+        "AZ",
+        "AZ Alkmaar",
+        "阿尔克马尔",
+        "阿爾克馬爾"
+      ]
+    },
+    {
+      "id": "fb_acad_mico_de_viseu_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Académico de Viseu FC",
+      "translations": {
+        "zh-Hans": "维塞乌学院",
+        "zh-Hant": "維塞烏學院",
+        "en": "Académico de Viseu",
+        "ja": "アカデミコ・デ・ヴィゼウFC",
+        "es": "Académico de Viseu"
+      },
+      "aliases": [
+        "Academico de Viseu",
+        "Académico de Viseu",
+        "Académico de Viseu FC",
+        "維塞烏學院",
+        "维塞乌学院"
+      ]
+    },
+    {
+      "id": "fb_algeria",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Algeria",
+      "translations": {
+        "zh-Hans": "阿尔及利亚",
+        "zh-Hant": "阿爾及利亞",
+        "en": "Algeria",
+        "ja": "アルジェリア",
+        "es": "Argelia"
+      },
+      "aliases": [
+        "Algeria",
+        "阿尔及利亚",
+        "阿爾及利亞"
+      ]
+    },
+    {
+      "id": "fb_angers_sco",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Angers SCO",
+      "translations": {
+        "zh-Hans": "昂热",
+        "zh-Hant": "昂熱",
+        "en": "Angers",
+        "ja": "アンジェSCO",
+        "es": "Angers"
+      },
+      "aliases": [
+        "Angers",
+        "Angers SCO",
+        "昂热",
+        "昂熱"
+      ]
+    },
+    {
+      "id": "fb_argentina",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Argentina",
+      "translations": {
+        "zh-Hans": "阿根廷",
+        "zh-Hant": "阿根廷",
+        "en": "Argentina",
+        "ja": "アルゼンチン",
+        "es": "Argentina"
+      },
+      "aliases": [
+        "Argentina",
+        "阿根廷"
+      ]
+    },
+    {
+      "id": "fb_arsenal_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Arsenal FC",
+      "translations": {
+        "zh-Hans": "阿森纳",
+        "zh-Hant": "阿仙奴",
+        "en": "Arsenal",
+        "ja": "アーセナル",
+        "es": "Arsenal"
+      },
+      "aliases": [
+        "Arsenal",
+        "Arsenal FC",
+        "枪手",
+        "阿仙奴",
+        "阿森纳"
+      ]
+    },
+    {
+      "id": "fb_aston_villa_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Aston Villa FC",
+      "translations": {
+        "zh-Hans": "阿斯顿维拉",
+        "zh-Hant": "阿士東維拉",
+        "en": "Aston Villa",
+        "ja": "アストン・ヴィラ",
+        "es": "Aston Villa"
+      },
+      "aliases": [
+        "Aston Villa",
+        "Aston Villa FC",
+        "维拉",
+        "阿士東維拉",
+        "阿斯顿维拉"
+      ]
+    },
+    {
+      "id": "fb_atalanta_bc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Atalanta BC",
+      "translations": {
+        "zh-Hans": "亚特兰大",
+        "zh-Hant": "阿特蘭大",
+        "en": "Atalanta",
+        "ja": "アタランタBC",
+        "es": "Atalanta"
+      },
+      "aliases": [
+        "Atalanta",
+        "Atalanta BC",
+        "亚特兰大",
+        "真蓝黑",
+        "阿特蘭大"
+      ]
+    },
+    {
+      "id": "fb_athletic_club",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Athletic Club",
+      "translations": {
+        "zh-Hans": "毕尔巴鄂竞技",
+        "zh-Hant": "畢爾包",
+        "en": "Athletic Club",
+        "ja": "アスレティック・ビルバオ",
+        "es": "Athletic Club"
+      },
+      "aliases": [
+        "Athletic Bilbao",
+        "Athletic Club",
+        "毕尔巴鄂竞技",
+        "畢爾包"
+      ]
+    },
+    {
+      "id": "fb_australia",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Australia",
+      "translations": {
+        "zh-Hans": "澳大利亚",
+        "zh-Hant": "澳洲",
+        "en": "Australia",
+        "ja": "オーストラリア",
+        "es": "Australia"
+      },
+      "aliases": [
+        "Australia",
+        "澳大利亚",
+        "澳洲"
+      ]
+    },
+    {
+      "id": "fb_austria",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Austria",
+      "translations": {
+        "zh-Hans": "奥地利",
+        "zh-Hant": "奧地利",
+        "en": "Austria",
+        "ja": "オーストリア",
+        "es": "Austria"
+      },
+      "aliases": [
+        "Austria",
+        "奥地利",
+        "奧地利"
+      ]
+    },
+    {
+      "id": "fb_barcelona_sc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Barcelona SC",
+      "translations": {
+        "zh-Hans": "巴塞罗那SC",
+        "zh-Hant": "巴塞隆拿SC",
+        "en": "Barcelona SC",
+        "ja": "バルセロナSC",
+        "es": "Barcelona SC"
+      },
+      "aliases": [
+        "Barcelona SC",
+        "厄瓜多尔巴塞罗那",
+        "巴塞罗那SC",
+        "巴塞隆拿SC"
+      ]
+    },
+    {
+      "id": "fb_bayer_04_leverkusen",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Bayer 04 Leverkusen",
+      "translations": {
+        "zh-Hans": "勒沃库森",
+        "zh-Hant": "利華古遜",
+        "en": "Bayer Leverkusen",
+        "ja": "バイエル・レバークーゼン",
+        "es": "Bayer Leverkusen"
+      },
+      "aliases": [
+        "Bayer 04 Leverkusen",
+        "Bayer Leverkusen",
+        "Leverkusen",
+        "利華古遜",
+        "勒沃库森",
+        "药厂"
+      ]
+    },
+    {
+      "id": "fb_belgium",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Belgium",
+      "translations": {
+        "zh-Hans": "比利时",
+        "zh-Hant": "比利時",
+        "en": "Belgium",
+        "ja": "ベルギー",
+        "es": "Bélgica"
+      },
+      "aliases": [
+        "Belgium",
+        "比利时",
+        "比利時"
+      ]
+    },
+    {
+      "id": "fb_birmingham_city_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Birmingham City FC",
+      "translations": {
+        "zh-Hans": "伯明翰",
+        "zh-Hant": "伯明翰",
+        "en": "Birmingham City",
+        "ja": "バーミンガム・シティ",
+        "es": "Birmingham City"
+      },
+      "aliases": [
+        "Birmingham City",
+        "Birmingham City FC",
+        "伯明翰"
+      ]
+    },
+    {
+      "id": "fb_blackburn_rovers_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Blackburn Rovers FC",
+      "translations": {
+        "zh-Hans": "布莱克本",
+        "zh-Hant": "布力般流浪",
+        "en": "Blackburn Rovers",
+        "ja": "ブラックバーン・ローヴァーズ",
+        "es": "Blackburn Rovers"
+      },
+      "aliases": [
+        "Blackburn Rovers",
+        "Blackburn Rovers FC",
+        "布力般流浪",
+        "布莱克本"
+      ]
+    },
+    {
+      "id": "fb_bologna_fc_1909",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Bologna FC 1909",
+      "translations": {
+        "zh-Hans": "博洛尼亚",
+        "zh-Hant": "博洛尼亞",
+        "en": "Bologna",
+        "ja": "ボローニャFC1909",
+        "es": "Bologna"
+      },
+      "aliases": [
+        "Bologna",
+        "Bologna FC 1909",
+        "博洛尼亚",
+        "博洛尼亞"
+      ]
+    },
+    {
+      "id": "fb_bolton_wanderers_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Bolton Wanderers FC",
+      "translations": {
+        "zh-Hans": "博尔顿",
+        "zh-Hant": "保顿",
+        "en": "Bolton Wanderers",
+        "ja": "ボルトン・ワンダラーズ",
+        "es": "Bolton Wanderers"
+      },
+      "aliases": [
+        "Bolton",
+        "Bolton Wanderers",
+        "Bolton Wanderers FC",
+        "保顿",
+        "博尔顿"
+      ]
+    },
+    {
+      "id": "fb_borussia_dortmund",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Borussia Dortmund",
+      "translations": {
+        "zh-Hans": "多特蒙德",
+        "zh-Hant": "多蒙特",
+        "en": "Borussia Dortmund",
+        "ja": "ボルシア・ドルトムント",
+        "es": "Borussia Dortmund"
+      },
+      "aliases": [
+        "BVB",
+        "Borussia Dortmund",
+        "Dortmund",
+        "多特蒙德",
+        "多蒙特",
+        "大黄蜂"
+      ]
+    },
+    {
+      "id": "fb_borussia_m_nchengladbach",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Borussia Mönchengladbach",
+      "translations": {
+        "zh-Hans": "门兴格拉德巴赫",
+        "zh-Hant": "慕遜加柏",
+        "en": "Mönchengladbach",
+        "ja": "ボルシア・メンヒェングラートバッハ",
+        "es": "Borussia Mönchengladbach"
+      },
+      "aliases": [
+        "Borussia Mönchengladbach",
+        "Gladbach",
+        "Mönchengladbach",
+        "慕遜加柏",
+        "门兴",
+        "门兴格拉德巴赫"
+      ]
+    },
+    {
+      "id": "fb_bosnia_herzegovina",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Bosnia-Herzegovina",
+      "translations": {
+        "zh-Hans": "波黑",
+        "zh-Hant": "波斯尼亞",
+        "en": "Bosnia and Herzegovina",
+        "ja": "ボスニア・ヘルツェゴビナ",
+        "es": "Bosnia y Herzegovina"
+      },
+      "aliases": [
+        "Bosnia and Herzegovina",
+        "Bosnia-Herzegovina",
+        "波斯尼亚和黑塞哥维那",
+        "波斯尼亞",
+        "波黑"
+      ]
+    },
+    {
+      "id": "fb_botafogo_fr",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Botafogo FR",
+      "translations": {
+        "zh-Hans": "博塔弗戈",
+        "zh-Hant": "保地花高",
+        "en": "Botafogo",
+        "ja": "ボタフォゴ",
+        "es": "Botafogo"
+      },
+      "aliases": [
+        "Botafogo",
+        "Botafogo FR",
+        "保地花高",
+        "博塔弗戈"
+      ]
+    },
+    {
+      "id": "fb_brazil",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Brazil",
+      "translations": {
+        "zh-Hans": "巴西",
+        "zh-Hant": "巴西",
+        "en": "Brazil",
+        "ja": "ブラジル",
+        "es": "Brasil"
+      },
+      "aliases": [
+        "Brazil",
+        "巴西"
+      ]
+    },
+    {
+      "id": "fb_brentford_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Brentford FC",
+      "translations": {
+        "zh-Hans": "布伦特福德",
+        "zh-Hant": "賓福特",
+        "en": "Brentford",
+        "ja": "ブレントフォード",
+        "es": "Brentford"
+      },
+      "aliases": [
+        "Brentford",
+        "Brentford FC",
+        "小蜜蜂",
+        "布伦特福德",
+        "賓福特"
+      ]
+    },
+    {
+      "id": "fb_brighton_hove_albion_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Brighton & Hove Albion FC",
+      "translations": {
+        "zh-Hans": "布莱顿",
+        "zh-Hant": "白礼顿",
+        "en": "Brighton",
+        "ja": "ブライトン",
+        "es": "Brighton"
+      },
+      "aliases": [
+        "Brighton",
+        "Brighton & Hove Albion FC",
+        "布莱顿",
+        "海鸥",
+        "白礼顿"
+      ]
+    },
+    {
+      "id": "fb_bristol_city_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Bristol City FC",
+      "translations": {
+        "zh-Hans": "布里斯托尔城",
+        "zh-Hant": "布里斯托城",
+        "en": "Bristol City",
+        "ja": "ブリストル・シティ",
+        "es": "Bristol City"
+      },
+      "aliases": [
+        "Bristol City",
+        "Bristol City FC",
+        "布里斯托城",
+        "布里斯托尔城"
+      ]
+    },
+    {
+      "id": "fb_burnley_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Burnley FC",
+      "translations": {
+        "zh-Hans": "伯恩利",
+        "zh-Hant": "般尼",
+        "en": "Burnley",
+        "ja": "バーンリー",
+        "es": "Burnley"
+      },
+      "aliases": [
+        "Burnley",
+        "Burnley FC",
+        "伯恩利",
+        "般尼"
+      ]
+    },
+    {
+      "id": "fb_ca_boca_juniors",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CA Boca Juniors",
+      "translations": {
+        "zh-Hans": "博卡青年",
+        "zh-Hant": "小保加",
+        "en": "Boca Juniors",
+        "ja": "ボカ・ジュニアーズ",
+        "es": "Boca Juniors"
+      },
+      "aliases": [
+        "Boca",
+        "Boca Juniors",
+        "CA Boca Juniors",
+        "博卡青年",
+        "小保加"
+      ]
+    },
+    {
+      "id": "fb_ca_lan_s",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CA Lanús",
+      "translations": {
+        "zh-Hans": "拉努斯",
+        "zh-Hant": "拉魯斯",
+        "en": "Lanús",
+        "ja": "CAラヌース",
+        "es": "Lanús"
+      },
+      "aliases": [
+        "CA Lanús",
+        "Lanus",
+        "Lanús",
+        "拉努斯",
+        "拉魯斯"
+      ]
+    },
+    {
+      "id": "fb_ca_mineiro",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CA Mineiro",
+      "translations": {
+        "zh-Hans": "米内罗竞技",
+        "zh-Hant": "明尼路",
+        "en": "Atlético Mineiro",
+        "ja": "アトレチコ・ミネイロ",
+        "es": "Atlético Mineiro"
+      },
+      "aliases": [
+        "Atlético Mineiro",
+        "CA Mineiro",
+        "明尼路",
+        "米内罗竞技"
+      ]
+    },
+    {
+      "id": "fb_ca_osasuna",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CA Osasuna",
+      "translations": {
+        "zh-Hans": "奥萨苏纳",
+        "zh-Hant": "奧沙辛拿",
+        "en": "Osasuna",
+        "ja": "オサスナ",
+        "es": "Osasuna"
+      },
+      "aliases": [
+        "CA Osasuna",
+        "Osasuna",
+        "奥萨苏纳",
+        "奧沙辛拿"
+      ]
+    },
+    {
+      "id": "fb_ca_paranaense",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CA Paranaense",
+      "translations": {
+        "zh-Hans": "巴拉纳竞技",
+        "zh-Hant": "帕拉尼恩斯",
+        "en": "Athletico Paranaense",
+        "ja": "アトレチコ・パラナエンセ",
+        "es": "Athletico Paranaense"
+      },
+      "aliases": [
+        "Athletico Paranaense",
+        "CA Paranaense",
+        "巴拉纳竞技",
+        "帕拉尼恩斯"
+      ]
+    },
+    {
+      "id": "fb_ca_pe_arol",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CA Peñarol",
+      "translations": {
+        "zh-Hans": "佩纳罗尔",
+        "zh-Hant": "彭拿路",
+        "en": "Peñarol",
+        "ja": "CAペニャロール",
+        "es": "Peñarol"
+      },
+      "aliases": [
+        "CA Peñarol",
+        "Penarol",
+        "Peñarol",
+        "佩纳罗尔",
+        "彭拿路"
+      ]
+    },
+    {
+      "id": "fb_ca_platense",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CA Platense",
+      "translations": {
+        "zh-Hans": "普拉滕斯",
+        "zh-Hant": "普拉坦斯",
+        "en": "Platense",
+        "ja": "CAプラテンセ",
+        "es": "Platense"
+      },
+      "aliases": [
+        "CA Platense",
+        "Platense",
+        "普拉坦斯",
+        "普拉滕斯"
+      ]
+    },
+    {
+      "id": "fb_ca_river_plate",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CA River Plate",
+      "translations": {
+        "zh-Hans": "河床",
+        "zh-Hant": "河床",
+        "en": "River Plate",
+        "ja": "リーベル・プレート",
+        "es": "River Plate"
+      },
+      "aliases": [
+        "CA River Plate",
+        "River Plate",
+        "河床"
+      ]
+    },
+    {
+      "id": "fb_ca_rosario_central",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CA Rosario Central",
+      "translations": {
+        "zh-Hans": "罗萨里奥中央",
+        "zh-Hant": "羅沙里奧中央",
+        "en": "Rosario Central",
+        "ja": "CAロサリオ・セントラル",
+        "es": "Rosario Central"
+      },
+      "aliases": [
+        "CA Rosario Central",
+        "Rosario Central",
+        "罗萨里奥中央",
+        "羅沙里奧中央"
+      ]
+    },
+    {
+      "id": "fb_ca_v_lez_sarsfield",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CA Vélez Sarsfield",
+      "translations": {
+        "zh-Hans": "萨斯菲尔德",
+        "zh-Hant": "沙士菲",
+        "en": "Vélez Sarsfield",
+        "ja": "CAベレス・サルスフィエルド",
+        "es": "Vélez Sarsfield"
+      },
+      "aliases": [
+        "CA Vélez Sarsfield",
+        "Velez Sarsfield",
+        "Vélez Sarsfield",
+        "沙士菲",
+        "萨斯菲尔德"
+      ]
+    },
+    {
+      "id": "fb_car_independiente_del_valle",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CAR Independiente del Valle",
+      "translations": {
+        "zh-Hans": "山谷独立",
+        "zh-Hant": "迪華利獨立隊",
+        "en": "Independiente del Valle",
+        "ja": "インデペンディエンテ・デル・バジェ",
+        "es": "Independiente del Valle"
+      },
+      "aliases": [
+        "CAR Independiente del Valle",
+        "Independiente del Valle",
+        "山谷独立",
+        "迪華利獨立隊"
+      ]
+    },
+    {
+      "id": "fb_cd_coquimbo_unido",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CD Coquimbo Unido",
+      "translations": {
+        "zh-Hans": "科金博联合",
+        "zh-Hant": "哥金博",
+        "en": "Coquimbo Unido",
+        "ja": "CDコキンボ・ウニド",
+        "es": "Coquimbo Unido"
+      },
+      "aliases": [
+        "CD Coquimbo Unido",
+        "Coquimbo Unido",
+        "哥金博",
+        "科金博联合"
+      ]
+    },
+    {
+      "id": "fb_cd_huachipato",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CD Huachipato",
+      "translations": {
+        "zh-Hans": "瓦奇帕托",
+        "zh-Hant": "華奇巴托",
+        "en": "Huachipato",
+        "ja": "CDウアチパト",
+        "es": "Huachipato"
+      },
+      "aliases": [
+        "CD Huachipato",
+        "Huachipato",
+        "瓦奇帕托",
+        "華奇巴托"
+      ]
+    },
+    {
+      "id": "fb_cd_independiente_medell_n",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CD Independiente Medellín",
+      "translations": {
+        "zh-Hans": "麦德林独立",
+        "zh-Hant": "麥德林獨立",
+        "en": "Independiente Medellín",
+        "ja": "インデペンディエンテ・メデジン",
+        "es": "Independiente Medellín"
+      },
+      "aliases": [
+        "CD Independiente Medellín",
+        "Independiente Medellin",
+        "Independiente Medellín",
+        "麥德林獨立",
+        "麦德林独立"
+      ]
+    },
+    {
+      "id": "fb_cd_nacional",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CD Nacional",
+      "translations": {
+        "zh-Hans": "马德拉国民",
+        "zh-Hant": "國民隊",
+        "en": "Nacional da Madeira",
+        "ja": "CDナシオナル",
+        "es": "Nacional"
+      },
+      "aliases": [
+        "CD Nacional",
+        "Nacional",
+        "Nacional da Madeira",
+        "國民隊",
+        "马德拉国民"
+      ]
+    },
+    {
+      "id": "fb_cd_santa_clara",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CD Santa Clara",
+      "translations": {
+        "zh-Hans": "圣克拉拉",
+        "zh-Hant": "辛達卡拉",
+        "en": "Santa Clara",
+        "ja": "CDサンタ・クララ",
+        "es": "Santa Clara"
+      },
+      "aliases": [
+        "CD Santa Clara",
+        "Santa Clara",
+        "圣克拉拉",
+        "辛達卡拉"
+      ]
+    },
+    {
+      "id": "fb_cd_tolima",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CD Tolima",
+      "translations": {
+        "zh-Hans": "托利马体育",
+        "zh-Hant": "杜利馬",
+        "en": "Deportes Tolima",
+        "ja": "CDトリマ",
+        "es": "Deportes Tolima"
+      },
+      "aliases": [
+        "CD Tolima",
+        "Deportes Tolima",
+        "托利马体育",
+        "杜利馬"
+      ]
+    },
+    {
+      "id": "fb_cd_tondela",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CD Tondela",
+      "translations": {
+        "zh-Hans": "通德拉",
+        "zh-Hant": "唐迪拉",
+        "en": "Tondela",
+        "ja": "CDトンデラ",
+        "es": "Tondela"
+      },
+      "aliases": [
+        "CD Tondela",
+        "Tondela",
+        "唐迪拉",
+        "通德拉"
+      ]
+    },
+    {
+      "id": "fb_cd_universidad_cat_lica",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CD Universidad Católica",
+      "translations": {
+        "zh-Hans": "天主教大学",
+        "zh-Hant": "天主教大學",
+        "en": "Universidad Católica",
+        "ja": "ウニベルシダ・カトリカ",
+        "es": "Universidad Católica"
+      },
+      "aliases": [
+        "CD Universidad Católica",
+        "Universidad Catolica",
+        "Universidad Católica",
+        "天主教大学",
+        "天主教大學",
+        "智利天主教大学"
+      ]
+    },
+    {
+      "id": "fb_cdc_atl_tico_nacional",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CDC Atlético Nacional",
+      "translations": {
+        "zh-Hans": "国民竞技",
+        "zh-Hant": "國民體育會",
+        "en": "Atlético Nacional",
+        "ja": "アトレティコ・ナシオナル",
+        "es": "Atlético Nacional"
+      },
+      "aliases": [
+        "Atletico Nacional",
+        "Atlético Nacional",
+        "CDC Atlético Nacional",
+        "国民竞技",
+        "國民體育會"
+      ]
+    },
+    {
+      "id": "fb_cdp_junior_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CDP Junior FC",
+      "translations": {
+        "zh-Hans": "巴兰基亚青年",
+        "zh-Hant": "青年體育會",
+        "en": "Junior FC",
+        "ja": "ジュニオールFC",
+        "es": "Junior de Barranquilla"
+      },
+      "aliases": [
+        "CDP Junior FC",
+        "Junior FC",
+        "巴兰基亚青年",
+        "青年體育會"
+      ]
+    },
+    {
+      "id": "fb_cf_estrela_da_amadora",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CF Estrela da Amadora",
+      "translations": {
+        "zh-Hans": "阿马多拉之星",
+        "zh-Hant": "阿馬多拉之星",
+        "en": "Estrela da Amadora",
+        "ja": "CFエストレラ・アマドーラ",
+        "es": "Estrela da Amadora"
+      },
+      "aliases": [
+        "CF Estrela da Amadora",
+        "Estrela da Amadora",
+        "阿馬多拉之星",
+        "阿马多拉之星"
+      ]
+    },
+    {
+      "id": "fb_cr_flamengo",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CR Flamengo",
+      "translations": {
+        "zh-Hans": "弗拉门戈",
+        "zh-Hant": "法林明高",
+        "en": "Flamengo",
+        "ja": "フラメンゴ",
+        "es": "Flamengo"
+      },
+      "aliases": [
+        "CR Flamengo",
+        "Flamengo",
+        "弗拉门戈",
+        "法林明高"
+      ]
+    },
+    {
+      "id": "fb_cr_vasco_da_gama",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CR Vasco da Gama",
+      "translations": {
+        "zh-Hans": "达伽马",
+        "zh-Hant": "華斯高",
+        "en": "Vasco da Gama",
+        "ja": "ヴァスコ・ダ・ガマ",
+        "es": "Vasco da Gama"
+      },
+      "aliases": [
+        "CR Vasco da Gama",
+        "Vasco da Gama",
+        "華斯高",
+        "达伽马"
+      ]
+    },
+    {
+      "id": "fb_cs_cristal",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CS Cristal",
+      "translations": {
+        "zh-Hans": "水晶体育",
+        "zh-Hant": "水晶體育",
+        "en": "Sporting Cristal",
+        "ja": "スポルティング・クリスタル",
+        "es": "Sporting Cristal"
+      },
+      "aliases": [
+        "CS Cristal",
+        "Sporting Cristal",
+        "水晶体育",
+        "水晶體育"
+      ]
+    },
+    {
+      "id": "fb_cs_independiente_rivadavia",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CS Independiente Rivadavia",
+      "translations": {
+        "zh-Hans": "里瓦达维亚独立",
+        "zh-Hant": "利瓦達維亞獨立",
+        "en": "Independiente Rivadavia",
+        "ja": "インデペンディエンテ・リバダビア",
+        "es": "Independiente Rivadavia"
+      },
+      "aliases": [
+        "CS Independiente Rivadavia",
+        "Independiente Rivadavia",
+        "利瓦達維亞獨立",
+        "里瓦达维亚独立"
+      ]
+    },
+    {
+      "id": "fb_cs_mar_timo",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "CS Marítimo",
+      "translations": {
+        "zh-Hans": "马里蒂莫",
+        "zh-Hant": "馬里迪莫",
+        "en": "Marítimo",
+        "ja": "CSマリティモ",
+        "es": "Marítimo"
+      },
+      "aliases": [
+        "CS Marítimo",
+        "Maritimo",
+        "Marítimo",
+        "馬里迪莫",
+        "马里蒂莫"
+      ]
+    },
+    {
+      "id": "fb_cagliari_calcio",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Cagliari Calcio",
+      "translations": {
+        "zh-Hans": "卡利亚里",
+        "zh-Hant": "卡利亞里",
+        "en": "Cagliari",
+        "ja": "カリアリ・カルチョ",
+        "es": "Cagliari"
+      },
+      "aliases": [
+        "Cagliari",
+        "Cagliari Calcio",
+        "卡利亚里",
+        "卡利亞里"
+      ]
+    },
+    {
+      "id": "fb_canada",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Canada",
+      "translations": {
+        "zh-Hans": "加拿大",
+        "zh-Hant": "加拿大",
+        "en": "Canada",
+        "ja": "カナダ",
+        "es": "Canadá"
+      },
+      "aliases": [
+        "Canada",
+        "加拿大"
+      ]
+    },
+    {
+      "id": "fb_cape_verde_islands",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Cape Verde Islands",
+      "translations": {
+        "zh-Hans": "佛得角",
+        "zh-Hant": "佛得角",
+        "en": "Cape Verde",
+        "ja": "カーボベルデ",
+        "es": "Cabo Verde"
+      },
+      "aliases": [
+        "Cabo Verde",
+        "Cape Verde",
+        "Cape Verde Islands",
+        "佛得角"
+      ]
+    },
+    {
+      "id": "fb_carabobo_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Carabobo FC",
+      "translations": {
+        "zh-Hans": "卡拉波波",
+        "zh-Hant": "卡拉波波",
+        "en": "Carabobo",
+        "ja": "カラボボFC",
+        "es": "Carabobo"
+      },
+      "aliases": [
+        "Carabobo",
+        "Carabobo FC",
+        "卡拉波波"
+      ]
+    },
+    {
+      "id": "fb_cardiff_city_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Cardiff City FC",
+      "translations": {
+        "zh-Hans": "卡迪夫城",
+        "zh-Hant": "卡迪夫城",
+        "en": "Cardiff City",
+        "ja": "カーディフ・シティ",
+        "es": "Cardiff City"
+      },
+      "aliases": [
+        "Cardiff City",
+        "Cardiff City FC",
+        "卡迪夫城"
+      ]
+    },
+    {
+      "id": "fb_casa_pia_ac",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Casa Pia AC",
+      "translations": {
+        "zh-Hans": "卡萨皮亚",
+        "zh-Hant": "卡薩比亞",
+        "en": "Casa Pia",
+        "ja": "カーザ・ピアAC",
+        "es": "Casa Pia"
+      },
+      "aliases": [
+        "Casa Pia",
+        "Casa Pia AC",
+        "卡萨皮亚",
+        "卡薩比亞"
+      ]
+    },
+    {
+      "id": "fb_cear_sc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Ceará SC",
+      "translations": {
+        "zh-Hans": "塞阿拉",
+        "zh-Hant": "施亞拉",
+        "en": "Ceará",
+        "ja": "セアラー",
+        "es": "Ceará"
+      },
+      "aliases": [
+        "Ceara",
+        "Ceará",
+        "Ceará SC",
+        "塞阿拉",
+        "施亞拉"
+      ]
+    },
+    {
+      "id": "fb_chapecoense_af",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Chapecoense AF",
+      "translations": {
+        "zh-Hans": "沙佩科恩斯",
+        "zh-Hant": "查比高恩斯",
+        "en": "Chapecoense",
+        "ja": "シャペコエンセ",
+        "es": "Chapecoense"
+      },
+      "aliases": [
+        "Chapecoense",
+        "Chapecoense AF",
+        "查比高恩斯",
+        "沙佩科恩斯"
+      ]
+    },
+    {
+      "id": "fb_charlton_athletic_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Charlton Athletic FC",
+      "translations": {
+        "zh-Hans": "查尔顿竞技",
+        "zh-Hant": "查尔顿",
+        "en": "Charlton Athletic",
+        "ja": "チャールトン・アスレティック",
+        "es": "Charlton Athletic"
+      },
+      "aliases": [
+        "Charlton",
+        "Charlton Athletic",
+        "Charlton Athletic FC",
+        "查尔顿",
+        "查尔顿竞技"
+      ]
+    },
+    {
+      "id": "fb_chelsea_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Chelsea FC",
+      "translations": {
+        "zh-Hans": "切尔西",
+        "zh-Hant": "車路士",
+        "en": "Chelsea",
+        "ja": "チェルシー",
+        "es": "Chelsea"
+      },
+      "aliases": [
+        "Chelsea",
+        "Chelsea FC",
+        "切尔西",
+        "蓝军",
+        "車路士"
+      ]
+    },
+    {
+      "id": "fb_club_alianza_lima",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Club Alianza Lima",
+      "translations": {
+        "zh-Hans": "利马联盟",
+        "zh-Hant": "利馬聯",
+        "en": "Alianza Lima",
+        "ja": "アリアンサ・リマ",
+        "es": "Alianza Lima"
+      },
+      "aliases": [
+        "Alianza Lima",
+        "Club Alianza Lima",
+        "利馬聯",
+        "利马联盟"
+      ]
+    },
+    {
+      "id": "fb_club_always_ready",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Club Always Ready",
+      "translations": {
+        "zh-Hans": "随时准备",
+        "zh-Hant": "常備隊",
+        "en": "Always Ready",
+        "ja": "オールウェイズ・レディ",
+        "es": "Always Ready"
+      },
+      "aliases": [
+        "Always Ready",
+        "Club Always Ready",
+        "常備隊",
+        "随时准备"
+      ]
+    },
+    {
+      "id": "fb_club_atl_tico_de_madrid",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Club Atlético de Madrid",
+      "translations": {
+        "zh-Hans": "马德里竞技",
+        "zh-Hant": "馬德里體育會",
+        "en": "Atlético Madrid",
+        "ja": "アトレティコ・マドリード",
+        "es": "Atlético de Madrid"
+      },
+      "aliases": [
+        "Atletico Madrid",
+        "Atlético Madrid",
+        "Club Atlético de Madrid",
+        "馬德里體育會",
+        "马德里竞技",
+        "马竞"
+      ]
+    },
+    {
+      "id": "fb_club_bol_var",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Club Bolívar",
+      "translations": {
+        "zh-Hans": "玻利瓦尔",
+        "zh-Hant": "玻利瓦爾",
+        "en": "Club Bolívar",
+        "ja": "クラブ・ボリバル",
+        "es": "Bolívar"
+      },
+      "aliases": [
+        "Bolivar",
+        "Club Bolívar",
+        "玻利瓦尔",
+        "玻利瓦爾"
+      ]
+    },
+    {
+      "id": "fb_club_brugge_kv",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Club Brugge KV",
+      "translations": {
+        "zh-Hans": "布鲁日",
+        "zh-Hant": "布魯日",
+        "en": "Club Brugge",
+        "ja": "クラブ・ブルッヘ",
+        "es": "Club Brujas"
+      },
+      "aliases": [
+        "Club Brugge",
+        "Club Brugge KV",
+        "布魯日",
+        "布鲁日"
+      ]
+    },
+    {
+      "id": "fb_club_cerro_porte_o",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Club Cerro Porteño",
+      "translations": {
+        "zh-Hans": "波特诺山丘",
+        "zh-Hant": "波特諾山丘",
+        "en": "Cerro Porteño",
+        "ja": "セロ・ポルテーニョ",
+        "es": "Cerro Porteño"
+      },
+      "aliases": [
+        "Cerro Porteno",
+        "Cerro Porteño",
+        "Club Cerro Porteño",
+        "波特諾山丘",
+        "波特诺山丘"
+      ]
+    },
+    {
+      "id": "fb_club_guaran",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Club Guaraní",
+      "translations": {
+        "zh-Hans": "瓜拉尼",
+        "zh-Hant": "瓜拉尼",
+        "en": "Club Guaraní",
+        "ja": "クラブ・グアラニ",
+        "es": "Guaraní"
+      },
+      "aliases": [
+        "Club Guaraní",
+        "Guarani",
+        "瓜拉尼"
+      ]
+    },
+    {
+      "id": "fb_club_libertad_asuncion",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Club Libertad Asuncion",
+      "translations": {
+        "zh-Hans": "亚松森自由",
+        "zh-Hant": "自由隊",
+        "en": "Libertad Asunción",
+        "ja": "クラブ・リベルタ",
+        "es": "Libertad"
+      },
+      "aliases": [
+        "Club Libertad Asuncion",
+        "Libertad",
+        "Libertad Asunción",
+        "亚松森自由",
+        "自由隊"
+      ]
+    },
+    {
+      "id": "fb_club_nacional_potos",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Club Nacional Potosí",
+      "translations": {
+        "zh-Hans": "波托西国民",
+        "zh-Hant": "普托斯國民",
+        "en": "Nacional Potosí",
+        "ja": "ナシオナル・ポトシ",
+        "es": "Nacional Potosí"
+      },
+      "aliases": [
+        "Club Nacional Potosí",
+        "Nacional Potosi",
+        "Nacional Potosí",
+        "普托斯國民",
+        "波托西国民"
+      ]
+    },
+    {
+      "id": "fb_club_nacional_de_football",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Club Nacional de Football",
+      "translations": {
+        "zh-Hans": "乌拉圭民族",
+        "zh-Hant": "蒙特維多國民隊",
+        "en": "Nacional",
+        "ja": "クルブ・ナシオナル",
+        "es": "Nacional de Montevideo"
+      },
+      "aliases": [
+        "Club Nacional de Football",
+        "Nacional",
+        "乌拉圭民族",
+        "蒙特維多國民隊"
+      ]
+    },
+    {
+      "id": "fb_club_the_strongest",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Club The Strongest",
+      "translations": {
+        "zh-Hans": "最强者",
+        "zh-Hant": "最強者",
+        "en": "The Strongest",
+        "ja": "ザ・ストロンゲスト",
+        "es": "The Strongest"
+      },
+      "aliases": [
+        "Club The Strongest",
+        "The Strongest",
+        "最強者",
+        "最强者"
+      ]
+    },
+    {
+      "id": "fb_club_universitario_de_deportes",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Club Universitario de Deportes",
+      "translations": {
+        "zh-Hans": "秘鲁体育大学",
+        "zh-Hant": "秘魯體育大學",
+        "en": "Universitario",
+        "ja": "ウニベルシタリオ",
+        "es": "Universitario de Deportes"
+      },
+      "aliases": [
+        "Club Universitario de Deportes",
+        "Universitario",
+        "秘魯體育大學",
+        "秘鲁体育大学"
+      ]
+    },
+    {
+      "id": "fb_clube_do_remo",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Clube do Remo",
+      "translations": {
+        "zh-Hans": "雷莫",
+        "zh-Hant": "雷莫",
+        "en": "Remo",
+        "ja": "クルーベ・ド・レモ",
+        "es": "Remo"
+      },
+      "aliases": [
+        "Clube do Remo",
+        "Remo",
+        "雷莫"
+      ]
+    },
+    {
+      "id": "fb_colombia",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Colombia",
+      "translations": {
+        "zh-Hans": "哥伦比亚",
+        "zh-Hant": "哥倫比亞",
+        "en": "Colombia",
+        "ja": "コロンビア",
+        "es": "Colombia"
+      },
+      "aliases": [
+        "Colombia",
+        "哥伦比亚",
+        "哥倫比亞"
+      ]
+    },
+    {
+      "id": "fb_como_1907",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Como 1907",
+      "translations": {
+        "zh-Hans": "科莫",
+        "zh-Hant": "高莫",
+        "en": "Como",
+        "ja": "コモ1907",
+        "es": "Como"
+      },
+      "aliases": [
+        "Como",
+        "Como 1907",
+        "科莫",
+        "高莫"
+      ]
+    },
+    {
+      "id": "fb_congo_dr",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Congo DR",
+      "translations": {
+        "zh-Hans": "民主刚果",
+        "zh-Hant": "剛果民主共和國",
+        "en": "DR Congo",
+        "ja": "コンゴ民主共和国",
+        "es": "RD del Congo"
+      },
+      "aliases": [
+        "Congo DR",
+        "DR Congo",
+        "刚果金",
+        "剛果民主共和國",
+        "民主刚果"
+      ]
+    },
+    {
+      "id": "fb_coritiba_fbc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Coritiba FBC",
+      "translations": {
+        "zh-Hans": "科里蒂巴",
+        "zh-Hant": "哥列迪巴",
+        "en": "Coritiba",
+        "ja": "コリチーバ",
+        "es": "Coritiba"
+      },
+      "aliases": [
+        "Coritiba",
+        "Coritiba FBC",
+        "哥列迪巴",
+        "科里蒂巴"
+      ]
+    },
+    {
+      "id": "fb_coventry_city_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Coventry City FC",
+      "translations": {
+        "zh-Hans": "考文垂",
+        "zh-Hant": "高云地利",
+        "en": "Coventry City",
+        "ja": "コヴェントリー・シティ",
+        "es": "Coventry City"
+      },
+      "aliases": [
+        "Coventry City",
+        "Coventry City FC",
+        "考文垂",
+        "高云地利"
+      ]
+    },
+    {
+      "id": "fb_croatia",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Croatia",
+      "translations": {
+        "zh-Hans": "克罗地亚",
+        "zh-Hant": "克羅地亞",
+        "en": "Croatia",
+        "ja": "クロアチア",
+        "es": "Croacia"
+      },
+      "aliases": [
+        "Croatia",
+        "克罗地亚",
+        "克羅地亞"
+      ]
+    },
+    {
+      "id": "fb_cruzeiro_ec",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Cruzeiro EC",
+      "translations": {
+        "zh-Hans": "克鲁塞罗",
+        "zh-Hant": "高士路",
+        "en": "Cruzeiro",
+        "ja": "クルゼイロ",
+        "es": "Cruzeiro"
+      },
+      "aliases": [
+        "Cruzeiro",
+        "Cruzeiro EC",
+        "克鲁塞罗",
+        "高士路"
+      ]
+    },
+    {
+      "id": "fb_crystal_palace_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Crystal Palace FC",
+      "translations": {
+        "zh-Hans": "水晶宫",
+        "zh-Hant": "水晶宮",
+        "en": "Crystal Palace",
+        "ja": "クリスタル・パレス",
+        "es": "Crystal Palace"
+      },
+      "aliases": [
+        "Crystal Palace",
+        "Crystal Palace FC",
+        "水晶宫",
+        "水晶宮"
+      ]
+    },
+    {
+      "id": "fb_cura_ao",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Curaçao",
+      "translations": {
+        "zh-Hans": "库拉索",
+        "zh-Hant": "庫拉索",
+        "en": "Curaçao",
+        "ja": "キュラソー",
+        "es": "Curazao"
+      },
+      "aliases": [
+        "Curacao",
+        "Curaçao",
+        "库拉索",
+        "庫拉索"
+      ]
+    },
+    {
+      "id": "fb_cusco_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Cusco FC",
+      "translations": {
+        "zh-Hans": "库斯科",
+        "zh-Hant": "庫斯科",
+        "en": "Cusco FC",
+        "ja": "クスコFC",
+        "es": "Cusco FC"
+      },
+      "aliases": [
+        "Cusco",
+        "Cusco FC",
+        "库斯科",
+        "庫斯科"
+      ]
+    },
+    {
+      "id": "fb_czechia",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Czechia",
+      "translations": {
+        "zh-Hans": "捷克",
+        "zh-Hant": "捷克",
+        "en": "Czech Republic",
+        "ja": "チェコ",
+        "es": "Chequia"
+      },
+      "aliases": [
+        "Czech Republic",
+        "Czechia",
+        "捷克"
+      ]
+    },
+    {
+      "id": "fb_deportivo_alav_s",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Deportivo Alavés",
+      "translations": {
+        "zh-Hans": "阿拉维斯",
+        "zh-Hant": "艾拉維斯",
+        "en": "Alavés",
+        "ja": "デポルティーボ・アラベス",
+        "es": "Alavés"
+      },
+      "aliases": [
+        "Alaves",
+        "Alavés",
+        "Deportivo Alavés",
+        "艾拉維斯",
+        "阿拉维斯"
+      ]
+    },
+    {
+      "id": "fb_deportivo_la_guaira_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Deportivo La Guaira FC",
+      "translations": {
+        "zh-Hans": "拉瓜伊拉",
+        "zh-Hant": "拉瓜伊拉",
+        "en": "Deportivo La Guaira",
+        "ja": "デポルティーボ・ラ・グアイラ",
+        "es": "Deportivo La Guaira"
+      },
+      "aliases": [
+        "Deportivo La Guaira",
+        "Deportivo La Guaira FC",
+        "La Guaira",
+        "拉瓜伊拉"
+      ]
+    },
+    {
+      "id": "fb_deportivo_t_chira_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Deportivo Táchira FC",
+      "translations": {
+        "zh-Hans": "塔奇拉竞技",
+        "zh-Hant": "塔奇拉",
+        "en": "Deportivo Táchira",
+        "ja": "デポルティーボ・タチラ",
+        "es": "Deportivo Táchira"
+      },
+      "aliases": [
+        "Deportivo Tachira",
+        "Deportivo Táchira",
+        "Deportivo Táchira FC",
+        "塔奇拉",
+        "塔奇拉竞技"
+      ]
+    },
+    {
+      "id": "fb_derby_county_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Derby County FC",
+      "translations": {
+        "zh-Hans": "德比郡",
+        "zh-Hant": "打比郡",
+        "en": "Derby County",
+        "ja": "ダービー・カウンティ",
+        "es": "Derby County"
+      },
+      "aliases": [
+        "Derby County",
+        "Derby County FC",
+        "德比郡",
+        "打比郡"
+      ]
+    },
+    {
+      "id": "fb_ec_bahia",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "EC Bahia",
+      "translations": {
+        "zh-Hans": "巴伊亚",
+        "zh-Hant": "巴希亞",
+        "en": "Bahia",
+        "ja": "バイーア",
+        "es": "Bahia"
+      },
+      "aliases": [
+        "Bahia",
+        "EC Bahia",
+        "巴伊亚",
+        "巴希亞"
+      ]
+    },
+    {
+      "id": "fb_ec_juventude",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "EC Juventude",
+      "translations": {
+        "zh-Hans": "尤文图德",
+        "zh-Hant": "青年人",
+        "en": "Juventude",
+        "ja": "ジュベントゥージ",
+        "es": "Juventude"
+      },
+      "aliases": [
+        "EC Juventude",
+        "Juventude",
+        "尤文图德",
+        "青年人"
+      ]
+    },
+    {
+      "id": "fb_ec_vit_ria",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "EC Vitória",
+      "translations": {
+        "zh-Hans": "维多利亚",
+        "zh-Hant": "維多利亞",
+        "en": "Vitória",
+        "ja": "ヴィトーリア",
+        "es": "Vitória"
+      },
+      "aliases": [
+        "EC Vitoria",
+        "EC Vitória",
+        "Vitória",
+        "維多利亞",
+        "维多利亚"
+      ]
+    },
+    {
+      "id": "fb_es_troyes_ac",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "ES Troyes AC",
+      "translations": {
+        "zh-Hans": "特鲁瓦",
+        "zh-Hant": "特魯瓦",
+        "en": "Troyes",
+        "ja": "ESトロワAC",
+        "es": "Troyes"
+      },
+      "aliases": [
+        "ES Troyes AC",
+        "Troyes",
+        "特魯瓦",
+        "特鲁瓦"
+      ]
+    },
+    {
+      "id": "fb_ecuador",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Ecuador",
+      "translations": {
+        "zh-Hans": "厄瓜多尔",
+        "zh-Hant": "厄瓜多爾",
+        "en": "Ecuador",
+        "ja": "エクアドル",
+        "es": "Ecuador"
+      },
+      "aliases": [
+        "Ecuador",
+        "厄瓜多尔",
+        "厄瓜多爾"
+      ]
+    },
+    {
+      "id": "fb_egypt",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Egypt",
+      "translations": {
+        "zh-Hans": "埃及",
+        "zh-Hant": "埃及",
+        "en": "Egypt",
+        "ja": "エジプト",
+        "es": "Egipto"
+      },
+      "aliases": [
+        "Egypt",
+        "埃及"
+      ]
+    },
+    {
+      "id": "fb_eintracht_frankfurt",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Eintracht Frankfurt",
+      "translations": {
+        "zh-Hans": "法兰克福",
+        "zh-Hant": "法蘭克福",
+        "en": "Eintracht Frankfurt",
+        "ja": "アイントラハト・フランクフルト",
+        "es": "Eintracht Frankfurt"
+      },
+      "aliases": [
+        "Eintracht Frankfurt",
+        "Frankfurt",
+        "法兰克福",
+        "法蘭克福"
+      ]
+    },
+    {
+      "id": "fb_elche_cf",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Elche CF",
+      "translations": {
+        "zh-Hans": "埃尔切",
+        "zh-Hant": "艾尔切",
+        "en": "Elche",
+        "ja": "エルチェCF",
+        "es": "Elche"
+      },
+      "aliases": [
+        "Elche",
+        "Elche CF",
+        "埃尔切",
+        "艾尔切"
+      ]
+    },
+    {
+      "id": "fb_england",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "England",
+      "translations": {
+        "zh-Hans": "英格兰",
+        "zh-Hant": "英格蘭",
+        "en": "England",
+        "ja": "イングランド",
+        "es": "Inglaterra"
+      },
+      "aliases": [
+        "England",
+        "英格兰",
+        "英格蘭"
+      ]
+    },
+    {
+      "id": "fb_estudiantes_de_la_plata",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Estudiantes de La Plata",
+      "translations": {
+        "zh-Hans": "拉普拉塔大学生",
+        "zh-Hant": "學生隊",
+        "en": "Estudiantes",
+        "ja": "エストゥディアンテス・デ・ラ・プラタ",
+        "es": "Estudiantes de La Plata"
+      },
+      "aliases": [
+        "Estudiantes",
+        "Estudiantes de La Plata",
+        "學生隊",
+        "拉普拉塔大学生"
+      ]
+    },
+    {
+      "id": "fb_everton_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Everton FC",
+      "translations": {
+        "zh-Hans": "埃弗顿",
+        "zh-Hant": "愛華頓",
+        "en": "Everton",
+        "ja": "エヴァートン",
+        "es": "Everton"
+      },
+      "aliases": [
+        "Everton",
+        "Everton FC",
+        "埃弗顿",
+        "太妃糖",
+        "愛華頓"
+      ]
+    },
+    {
+      "id": "fb_fc_alverca",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FC Alverca",
+      "translations": {
+        "zh-Hans": "阿尔维卡",
+        "zh-Hant": "阿爾維卡",
+        "en": "Alverca",
+        "ja": "FCアルヴェルカ",
+        "es": "Alverca"
+      },
+      "aliases": [
+        "Alverca",
+        "FC Alverca",
+        "阿尔维卡",
+        "阿爾維卡"
+      ]
+    },
+    {
+      "id": "fb_fc_arouca",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FC Arouca",
+      "translations": {
+        "zh-Hans": "阿罗卡",
+        "zh-Hant": "阿洛卡",
+        "en": "Arouca",
+        "ja": "FCアロウカ",
+        "es": "Arouca"
+      },
+      "aliases": [
+        "Arouca",
+        "FC Arouca",
+        "阿洛卡",
+        "阿罗卡"
+      ]
+    },
+    {
+      "id": "fb_fc_augsburg",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FC Augsburg",
+      "translations": {
+        "zh-Hans": "奥格斯堡",
+        "zh-Hant": "奧格斯堡",
+        "en": "FC Augsburg",
+        "ja": "FCアウクスブルク",
+        "es": "FC Augsburgo"
+      },
+      "aliases": [
+        "Augsburg",
+        "FC Augsburg",
+        "奥格斯堡",
+        "奧格斯堡"
+      ]
+    },
+    {
+      "id": "fb_fc_barcelona",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FC Barcelona",
+      "translations": {
+        "zh-Hans": "巴塞罗那",
+        "zh-Hant": "巴塞隆拿",
+        "en": "Barcelona",
+        "ja": "FCバルセロナ",
+        "es": "Barcelona"
+      },
+      "aliases": [
+        "Barca",
+        "Barcelona",
+        "FC Barcelona",
+        "巴塞罗那",
+        "巴塞隆拿",
+        "巴萨"
+      ]
+    },
+    {
+      "id": "fb_fc_bayern_m_nchen",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FC Bayern München",
+      "translations": {
+        "zh-Hans": "拜仁慕尼黑",
+        "zh-Hant": "拜仁慕尼黑",
+        "en": "Bayern Munich",
+        "ja": "バイエルン・ミュンヘン",
+        "es": "Bayern de Múnich"
+      },
+      "aliases": [
+        "Bayern",
+        "Bayern Munich",
+        "FC Bayern München",
+        "拜仁",
+        "拜仁慕尼黑"
+      ]
+    },
+    {
+      "id": "fb_fc_famalic_o",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FC Famalicão",
+      "translations": {
+        "zh-Hans": "法马利康",
+        "zh-Hant": "法馬利卡奧",
+        "en": "Famalicão",
+        "ja": "FCファマリカン",
+        "es": "Famalicão"
+      },
+      "aliases": [
+        "FC Famalicão",
+        "Famalicao",
+        "Famalicão",
+        "法馬利卡奧",
+        "法马利康"
+      ]
+    },
+    {
+      "id": "fb_fc_groningen",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FC Groningen",
+      "translations": {
+        "zh-Hans": "格罗宁根",
+        "zh-Hant": "格羅寧根",
+        "en": "FC Groningen",
+        "ja": "FCフローニンゲン",
+        "es": "FC Groningen"
+      },
+      "aliases": [
+        "FC Groningen",
+        "Groningen",
+        "格罗宁根",
+        "格羅寧根"
+      ]
+    },
+    {
+      "id": "fb_fc_internazionale_milano",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FC Internazionale Milano",
+      "translations": {
+        "zh-Hans": "国际米兰",
+        "zh-Hant": "國際米蘭",
+        "en": "Inter Milan",
+        "ja": "インテル・ミラノ",
+        "es": "Inter de Milán"
+      },
+      "aliases": [
+        "FC Internazionale Milano",
+        "Inter",
+        "Inter Milan",
+        "国际米兰",
+        "國米",
+        "國際米蘭",
+        "藍黑軍團"
+      ]
+    },
+    {
+      "id": "fb_fc_k_benhavn",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FC København",
+      "translations": {
+        "zh-Hans": "哥本哈根",
+        "zh-Hant": "哥本哈根",
+        "en": "FC Copenhagen",
+        "ja": "FCコペンハーゲン",
+        "es": "Copenhague"
+      },
+      "aliases": [
+        "FC Copenhagen",
+        "FC København",
+        "哥本哈根"
+      ]
+    },
+    {
+      "id": "fb_fc_lorient",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FC Lorient",
+      "translations": {
+        "zh-Hans": "洛里昂",
+        "zh-Hant": "羅連安特",
+        "en": "Lorient",
+        "ja": "FCロリアン",
+        "es": "Lorient"
+      },
+      "aliases": [
+        "FC Lorient",
+        "Lorient",
+        "洛里昂",
+        "羅連安特"
+      ]
+    },
+    {
+      "id": "fb_fc_metz",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FC Metz",
+      "translations": {
+        "zh-Hans": "梅斯",
+        "zh-Hant": "梅斯",
+        "en": "Metz",
+        "ja": "FCメス",
+        "es": "Metz"
+      },
+      "aliases": [
+        "FC Metz",
+        "Metz",
+        "梅斯"
+      ]
+    },
+    {
+      "id": "fb_fc_nantes",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FC Nantes",
+      "translations": {
+        "zh-Hans": "南特",
+        "zh-Hant": "南特",
+        "en": "Nantes",
+        "ja": "FCナント",
+        "es": "Nantes"
+      },
+      "aliases": [
+        "FC Nantes",
+        "Nantes",
+        "南特"
+      ]
+    },
+    {
+      "id": "fb_fc_porto",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FC Porto",
+      "translations": {
+        "zh-Hans": "波尔图",
+        "zh-Hant": "波圖",
+        "en": "FC Porto",
+        "ja": "FCポルト",
+        "es": "FC Porto"
+      },
+      "aliases": [
+        "FC Porto",
+        "Porto",
+        "波圖",
+        "波尔图"
+      ]
+    },
+    {
+      "id": "fb_fc_schalke_04",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FC Schalke 04",
+      "translations": {
+        "zh-Hans": "沙尔克04",
+        "zh-Hant": "史浩克零四",
+        "en": "Schalke 04",
+        "ja": "FCシャルケ04",
+        "es": "Schalke 04"
+      },
+      "aliases": [
+        "FC Schalke 04",
+        "Schalke",
+        "Schalke 04",
+        "史浩克零四",
+        "沙尔克04"
+      ]
+    },
+    {
+      "id": "fb_fc_st_pauli_1910",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FC St. Pauli 1910",
+      "translations": {
+        "zh-Hans": "圣保利",
+        "zh-Hant": "聖保利",
+        "en": "St. Pauli",
+        "ja": "FCザンクトパウリ1910",
+        "es": "St. Pauli"
+      },
+      "aliases": [
+        "FC St. Pauli 1910",
+        "St. Pauli",
+        "圣保利",
+        "聖保利"
+      ]
+    },
+    {
+      "id": "fb_fc_twente_65",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FC Twente '65",
+      "translations": {
+        "zh-Hans": "特温特",
+        "zh-Hant": "川迪",
+        "en": "FC Twente",
+        "ja": "FCトゥウェンテ",
+        "es": "FC Twente"
+      },
+      "aliases": [
+        "FC Twente",
+        "FC Twente '65",
+        "川迪",
+        "特温特"
+      ]
+    },
+    {
+      "id": "fb_fc_utrecht",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FC Utrecht",
+      "translations": {
+        "zh-Hans": "乌得勒支",
+        "zh-Hant": "烏德勒支",
+        "en": "FC Utrecht",
+        "ja": "FCユトレヒト",
+        "es": "FC Utrecht"
+      },
+      "aliases": [
+        "FC Utrecht",
+        "Utrecht",
+        "乌得勒支",
+        "烏德勒支"
+      ]
+    },
+    {
+      "id": "fb_fc_volendam",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FC Volendam",
+      "translations": {
+        "zh-Hans": "福伦丹",
+        "zh-Hant": "科寧丹",
+        "en": "FC Volendam",
+        "ja": "FCフォレンダム",
+        "es": "FC Volendam"
+      },
+      "aliases": [
+        "FC Volendam",
+        "Volendam",
+        "福伦丹",
+        "科寧丹"
+      ]
+    },
+    {
+      "id": "fb_fk_bod_glimt",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FK Bodø/Glimt",
+      "translations": {
+        "zh-Hans": "博多格林特",
+        "zh-Hant": "波杜基林特",
+        "en": "Bodø/Glimt",
+        "ja": "FKボデ/グリムト",
+        "es": "Bodø/Glimt"
+      },
+      "aliases": [
+        "Bodo Glimt",
+        "Bodø/Glimt",
+        "FK Bodø/Glimt",
+        "博多格林特",
+        "波杜基林特"
+      ]
+    },
+    {
+      "id": "fb_fk_kairat",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FK Kairat",
+      "translations": {
+        "zh-Hans": "海拉提",
+        "zh-Hant": "卡拉特",
+        "en": "Kairat Almaty",
+        "ja": "FKカイラト",
+        "es": "Kairat Almaty"
+      },
+      "aliases": [
+        "FK Kairat",
+        "Kairat",
+        "Kairat Almaty",
+        "卡拉特",
+        "海拉提"
+      ]
+    },
+    {
+      "id": "fb_fk_shakhtar_donetsk",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "FK Shakhtar Donetsk",
+      "translations": {
+        "zh-Hans": "顿涅茨克矿工",
+        "zh-Hant": "薩克達",
+        "en": "Shakhtar Donetsk",
+        "ja": "FCシャフタール・ドネツク",
+        "es": "Shakhtar Donetsk"
+      },
+      "aliases": [
+        "FK Shakhtar Donetsk",
+        "Shakhtar",
+        "Shakhtar Donetsk",
+        "礦工",
+        "薩克達",
+        "顿涅茨克矿工"
+      ]
+    },
+    {
+      "id": "fb_fenerbah_e_sk",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Fenerbahçe SK",
+      "translations": {
+        "zh-Hans": "费内巴切",
+        "zh-Hant": "費倫巴治",
+        "en": "Fenerbahçe",
+        "ja": "フェネルバフチェSK",
+        "es": "Fenerbahçe"
+      },
+      "aliases": [
+        "Fenerbahce",
+        "Fenerbahçe",
+        "Fenerbahçe SK",
+        "費倫巴治",
+        "费内巴切"
+      ]
+    },
+    {
+      "id": "fb_feyenoord_rotterdam",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Feyenoord Rotterdam",
+      "translations": {
+        "zh-Hans": "费耶诺德",
+        "zh-Hant": "飛燕諾",
+        "en": "Feyenoord",
+        "ja": "フェイエノールト",
+        "es": "Feyenoord"
+      },
+      "aliases": [
+        "Feyenoord",
+        "Feyenoord Rotterdam",
+        "费耶诺德",
+        "飛燕諾"
+      ]
+    },
+    {
+      "id": "fb_fluminense_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Fluminense FC",
+      "translations": {
+        "zh-Hans": "弗鲁米嫩塞",
+        "zh-Hant": "富明尼斯",
+        "en": "Fluminense",
+        "ja": "フルミネンセ",
+        "es": "Fluminense"
+      },
+      "aliases": [
+        "Fluminense",
+        "Fluminense FC",
+        "富明尼斯",
+        "弗鲁米嫩塞"
+      ]
+    },
+    {
+      "id": "fb_fortaleza_ec",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Fortaleza EC",
+      "translations": {
+        "zh-Hans": "福塔莱萨",
+        "zh-Hant": "科泰尼沙",
+        "en": "Fortaleza",
+        "ja": "フォルタレーザ",
+        "es": "Fortaleza"
+      },
+      "aliases": [
+        "Fortaleza",
+        "Fortaleza EC",
+        "福塔莱萨",
+        "科泰尼沙"
+      ]
+    },
+    {
+      "id": "fb_fortuna_sittard",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Fortuna Sittard",
+      "translations": {
+        "zh-Hans": "福图纳锡塔德",
+        "zh-Hant": "幸運薛達",
+        "en": "Fortuna Sittard",
+        "ja": "フォルトゥナ・シッタート",
+        "es": "Fortuna Sittard"
+      },
+      "aliases": [
+        "Fortuna Sittard",
+        "幸運薛達",
+        "福图纳锡塔德"
+      ]
+    },
+    {
+      "id": "fb_france",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "France",
+      "translations": {
+        "zh-Hans": "法国",
+        "zh-Hant": "法國",
+        "en": "France",
+        "ja": "フランス",
+        "es": "Francia"
+      },
+      "aliases": [
+        "France",
+        "法国",
+        "法國"
+      ]
+    },
+    {
+      "id": "fb_frosinone_calcio",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Frosinone Calcio",
+      "translations": {
+        "zh-Hans": "弗罗西诺内",
+        "zh-Hant": "費辛隆尼",
+        "en": "Frosinone",
+        "ja": "フロジノーネ・カルチョ",
+        "es": "Frosinone"
+      },
+      "aliases": [
+        "Frosinone",
+        "Frosinone Calcio",
+        "弗罗西诺内",
+        "費辛隆尼"
+      ]
+    },
+    {
+      "id": "fb_fulham_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Fulham FC",
+      "translations": {
+        "zh-Hans": "富勒姆",
+        "zh-Hant": "富咸",
+        "en": "Fulham",
+        "ja": "フラム",
+        "es": "Fulham"
+      },
+      "aliases": [
+        "Fulham",
+        "Fulham FC",
+        "富勒姆",
+        "富咸"
+      ]
+    },
+    {
+      "id": "fb_gd_estoril_praia",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "GD Estoril Praia",
+      "translations": {
+        "zh-Hans": "埃斯托里尔",
+        "zh-Hant": "艾斯杜尼",
+        "en": "Estoril Praia",
+        "ja": "GDエストリル・プライア",
+        "es": "Estoril Praia"
+      },
+      "aliases": [
+        "Estoril",
+        "Estoril Praia",
+        "GD Estoril Praia",
+        "埃斯托里尔",
+        "艾斯杜尼"
+      ]
+    },
+    {
+      "id": "fb_galatasaray_sk",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Galatasaray SK",
+      "translations": {
+        "zh-Hans": "加拉塔萨雷",
+        "zh-Hant": "加拉塔沙雷",
+        "en": "Galatasaray",
+        "ja": "ガラタサライSK",
+        "es": "Galatasaray"
+      },
+      "aliases": [
+        "Galatasaray",
+        "Galatasaray SK",
+        "加拉塔沙雷",
+        "加拉塔萨雷"
+      ]
+    },
+    {
+      "id": "fb_genoa_cfc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Genoa CFC",
+      "translations": {
+        "zh-Hans": "热那亚",
+        "zh-Hant": "熱拿亞",
+        "en": "Genoa",
+        "ja": "ジェノアCFC",
+        "es": "Genoa"
+      },
+      "aliases": [
+        "Genoa",
+        "Genoa CFC",
+        "热那亚",
+        "熱拿亞"
+      ]
+    },
+    {
+      "id": "fb_germany",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Germany",
+      "translations": {
+        "zh-Hans": "德国",
+        "zh-Hant": "德國",
+        "en": "Germany",
+        "ja": "ドイツ",
+        "es": "Alemania"
+      },
+      "aliases": [
+        "Germany",
+        "德国",
+        "德國"
+      ]
+    },
+    {
+      "id": "fb_getafe_cf",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Getafe CF",
+      "translations": {
+        "zh-Hans": "赫塔菲",
+        "zh-Hant": "基達菲",
+        "en": "Getafe",
+        "ja": "ヘタフェCF",
+        "es": "Getafe"
+      },
+      "aliases": [
+        "Getafe",
+        "Getafe CF",
+        "基達菲",
+        "赫塔菲"
+      ]
+    },
+    {
+      "id": "fb_ghana",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Ghana",
+      "translations": {
+        "zh-Hans": "加纳",
+        "zh-Hant": "加納",
+        "en": "Ghana",
+        "ja": "ガーナ",
+        "es": "Ghana"
+      },
+      "aliases": [
+        "Ghana",
+        "加納",
+        "加纳"
+      ]
+    },
+    {
+      "id": "fb_gil_vicente_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Gil Vicente FC",
+      "translations": {
+        "zh-Hans": "吉尔维森特",
+        "zh-Hant": "基維辛迪",
+        "en": "Gil Vicente",
+        "ja": "ジル・ヴィセンテFC",
+        "es": "Gil Vicente"
+      },
+      "aliases": [
+        "Gil Vicente",
+        "Gil Vicente FC",
+        "吉尔维森特",
+        "基維辛迪"
+      ]
+    },
+    {
+      "id": "fb_girona_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Girona FC",
+      "translations": {
+        "zh-Hans": "赫罗纳",
+        "zh-Hant": "基朗拿",
+        "en": "Girona",
+        "ja": "ジローナFC",
+        "es": "Girona"
+      },
+      "aliases": [
+        "Girona",
+        "Girona FC",
+        "基朗拿",
+        "赫罗纳"
+      ]
+    },
+    {
+      "id": "fb_go_ahead_eagles",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Go Ahead Eagles",
+      "translations": {
+        "zh-Hans": "前进之鹰",
+        "zh-Hant": "伊高斯",
+        "en": "Go Ahead Eagles",
+        "ja": "ゴー・アヘッド・イーグルス",
+        "es": "Go Ahead Eagles"
+      },
+      "aliases": [
+        "Go Ahead Eagles",
+        "伊高斯",
+        "前进之鹰"
+      ]
+    },
+    {
+      "id": "fb_gr_mio_fbpa",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Grêmio FBPA",
+      "translations": {
+        "zh-Hans": "格雷米奥",
+        "zh-Hant": "甘美奧",
+        "en": "Grêmio",
+        "ja": "グレミオ",
+        "es": "Grêmio"
+      },
+      "aliases": [
+        "Gremio",
+        "Grêmio",
+        "Grêmio FBPA",
+        "格雷米奥",
+        "甘美奧"
+      ]
+    },
+    {
+      "id": "fb_haiti",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Haiti",
+      "translations": {
+        "zh-Hans": "海地",
+        "zh-Hant": "海地",
+        "en": "Haiti",
+        "ja": "ハイチ",
+        "es": "Haití"
+      },
+      "aliases": [
+        "Haiti",
+        "海地"
+      ]
+    },
+    {
+      "id": "fb_hamburger_sv",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Hamburger SV",
+      "translations": {
+        "zh-Hans": "汉堡",
+        "zh-Hant": "漢堡",
+        "en": "Hamburger SV",
+        "ja": "ハンブルガーSV",
+        "es": "Hamburgo"
+      },
+      "aliases": [
+        "Hamburg",
+        "Hamburger SV",
+        "汉堡",
+        "漢堡"
+      ]
+    },
+    {
+      "id": "fb_hellas_verona_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Hellas Verona FC",
+      "translations": {
+        "zh-Hans": "维罗纳",
+        "zh-Hant": "維羅納",
+        "en": "Hellas Verona",
+        "ja": "エラス・ヴェローナFC",
+        "es": "Hellas Verona"
+      },
+      "aliases": [
+        "Hellas Verona",
+        "Hellas Verona FC",
+        "Verona",
+        "維羅納",
+        "维罗纳"
+      ]
+    },
+    {
+      "id": "fb_heracles_almelo",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Heracles Almelo",
+      "translations": {
+        "zh-Hans": "赫拉克勒斯",
+        "zh-Hant": "荷華高斯",
+        "en": "Heracles Almelo",
+        "ja": "ヘラクレス・アルメロ",
+        "es": "Heracles Almelo"
+      },
+      "aliases": [
+        "Heracles",
+        "Heracles Almelo",
+        "荷華高斯",
+        "赫拉克勒斯"
+      ]
+    },
+    {
+      "id": "fb_hull_city_afc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Hull City AFC",
+      "translations": {
+        "zh-Hans": "赫尔城",
+        "zh-Hant": "侯城",
+        "en": "Hull City",
+        "ja": "ハル・シティ",
+        "es": "Hull City"
+      },
+      "aliases": [
+        "Hull City",
+        "Hull City AFC",
+        "侯城",
+        "赫尔城"
+      ]
+    },
+    {
+      "id": "fb_independiente_santa_fe",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Independiente Santa Fe",
+      "translations": {
+        "zh-Hans": "圣菲独立",
+        "zh-Hant": "聖達菲獨立",
+        "en": "Santa Fe",
+        "ja": "インデペンディエンテ・サンタフェ",
+        "es": "Santa Fe"
+      },
+      "aliases": [
+        "Independiente Santa Fe",
+        "Santa Fe",
+        "圣菲独立",
+        "聖達菲獨立"
+      ]
+    },
+    {
+      "id": "fb_ipswich_town_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Ipswich Town FC",
+      "translations": {
+        "zh-Hans": "伊普斯维奇",
+        "zh-Hant": "葉士域治",
+        "en": "Ipswich Town",
+        "ja": "イプスウィッチ・タウン",
+        "es": "Ipswich Town"
+      },
+      "aliases": [
+        "Ipswich Town",
+        "Ipswich Town FC",
+        "伊普斯维奇",
+        "葉士域治"
+      ]
+    },
+    {
+      "id": "fb_iran",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Iran",
+      "translations": {
+        "zh-Hans": "伊朗",
+        "zh-Hant": "伊朗",
+        "en": "Iran",
+        "ja": "イラン",
+        "es": "Irán"
+      },
+      "aliases": [
+        "Iran",
+        "伊朗"
+      ]
+    },
+    {
+      "id": "fb_iraq",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Iraq",
+      "translations": {
+        "zh-Hans": "伊拉克",
+        "zh-Hant": "伊拉克",
+        "en": "Iraq",
+        "ja": "イラク",
+        "es": "Irak"
+      },
+      "aliases": [
+        "Iraq",
+        "伊拉克"
+      ]
+    },
+    {
+      "id": "fb_ivory_coast",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Ivory Coast",
+      "translations": {
+        "zh-Hans": "科特迪瓦",
+        "zh-Hant": "科特迪瓦",
+        "en": "Ivory Coast",
+        "ja": "コートジボワール",
+        "es": "Costa de Marfil"
+      },
+      "aliases": [
+        "Ivory Coast",
+        "科特迪瓦",
+        "象牙海岸"
+      ]
+    },
+    {
+      "id": "fb_japan",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Japan",
+      "translations": {
+        "zh-Hans": "日本",
+        "zh-Hant": "日本",
+        "en": "Japan",
+        "ja": "日本",
+        "es": "Japón"
+      },
+      "aliases": [
+        "Japan",
+        "日本"
+      ]
+    },
+    {
+      "id": "fb_jordan",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Jordan",
+      "translations": {
+        "zh-Hans": "约旦",
+        "zh-Hant": "約旦",
+        "en": "Jordan",
+        "ja": "ヨルダン",
+        "es": "Jordania"
+      },
+      "aliases": [
+        "Jordan",
+        "約旦",
+        "约旦"
+      ]
+    },
+    {
+      "id": "fb_juventud_de_las_piedras",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Juventud de Las Piedras",
+      "translations": {
+        "zh-Hans": "佩德拉斯青年",
+        "zh-Hant": "青年體育會",
+        "en": "Juventud",
+        "ja": "ユベントゥ・デ・ラス・ピエドラス",
+        "es": "Juventud de Las Piedras"
+      },
+      "aliases": [
+        "Juventud",
+        "Juventud de Las Piedras",
+        "佩德拉斯青年",
+        "青年體育會"
+      ]
+    },
+    {
+      "id": "fb_juventus_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Juventus FC",
+      "translations": {
+        "zh-Hans": "尤文图斯",
+        "zh-Hant": "祖雲達斯",
+        "en": "Juventus",
+        "ja": "ユヴェントスFC",
+        "es": "Juventus"
+      },
+      "aliases": [
+        "Juve",
+        "Juventus",
+        "Juventus FC",
+        "尤文",
+        "尤文图斯",
+        "祖雲達斯",
+        "老妇人"
+      ]
+    },
+    {
+      "id": "fb_lask_linz",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "LASK Linz",
+      "translations": {
+        "zh-Hans": "林茨",
+        "zh-Hant": "林茨",
+        "en": "LASK",
+        "ja": "LASKリンツ",
+        "es": "LASK Linz"
+      },
+      "aliases": [
+        "LASK",
+        "LASK Linz",
+        "林茨"
+      ]
+    },
+    {
+      "id": "fb_ldu_de_quito",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "LDU de Quito",
+      "translations": {
+        "zh-Hans": "基多大学体育",
+        "zh-Hant": "利加大學",
+        "en": "LDU Quito",
+        "ja": "LDUキト",
+        "es": "LDU Quito"
+      },
+      "aliases": [
+        "LDU Quito",
+        "LDU de Quito",
+        "利加大學",
+        "基多大学体育"
+      ]
+    },
+    {
+      "id": "fb_le_havre_ac",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Le Havre AC",
+      "translations": {
+        "zh-Hans": "勒阿弗尔",
+        "zh-Hant": "勒哈弗爾",
+        "en": "Le Havre",
+        "ja": "ル・アーヴルAC",
+        "es": "Le Havre"
+      },
+      "aliases": [
+        "Le Havre",
+        "Le Havre AC",
+        "勒哈弗爾",
+        "勒阿弗尔"
+      ]
+    },
+    {
+      "id": "fb_le_mans_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Le Mans FC",
+      "translations": {
+        "zh-Hans": "勒芒",
+        "zh-Hant": "利文斯",
+        "en": "Le Mans",
+        "ja": "ル・マンFC",
+        "es": "Le Mans"
+      },
+      "aliases": [
+        "Le Mans",
+        "Le Mans FC",
+        "利文斯",
+        "勒芒"
+      ]
+    },
+    {
+      "id": "fb_leeds_united_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Leeds United FC",
+      "translations": {
+        "zh-Hans": "利兹联",
+        "zh-Hant": "列斯聯",
+        "en": "Leeds United",
+        "ja": "リーズ・ユナイテッド",
+        "es": "Leeds United"
+      },
+      "aliases": [
+        "Leeds United",
+        "Leeds United FC",
+        "列斯聯",
+        "利兹联"
+      ]
+    },
+    {
+      "id": "fb_leicester_city_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Leicester City FC",
+      "translations": {
+        "zh-Hans": "莱斯特城",
+        "zh-Hant": "李斯特城",
+        "en": "Leicester City",
+        "ja": "レスター・シティ",
+        "es": "Leicester City"
+      },
+      "aliases": [
+        "Leicester",
+        "Leicester City",
+        "Leicester City FC",
+        "李斯特城",
+        "莱斯特城"
+      ]
+    },
+    {
+      "id": "fb_levante_ud",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Levante UD",
+      "translations": {
+        "zh-Hans": "莱万特",
+        "zh-Hant": "利雲特",
+        "en": "Levante",
+        "ja": "レバンテUD",
+        "es": "Levante"
+      },
+      "aliases": [
+        "Levante",
+        "Levante UD",
+        "利雲特",
+        "莱万特"
+      ]
+    },
+    {
+      "id": "fb_lille_osc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Lille OSC",
+      "translations": {
+        "zh-Hans": "里尔",
+        "zh-Hant": "里爾",
+        "en": "Lille",
+        "ja": "リールOSC",
+        "es": "Lille"
+      },
+      "aliases": [
+        "Lille",
+        "Lille OSC",
+        "里尔",
+        "里爾"
+      ]
+    },
+    {
+      "id": "fb_lincoln_city_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Lincoln City FC",
+      "translations": {
+        "zh-Hans": "林肯城",
+        "zh-Hant": "林肯城",
+        "en": "Lincoln City",
+        "ja": "リンカーン・シティ",
+        "es": "Lincoln City"
+      },
+      "aliases": [
+        "Lincoln City",
+        "Lincoln City FC",
+        "林肯城"
+      ]
+    },
+    {
+      "id": "fb_liverpool_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Liverpool FC",
+      "translations": {
+        "zh-Hans": "利物浦",
+        "zh-Hant": "利物浦",
+        "en": "Liverpool",
+        "ja": "リヴァプール",
+        "es": "Liverpool"
+      },
+      "aliases": [
+        "Liverpool",
+        "Liverpool FC",
+        "利物浦",
+        "红军"
+      ]
+    },
+    {
+      "id": "fb_manchester_city_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Manchester City FC",
+      "translations": {
+        "zh-Hans": "曼城",
+        "zh-Hant": "曼城",
+        "en": "Manchester City",
+        "ja": "マンチェスター・シティ",
+        "es": "Manchester City"
+      },
+      "aliases": [
+        "Man City",
+        "Manchester City",
+        "Manchester City FC",
+        "曼城",
+        "蓝月亮"
+      ]
+    },
+    {
+      "id": "fb_manchester_united_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Manchester United FC",
+      "translations": {
+        "zh-Hans": "曼联",
+        "zh-Hant": "曼聯",
+        "en": "Manchester United",
+        "ja": "マンチェスター・ユナイテッド",
+        "es": "Manchester United"
+      },
+      "aliases": [
+        "Man United",
+        "Man Utd",
+        "Manchester United",
+        "Manchester United FC",
+        "曼联",
+        "曼聯",
+        "红魔"
+      ]
+    },
+    {
+      "id": "fb_mexico",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Mexico",
+      "translations": {
+        "zh-Hans": "墨西哥",
+        "zh-Hant": "墨西哥",
+        "en": "Mexico",
+        "ja": "メキシコ",
+        "es": "México"
+      },
+      "aliases": [
+        "Mexico",
+        "墨西哥"
+      ]
+    },
+    {
+      "id": "fb_middlesbrough_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Middlesbrough FC",
+      "translations": {
+        "zh-Hans": "米德尔斯堡",
+        "zh-Hant": "米杜士堡",
+        "en": "Middlesbrough",
+        "ja": "ミドルズブラ",
+        "es": "Middlesbrough"
+      },
+      "aliases": [
+        "Middlesbrough",
+        "Middlesbrough FC",
+        "米德尔斯堡",
+        "米杜士堡"
+      ]
+    },
+    {
+      "id": "fb_millwall_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Millwall FC",
+      "translations": {
+        "zh-Hans": "米尔沃尔",
+        "zh-Hant": "米禾尔",
+        "en": "Millwall",
+        "ja": "ミルウォール",
+        "es": "Millwall"
+      },
+      "aliases": [
+        "Millwall",
+        "Millwall FC",
+        "米尔沃尔",
+        "米禾尔"
+      ]
+    },
+    {
+      "id": "fb_mirassol_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Mirassol FC",
+      "translations": {
+        "zh-Hans": "米拉索尔",
+        "zh-Hant": "米拉索爾",
+        "en": "Mirassol",
+        "ja": "ミラソウ",
+        "es": "Mirassol"
+      },
+      "aliases": [
+        "Mirassol",
+        "Mirassol FC",
+        "米拉索尔",
+        "米拉索爾"
+      ]
+    },
+    {
+      "id": "fb_moreirense_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Moreirense FC",
+      "translations": {
+        "zh-Hans": "莫雷拉人",
+        "zh-Hant": "摩里倫斯",
+        "en": "Moreirense",
+        "ja": "モレイレンセFC",
+        "es": "Moreirense"
+      },
+      "aliases": [
+        "Moreirense",
+        "Moreirense FC",
+        "摩里倫斯",
+        "莫雷拉人"
+      ]
+    },
+    {
+      "id": "fb_morocco",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Morocco",
+      "translations": {
+        "zh-Hans": "摩洛哥",
+        "zh-Hant": "摩洛哥",
+        "en": "Morocco",
+        "ja": "モロッコ",
+        "es": "Marruecos"
+      },
+      "aliases": [
+        "Morocco",
+        "摩洛哥"
+      ]
+    },
+    {
+      "id": "fb_m_laga_cf",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Málaga CF",
+      "translations": {
+        "zh-Hans": "马拉加",
+        "zh-Hant": "馬拉加",
+        "en": "Málaga",
+        "ja": "マラガCF",
+        "es": "Málaga"
+      },
+      "aliases": [
+        "Malaga",
+        "Málaga",
+        "Málaga CF",
+        "馬拉加",
+        "马拉加"
+      ]
+    },
+    {
+      "id": "fb_nac_breda",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "NAC Breda",
+      "translations": {
+        "zh-Hans": "布雷达",
+        "zh-Hant": "比達",
+        "en": "NAC Breda",
+        "ja": "NACブレダ",
+        "es": "NAC Breda"
+      },
+      "aliases": [
+        "NAC Breda",
+        "布雷达",
+        "比達"
+      ]
+    },
+    {
+      "id": "fb_nec",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "NEC",
+      "translations": {
+        "zh-Hans": "奈梅亨",
+        "zh-Hant": "奈梅亨",
+        "en": "NEC Nijmegen",
+        "ja": "NECナイメヘン",
+        "es": "NEC Nijmegen"
+      },
+      "aliases": [
+        "NEC",
+        "NEC Nijmegen",
+        "奈梅亨"
+      ]
+    },
+    {
+      "id": "fb_netherlands",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Netherlands",
+      "translations": {
+        "zh-Hans": "荷兰",
+        "zh-Hant": "荷蘭",
+        "en": "Netherlands",
+        "ja": "オランダ",
+        "es": "Países Bajos"
+      },
+      "aliases": [
+        "Netherlands",
+        "荷兰",
+        "荷蘭"
+      ]
+    },
+    {
+      "id": "fb_new_zealand",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "New Zealand",
+      "translations": {
+        "zh-Hans": "新西兰",
+        "zh-Hant": "紐西蘭",
+        "en": "New Zealand",
+        "ja": "ニュージーランド",
+        "es": "Nueva Zelanda"
+      },
+      "aliases": [
+        "New Zealand",
+        "新西兰",
+        "紐西蘭"
+      ]
+    },
+    {
+      "id": "fb_newcastle_united_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Newcastle United FC",
+      "translations": {
+        "zh-Hans": "纽卡斯尔联",
+        "zh-Hant": "紐卡素",
+        "en": "Newcastle United",
+        "ja": "ニューカッスル・ユナイテッド",
+        "es": "Newcastle United"
+      },
+      "aliases": [
+        "Newcastle",
+        "Newcastle United",
+        "Newcastle United FC",
+        "喜鹊",
+        "紐卡素",
+        "纽卡斯尔",
+        "纽卡斯尔联"
+      ]
+    },
+    {
+      "id": "fb_norway",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Norway",
+      "translations": {
+        "zh-Hans": "挪威",
+        "zh-Hant": "挪威",
+        "en": "Norway",
+        "ja": "ノルウェー",
+        "es": "Noruega"
+      },
+      "aliases": [
+        "Norway",
+        "挪威"
+      ]
+    },
+    {
+      "id": "fb_norwich_city_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Norwich City FC",
+      "translations": {
+        "zh-Hans": "诺维奇",
+        "zh-Hant": "諾域治",
+        "en": "Norwich City",
+        "ja": "ノーリッジ・シティ",
+        "es": "Norwich City"
+      },
+      "aliases": [
+        "Norwich City",
+        "Norwich City FC",
+        "諾域治",
+        "诺维奇"
+      ]
+    },
+    {
+      "id": "fb_nottingham_forest_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Nottingham Forest FC",
+      "translations": {
+        "zh-Hans": "诺丁汉森林",
+        "zh-Hant": "諾定咸森林",
+        "en": "Nottingham Forest",
+        "ja": "ノッティンガム・フォレスト",
+        "es": "Nottingham Forest"
+      },
+      "aliases": [
+        "Nottingham Forest",
+        "Nottingham Forest FC",
+        "諾定咸森林",
+        "诺丁汉森林"
+      ]
+    },
+    {
+      "id": "fb_o_higgins_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "O'Higgins FC",
+      "translations": {
+        "zh-Hans": "奥希金斯",
+        "zh-Hant": "奧希金斯",
+        "en": "O'Higgins",
+        "ja": "オヒギンスFC",
+        "es": "O'Higgins"
+      },
+      "aliases": [
+        "O'Higgins",
+        "O'Higgins FC",
+        "奥希金斯",
+        "奧希金斯"
+      ]
+    },
+    {
+      "id": "fb_ogc_nice",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "OGC Nice",
+      "translations": {
+        "zh-Hans": "尼斯",
+        "zh-Hant": "尼斯",
+        "en": "Nice",
+        "ja": "OGCニース",
+        "es": "Niza"
+      },
+      "aliases": [
+        "Nice",
+        "OGC Nice",
+        "尼斯"
+      ]
+    },
+    {
+      "id": "fb_olympique_lyonnais",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Olympique Lyonnais",
+      "translations": {
+        "zh-Hans": "里昂",
+        "zh-Hant": "里昂",
+        "en": "Lyon",
+        "ja": "オリンピック・リヨン",
+        "es": "Olympique de Lyon"
+      },
+      "aliases": [
+        "Lyon",
+        "Olympique Lyonnais",
+        "里昂"
+      ]
+    },
+    {
+      "id": "fb_olympique_de_marseille",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Olympique de Marseille",
+      "translations": {
+        "zh-Hans": "马赛",
+        "zh-Hant": "馬賽",
+        "en": "Marseille",
+        "ja": "オリンピック・マルセイユ",
+        "es": "Olympique de Marsella"
+      },
+      "aliases": [
+        "Marseille",
+        "Olympique de Marseille",
+        "馬賽",
+        "马赛"
+      ]
+    },
+    {
+      "id": "fb_oxford_united_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Oxford United FC",
+      "translations": {
+        "zh-Hans": "牛津联",
+        "zh-Hant": "牛津聯",
+        "en": "Oxford United",
+        "ja": "オックスフォード・ユナイテッド",
+        "es": "Oxford United"
+      },
+      "aliases": [
+        "Oxford United",
+        "Oxford United FC",
+        "牛津联",
+        "牛津聯"
+      ]
+    },
+    {
+      "id": "fb_pae_aek",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "PAE AEK",
+      "translations": {
+        "zh-Hans": "雅典AEK",
+        "zh-Hant": "AEK雅典",
+        "en": "AEK Athens",
+        "ja": "AEKアテネ",
+        "es": "AEK Atenas"
+      },
+      "aliases": [
+        "AEK Athens",
+        "AEK雅典",
+        "PAE AEK",
+        "雅典AEK"
+      ]
+    },
+    {
+      "id": "fb_pae_olympiakos_sfp",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "PAE Olympiakos SFP",
+      "translations": {
+        "zh-Hans": "奥林匹亚科斯",
+        "zh-Hant": "奧林比亞高斯",
+        "en": "Olympiacos",
+        "ja": "オリンピアコスFC",
+        "es": "Olympiacos"
+      },
+      "aliases": [
+        "Olympiacos",
+        "PAE Olympiakos SFP",
+        "奥林匹亚科斯",
+        "奧林比亞高斯"
+      ]
+    },
+    {
+      "id": "fb_pec_zwolle",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "PEC Zwolle",
+      "translations": {
+        "zh-Hans": "兹沃勒",
+        "zh-Hant": "施禾利",
+        "en": "PEC Zwolle",
+        "ja": "PECズヴォレ",
+        "es": "PEC Zwolle"
+      },
+      "aliases": [
+        "PEC Zwolle",
+        "兹沃勒",
+        "施禾利"
+      ]
+    },
+    {
+      "id": "fb_psv",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "PSV",
+      "translations": {
+        "zh-Hans": "埃因霍温",
+        "zh-Hant": "PSV燕豪芬",
+        "en": "PSV Eindhoven",
+        "ja": "PSVアイントホーフェン",
+        "es": "PSV Eindhoven"
+      },
+      "aliases": [
+        "PSV",
+        "PSV Eindhoven",
+        "PSV燕豪芬",
+        "埃因霍温",
+        "燕豪芬"
+      ]
+    },
+    {
+      "id": "fb_panama",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Panama",
+      "translations": {
+        "zh-Hans": "巴拿马",
+        "zh-Hant": "巴拿馬",
+        "en": "Panama",
+        "ja": "パナマ",
+        "es": "Panamá"
+      },
+      "aliases": [
+        "Panama",
+        "巴拿馬",
+        "巴拿马"
+      ]
+    },
+    {
+      "id": "fb_paphos_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Paphos FC",
+      "translations": {
+        "zh-Hans": "帕福斯",
+        "zh-Hant": "柏福斯",
+        "en": "Pafos FC",
+        "ja": "パフォスFC",
+        "es": "Pafos FC"
+      },
+      "aliases": [
+        "Pafos",
+        "Pafos FC",
+        "Paphos FC",
+        "帕福斯",
+        "柏福斯"
+      ]
+    },
+    {
+      "id": "fb_paraguay",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Paraguay",
+      "translations": {
+        "zh-Hans": "巴拉圭",
+        "zh-Hant": "巴拉圭",
+        "en": "Paraguay",
+        "ja": "パラグアイ",
+        "es": "Paraguay"
+      },
+      "aliases": [
+        "Paraguay",
+        "巴拉圭"
+      ]
+    },
+    {
+      "id": "fb_paris_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Paris FC",
+      "translations": {
+        "zh-Hans": "巴黎FC",
+        "zh-Hant": "巴黎FC",
+        "en": "Paris FC",
+        "ja": "パリFC",
+        "es": "Paris FC"
+      },
+      "aliases": [
+        "Paris FC",
+        "巴黎FC"
+      ]
+    },
+    {
+      "id": "fb_paris_saint_germain_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Paris Saint-Germain FC",
+      "translations": {
+        "zh-Hans": "巴黎圣日耳曼",
+        "zh-Hant": "巴黎聖日耳門",
+        "en": "Paris Saint-Germain",
+        "ja": "パリ・サンジェルマンFC",
+        "es": "París Saint-Germain"
+      },
+      "aliases": [
+        "PSG",
+        "Paris Saint-Germain",
+        "Paris Saint-Germain FC",
+        "大巴黎",
+        "巴黎圣日耳曼",
+        "巴黎聖日耳門"
+      ]
+    },
+    {
+      "id": "fb_parma_calcio_1913",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Parma Calcio 1913",
+      "translations": {
+        "zh-Hans": "帕尔马",
+        "zh-Hant": "帕爾馬",
+        "en": "Parma",
+        "ja": "パルマ・カルチョ1913",
+        "es": "Parma"
+      },
+      "aliases": [
+        "Parma",
+        "Parma Calcio 1913",
+        "帕尔马",
+        "帕爾馬"
+      ]
+    },
+    {
+      "id": "fb_portsmouth_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Portsmouth FC",
+      "translations": {
+        "zh-Hans": "朴茨茅斯",
+        "zh-Hant": "樸茨茅夫",
+        "en": "Portsmouth",
+        "ja": "ポーツマス",
+        "es": "Portsmouth"
+      },
+      "aliases": [
+        "Portsmouth",
+        "Portsmouth FC",
+        "朴茨茅斯",
+        "樸茨茅夫"
+      ]
+    },
+    {
+      "id": "fb_portugal",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Portugal",
+      "translations": {
+        "zh-Hans": "葡萄牙",
+        "zh-Hant": "葡萄牙",
+        "en": "Portugal",
+        "ja": "ポルトガル",
+        "es": "Portugal"
+      },
+      "aliases": [
+        "Portugal",
+        "葡萄牙"
+      ]
+    },
+    {
+      "id": "fb_preston_north_end_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Preston North End FC",
+      "translations": {
+        "zh-Hans": "普雷斯顿",
+        "zh-Hant": "普雷斯顿",
+        "en": "Preston North End",
+        "ja": "プレストン・ノースエンド",
+        "es": "Preston North End"
+      },
+      "aliases": [
+        "Preston",
+        "Preston North End",
+        "Preston North End FC",
+        "普雷斯顿"
+      ]
+    },
+    {
+      "id": "fb_qaraba_a_dam_fk",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Qarabağ Ağdam FK",
+      "translations": {
+        "zh-Hans": "卡拉巴赫",
+        "zh-Hant": "卡拉巴克",
+        "en": "Qarabağ",
+        "ja": "カラバフFK",
+        "es": "Qarabağ"
+      },
+      "aliases": [
+        "Qarabag",
+        "Qarabağ",
+        "Qarabağ Ağdam FK",
+        "卡拉巴克",
+        "卡拉巴赫"
+      ]
+    },
+    {
+      "id": "fb_qatar",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Qatar",
+      "translations": {
+        "zh-Hans": "卡塔尔",
+        "zh-Hant": "卡塔爾",
+        "en": "Qatar",
+        "ja": "カタール",
+        "es": "Catar"
+      },
+      "aliases": [
+        "Qatar",
+        "卡塔尔",
+        "卡塔爾"
+      ]
+    },
+    {
+      "id": "fb_queens_park_rangers_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Queens Park Rangers FC",
+      "translations": {
+        "zh-Hans": "女王公园巡游者",
+        "zh-Hant": "昆士柏流浪",
+        "en": "Queens Park Rangers",
+        "ja": "クイーンズ・パーク・レンジャーズ",
+        "es": "Queens Park Rangers"
+      },
+      "aliases": [
+        "QPR",
+        "Queens Park Rangers",
+        "Queens Park Rangers FC",
+        "女王公园巡游者",
+        "昆士柏流浪"
+      ]
+    },
+    {
+      "id": "fb_rb_bragantino",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "RB Bragantino",
+      "translations": {
+        "zh-Hans": "布拉干蒂诺红牛",
+        "zh-Hant": "巴甘蒂诺紅牛",
+        "en": "Red Bull Bragantino",
+        "ja": "レッドブル・ブラガンチーノ",
+        "es": "Red Bull Bragantino"
+      },
+      "aliases": [
+        "Bragantino",
+        "RB Bragantino",
+        "Red Bull Bragantino",
+        "巴甘蒂诺紅牛",
+        "布拉干蒂诺红牛"
+      ]
+    },
+    {
+      "id": "fb_rb_leipzig",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "RB Leipzig",
+      "translations": {
+        "zh-Hans": "莱比锡红牛",
+        "zh-Hant": "RB萊比錫",
+        "en": "RB Leipzig",
+        "ja": "RBライプツィヒ",
+        "es": "RB Leipzig"
+      },
+      "aliases": [
+        "Leipzig",
+        "RB Leipzig",
+        "RB萊比錫",
+        "莱比锡",
+        "莱比锡红牛"
+      ]
+    },
+    {
+      "id": "fb_rc_celta_de_vigo",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "RC Celta de Vigo",
+      "translations": {
+        "zh-Hans": "塞尔塔",
+        "zh-Hant": "切爾達",
+        "en": "Celta Vigo",
+        "ja": "セルタ・デ・ビーゴ",
+        "es": "Celta de Vigo"
+      },
+      "aliases": [
+        "Celta Vigo",
+        "RC Celta de Vigo",
+        "切爾達",
+        "塞尔塔"
+      ]
+    },
+    {
+      "id": "fb_rc_deportivo_la_coru_a",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "RC Deportivo La Coruña",
+      "translations": {
+        "zh-Hans": "拉科鲁尼亚",
+        "zh-Hant": "拉科魯尼亞",
+        "en": "Deportivo La Coruña",
+        "ja": "デポルティーボ・ラ・コルーニャ",
+        "es": "Deportivo La Coruña"
+      },
+      "aliases": [
+        "Deportivo La Coruna",
+        "Deportivo La Coruña",
+        "RC Deportivo La Coruña",
+        "拉科魯尼亞",
+        "拉科鲁尼亚"
+      ]
+    },
+    {
+      "id": "fb_rc_strasbourg_alsace",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "RC Strasbourg Alsace",
+      "translations": {
+        "zh-Hans": "斯特拉斯堡",
+        "zh-Hant": "斯特拉斯堡",
+        "en": "Strasbourg",
+        "ja": "RCストラスブール",
+        "es": "Estrasburgo"
+      },
+      "aliases": [
+        "RC Strasbourg Alsace",
+        "Strasbourg",
+        "斯特拉斯堡"
+      ]
+    },
+    {
+      "id": "fb_rcd_espanyol_de_barcelona",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "RCD Espanyol de Barcelona",
+      "translations": {
+        "zh-Hans": "西班牙人",
+        "zh-Hant": "愛斯賓奴",
+        "en": "Espanyol",
+        "ja": "RCDエスパニョール",
+        "es": "Espanyol"
+      },
+      "aliases": [
+        "Espanyol",
+        "RCD Espanyol de Barcelona",
+        "愛斯賓奴",
+        "西班牙人"
+      ]
+    },
+    {
+      "id": "fb_rcd_mallorca",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "RCD Mallorca",
+      "translations": {
+        "zh-Hans": "马略卡",
+        "zh-Hant": "馬略卡",
+        "en": "Mallorca",
+        "ja": "RCDマジョルカ",
+        "es": "Mallorca"
+      },
+      "aliases": [
+        "Mallorca",
+        "RCD Mallorca",
+        "馬略卡",
+        "马略卡"
+      ]
+    },
+    {
+      "id": "fb_racing_club",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Racing Club",
+      "translations": {
+        "zh-Hans": "阿根廷竞技",
+        "zh-Hant": "競賽會",
+        "en": "Racing Club",
+        "ja": "ラシン・クラブ",
+        "es": "Racing Club"
+      },
+      "aliases": [
+        "Racing",
+        "Racing Club",
+        "竞技俱乐部",
+        "競賽會",
+        "阿根廷竞技"
+      ]
+    },
+    {
+      "id": "fb_racing_club_de_lens",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Racing Club de Lens",
+      "translations": {
+        "zh-Hans": "朗斯",
+        "zh-Hant": "朗斯",
+        "en": "Lens",
+        "ja": "RCランス",
+        "es": "Lens"
+      },
+      "aliases": [
+        "Lens",
+        "Racing Club de Lens",
+        "朗斯"
+      ]
+    },
+    {
+      "id": "fb_rayo_vallecano_de_madrid",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Rayo Vallecano de Madrid",
+      "translations": {
+        "zh-Hans": "巴列卡诺",
+        "zh-Hant": "華历简奴",
+        "en": "Rayo Vallecano",
+        "ja": "ラージョ・バジェカーノ",
+        "es": "Rayo Vallecano"
+      },
+      "aliases": [
+        "Rayo Vallecano",
+        "Rayo Vallecano de Madrid",
+        "巴列卡诺",
+        "華历简奴"
+      ]
+    },
+    {
+      "id": "fb_real_betis_balompi",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Real Betis Balompié",
+      "translations": {
+        "zh-Hans": "皇家贝蒂斯",
+        "zh-Hant": "皇家貝迪斯",
+        "en": "Real Betis",
+        "ja": "レアル・ベティス",
+        "es": "Real Betis"
+      },
+      "aliases": [
+        "Real Betis",
+        "Real Betis Balompié",
+        "皇家貝迪斯",
+        "皇家贝蒂斯",
+        "贝蒂斯"
+      ]
+    },
+    {
+      "id": "fb_real_madrid_cf",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Real Madrid CF",
+      "translations": {
+        "zh-Hans": "皇家马德里",
+        "zh-Hant": "皇家馬德里",
+        "en": "Real Madrid",
+        "ja": "レアル・マドリード",
+        "es": "Real Madrid"
+      },
+      "aliases": [
+        "Real Madrid",
+        "Real Madrid CF",
+        "皇家馬德里",
+        "皇家马德里",
+        "皇马",
+        "银河战舰"
+      ]
+    },
+    {
+      "id": "fb_real_oviedo",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Real Oviedo",
+      "translations": {
+        "zh-Hans": "奥维耶多",
+        "zh-Hant": "奧維耶多",
+        "en": "Real Oviedo",
+        "ja": "レアル・オビエド",
+        "es": "Real Oviedo"
+      },
+      "aliases": [
+        "Oviedo",
+        "Real Oviedo",
+        "奥维耶多",
+        "奧維耶多"
+      ]
+    },
+    {
+      "id": "fb_real_racing_club_de_santander",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Real Racing Club de Santander",
+      "translations": {
+        "zh-Hans": "桑坦德竞技",
+        "zh-Hant": "桑坦德",
+        "en": "Racing Santander",
+        "ja": "ラシン・サンタンデール",
+        "es": "Racing de Santander"
+      },
+      "aliases": [
+        "Racing Santander",
+        "Real Racing Club de Santander",
+        "桑坦德",
+        "桑坦德竞技"
+      ]
+    },
+    {
+      "id": "fb_real_sociedad_de_f_tbol",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Real Sociedad de Fútbol",
+      "translations": {
+        "zh-Hans": "皇家社会",
+        "zh-Hant": "皇家蘇斯達",
+        "en": "Real Sociedad",
+        "ja": "レアル・ソシエダ",
+        "es": "Real Sociedad"
+      },
+      "aliases": [
+        "Real Sociedad",
+        "Real Sociedad de Fútbol",
+        "皇家社会",
+        "皇家蘇斯達"
+      ]
+    },
+    {
+      "id": "fb_rio_ave_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Rio Ave FC",
+      "translations": {
+        "zh-Hans": "里奥阿维",
+        "zh-Hant": "里奧艾維",
+        "en": "Rio Ave",
+        "ja": "リオ・アヴェFC",
+        "es": "Rio Ave"
+      },
+      "aliases": [
+        "Rio Ave",
+        "Rio Ave FC",
+        "里奥阿维",
+        "里奧艾維"
+      ]
+    },
+    {
+      "id": "fb_royale_union_saint_gilloise",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Royale Union Saint-Gilloise",
+      "translations": {
+        "zh-Hans": "圣吉罗斯联合",
+        "zh-Hant": "聖基萊斯聯",
+        "en": "Union Saint-Gilloise",
+        "ja": "ロイヤル・ユニオン・サン＝ジロワーズ",
+        "es": "Union Saint-Gilloise"
+      },
+      "aliases": [
+        "Royale Union Saint-Gilloise",
+        "Union SG",
+        "Union Saint-Gilloise",
+        "圣吉罗斯联合",
+        "聖基萊斯聯"
+      ]
+    },
+    {
+      "id": "fb_sbv_excelsior",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "SBV Excelsior",
+      "translations": {
+        "zh-Hans": "精英队",
+        "zh-Hant": "精英隊",
+        "en": "Excelsior",
+        "ja": "SBVエクセルシオール",
+        "es": "Excelsior"
+      },
+      "aliases": [
+        "Excelsior",
+        "SBV Excelsior",
+        "精英队",
+        "精英隊",
+        "鹿特丹精英"
+      ]
+    },
+    {
+      "id": "fb_sc_cambuur_leeuwarden",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "SC Cambuur-Leeuwarden",
+      "translations": {
+        "zh-Hans": "坎布尔",
+        "zh-Hant": "甘堡爾",
+        "en": "SC Cambuur",
+        "ja": "SCカンブール・レーワルデン",
+        "es": "SC Cambuur"
+      },
+      "aliases": [
+        "Cambuur",
+        "SC Cambuur",
+        "SC Cambuur-Leeuwarden",
+        "坎布尔",
+        "甘堡爾"
+      ]
+    },
+    {
+      "id": "fb_sc_corinthians_paulista",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "SC Corinthians Paulista",
+      "translations": {
+        "zh-Hans": "科林蒂安",
+        "zh-Hant": "哥连泰斯",
+        "en": "Corinthians",
+        "ja": "コリンチャンス",
+        "es": "Corinthians"
+      },
+      "aliases": [
+        "Corinthians",
+        "SC Corinthians",
+        "SC Corinthians Paulista",
+        "哥连泰斯",
+        "科林蒂安"
+      ]
+    },
+    {
+      "id": "fb_sc_freiburg",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "SC Freiburg",
+      "translations": {
+        "zh-Hans": "弗赖堡",
+        "zh-Hant": "費雷堡",
+        "en": "SC Freiburg",
+        "ja": "SCフライブルク",
+        "es": "Friburgo"
+      },
+      "aliases": [
+        "Freiburg",
+        "SC Freiburg",
+        "弗赖堡",
+        "費雷堡"
+      ]
+    },
+    {
+      "id": "fb_sc_heerenveen",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "SC Heerenveen",
+      "translations": {
+        "zh-Hans": "海伦芬",
+        "zh-Hant": "海倫芬",
+        "en": "SC Heerenveen",
+        "ja": "SCヘーレンフェーン",
+        "es": "SC Heerenveen"
+      },
+      "aliases": [
+        "Heerenveen",
+        "SC Heerenveen",
+        "海伦芬",
+        "海倫芬"
+      ]
+    },
+    {
+      "id": "fb_sc_internacional",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "SC Internacional",
+      "translations": {
+        "zh-Hans": "国际",
+        "zh-Hant": "國際體育會",
+        "en": "Internacional",
+        "ja": "インテルナシオナル",
+        "es": "Internacional"
+      },
+      "aliases": [
+        "Internacional",
+        "SC Internacional",
+        "国际",
+        "國際體育會",
+        "巴西国际"
+      ]
+    },
+    {
+      "id": "fb_sc_paderborn_07",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "SC Paderborn 07",
+      "translations": {
+        "zh-Hans": "帕德博恩",
+        "zh-Hant": "柏達邦",
+        "en": "SC Paderborn",
+        "ja": "SCパーダーボルン07",
+        "es": "Paderborn"
+      },
+      "aliases": [
+        "Paderborn",
+        "SC Paderborn",
+        "SC Paderborn 07",
+        "帕德博恩",
+        "柏達邦"
+      ]
+    },
+    {
+      "id": "fb_sc_recife",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "SC Recife",
+      "translations": {
+        "zh-Hans": "累西腓体育",
+        "zh-Hant": "利斯菲體育會",
+        "en": "Sport Recife",
+        "ja": "スポルチ・レシフェ",
+        "es": "Sport Recife"
+      },
+      "aliases": [
+        "SC Recife",
+        "Sport Recife",
+        "利斯菲體育會",
+        "累西腓体育"
+      ]
+    },
+    {
+      "id": "fb_se_palmeiras",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "SE Palmeiras",
+      "translations": {
+        "zh-Hans": "帕尔梅拉斯",
+        "zh-Hant": "彭美拉斯",
+        "en": "Palmeiras",
+        "ja": "パルメイラス",
+        "es": "Palmeiras"
+      },
+      "aliases": [
+        "Palmeiras",
+        "SE Palmeiras",
+        "帕尔梅拉斯",
+        "彭美拉斯"
+      ]
+    },
+    {
+      "id": "fb_sk_slavia_praha",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "SK Slavia Praha",
+      "translations": {
+        "zh-Hans": "布拉格斯拉维亚",
+        "zh-Hant": "布拉格斯拉維亞",
+        "en": "Slavia Prague",
+        "ja": "SKスラヴィア・プラハ",
+        "es": "Slavia Praga"
+      },
+      "aliases": [
+        "SK Slavia Praha",
+        "Slavia Prague",
+        "布拉格斯拉維亞",
+        "布拉格斯拉维亚"
+      ]
+    },
+    {
+      "id": "fb_ss_lazio",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "SS Lazio",
+      "translations": {
+        "zh-Hans": "拉齐奥",
+        "zh-Hant": "拉素",
+        "en": "Lazio",
+        "ja": "SSラツィオ",
+        "es": "Lazio"
+      },
+      "aliases": [
+        "Lazio",
+        "SS Lazio",
+        "拉素",
+        "拉齐奥",
+        "蓝鹰"
+      ]
+    },
+    {
+      "id": "fb_ssc_napoli",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "SSC Napoli",
+      "translations": {
+        "zh-Hans": "那不勒斯",
+        "zh-Hant": "拿坡里",
+        "en": "Napoli",
+        "ja": "SSCナポリ",
+        "es": "Nápoles"
+      },
+      "aliases": [
+        "Napoli",
+        "SSC Napoli",
+        "拿坡里",
+        "那不勒斯"
+      ]
+    },
+    {
+      "id": "fb_sv_07_elversberg",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "SV 07 Elversberg",
+      "translations": {
+        "zh-Hans": "埃尔沃斯堡",
+        "zh-Hant": "艾華斯堡",
+        "en": "SV Elversberg",
+        "ja": "SV07エルフェアスベルク",
+        "es": "Elversberg"
+      },
+      "aliases": [
+        "Elversberg",
+        "SV 07 Elversberg",
+        "SV Elversberg",
+        "埃尔沃斯堡",
+        "艾華斯堡"
+      ]
+    },
+    {
+      "id": "fb_sv_werder_bremen",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "SV Werder Bremen",
+      "translations": {
+        "zh-Hans": "云达不莱梅",
+        "zh-Hant": "雲達不萊梅",
+        "en": "Werder Bremen",
+        "ja": "ヴェルダー・ブレーメン",
+        "es": "Werder Bremen"
+      },
+      "aliases": [
+        "SV Werder Bremen",
+        "Werder Bremen",
+        "不莱梅",
+        "云达不莱梅",
+        "雲達不萊梅"
+      ]
+    },
+    {
+      "id": "fb_sabah_fk",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Sabah FK",
+      "translations": {
+        "zh-Hans": "萨巴赫",
+        "zh-Hant": "沙巴巴赫",
+        "en": "Sabah FC",
+        "ja": "サバFK",
+        "es": "Sabah FK"
+      },
+      "aliases": [
+        "Sabah FC",
+        "Sabah FK",
+        "沙巴巴赫",
+        "萨巴赫"
+      ]
+    },
+    {
+      "id": "fb_santos_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Santos FC",
+      "translations": {
+        "zh-Hans": "桑托斯",
+        "zh-Hant": "山度士",
+        "en": "Santos",
+        "ja": "サントス",
+        "es": "Santos"
+      },
+      "aliases": [
+        "Santos",
+        "Santos FC",
+        "山度士",
+        "桑托斯"
+      ]
+    },
+    {
+      "id": "fb_saudi_arabia",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Saudi Arabia",
+      "translations": {
+        "zh-Hans": "沙特阿拉伯",
+        "zh-Hant": "沙地阿拉伯",
+        "en": "Saudi Arabia",
+        "ja": "サウジアラビア",
+        "es": "Arabia Saudita"
+      },
+      "aliases": [
+        "Saudi Arabia",
+        "沙地阿拉伯",
+        "沙特",
+        "沙特阿拉伯"
+      ]
+    },
+    {
+      "id": "fb_scotland",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Scotland",
+      "translations": {
+        "zh-Hans": "苏格兰",
+        "zh-Hant": "蘇格蘭",
+        "en": "Scotland",
+        "ja": "スコットランド",
+        "es": "Escocia"
+      },
+      "aliases": [
+        "Scotland",
+        "苏格兰",
+        "蘇格蘭"
+      ]
+    },
+    {
+      "id": "fb_senegal",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Senegal",
+      "translations": {
+        "zh-Hans": "塞内加尔",
+        "zh-Hant": "塞內加爾",
+        "en": "Senegal",
+        "ja": "セネガル",
+        "es": "Senegal"
+      },
+      "aliases": [
+        "Senegal",
+        "塞內加爾",
+        "塞内加尔"
+      ]
+    },
+    {
+      "id": "fb_sevilla_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Sevilla FC",
+      "translations": {
+        "zh-Hans": "塞维利亚",
+        "zh-Hant": "西維爾",
+        "en": "Sevilla",
+        "ja": "セビージャFC",
+        "es": "Sevilla"
+      },
+      "aliases": [
+        "Sevilla",
+        "Sevilla FC",
+        "塞维利亚",
+        "西維爾"
+      ]
+    },
+    {
+      "id": "fb_sheffield_united_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Sheffield United FC",
+      "translations": {
+        "zh-Hans": "谢菲尔德联",
+        "zh-Hant": "錫菲聯",
+        "en": "Sheffield United",
+        "ja": "シェフィールド・ユナイテッド",
+        "es": "Sheffield United"
+      },
+      "aliases": [
+        "Sheffield United",
+        "Sheffield United FC",
+        "谢菲尔德联",
+        "谢菲联",
+        "錫菲聯"
+      ]
+    },
+    {
+      "id": "fb_sheffield_wednesday_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Sheffield Wednesday FC",
+      "translations": {
+        "zh-Hans": "谢菲尔德星期三",
+        "zh-Hant": "錫周三",
+        "en": "Sheffield Wednesday",
+        "ja": "シェフィールド・ウェンズデイ",
+        "es": "Sheffield Wednesday"
+      },
+      "aliases": [
+        "Sheffield Wednesday",
+        "Sheffield Wednesday FC",
+        "谢周三",
+        "谢菲尔德星期三",
+        "錫周三"
+      ]
+    },
+    {
+      "id": "fb_south_africa",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "South Africa",
+      "translations": {
+        "zh-Hans": "南非",
+        "zh-Hant": "南非",
+        "en": "South Africa",
+        "ja": "南アフリカ",
+        "es": "Sudáfrica"
+      },
+      "aliases": [
+        "South Africa",
+        "南非"
+      ]
+    },
+    {
+      "id": "fb_south_korea",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "South Korea",
+      "translations": {
+        "zh-Hans": "韩国",
+        "zh-Hant": "南韓",
+        "en": "South Korea",
+        "ja": "韓国",
+        "es": "Corea del Sur"
+      },
+      "aliases": [
+        "South Korea",
+        "南韓",
+        "韩国"
+      ]
+    },
+    {
+      "id": "fb_southampton_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Southampton FC",
+      "translations": {
+        "zh-Hans": "南安普顿",
+        "zh-Hant": "修咸顿",
+        "en": "Southampton",
+        "ja": "サウサンプトン",
+        "es": "Southampton"
+      },
+      "aliases": [
+        "Southampton",
+        "Southampton FC",
+        "修咸顿",
+        "南安普顿"
+      ]
+    },
+    {
+      "id": "fb_spain",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Spain",
+      "translations": {
+        "zh-Hans": "西班牙",
+        "zh-Hant": "西班牙",
+        "en": "Spain",
+        "ja": "スペイン",
+        "es": "España"
+      },
+      "aliases": [
+        "Spain",
+        "西班牙"
+      ]
+    },
+    {
+      "id": "fb_sparta_rotterdam",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Sparta Rotterdam",
+      "translations": {
+        "zh-Hans": "鹿特丹斯巴达",
+        "zh-Hant": "鹿特丹斯巴達",
+        "en": "Sparta Rotterdam",
+        "ja": "スパルタ・ロッテルダム",
+        "es": "Sparta Rotterdam"
+      },
+      "aliases": [
+        "Sparta Rotterdam",
+        "鹿特丹斯巴达",
+        "鹿特丹斯巴達"
+      ]
+    },
+    {
+      "id": "fb_sport_lisboa_e_benfica",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Sport Lisboa e Benfica",
+      "translations": {
+        "zh-Hans": "本菲卡",
+        "zh-Hant": "賓菲加",
+        "en": "Benfica",
+        "ja": "SLベンフィカ",
+        "es": "Benfica"
+      },
+      "aliases": [
+        "Benfica",
+        "Sport Lisboa e Benfica",
+        "本菲卡",
+        "賓菲加"
+      ]
+    },
+    {
+      "id": "fb_sporting_clube_de_braga",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Sporting Clube de Braga",
+      "translations": {
+        "zh-Hans": "布拉加",
+        "zh-Hant": "布拉加",
+        "en": "Sporting Braga",
+        "ja": "スポルティング・デ・ブラガ",
+        "es": "Sporting de Braga"
+      },
+      "aliases": [
+        "Braga",
+        "Sporting Braga",
+        "Sporting Clube de Braga",
+        "布拉加"
+      ]
+    },
+    {
+      "id": "fb_sporting_clube_de_portugal",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Sporting Clube de Portugal",
+      "translations": {
+        "zh-Hans": "葡萄牙体育",
+        "zh-Hant": "士砵亭",
+        "en": "Sporting CP",
+        "ja": "スポルティングCP",
+        "es": "Sporting de Portugal"
+      },
+      "aliases": [
+        "Sporting CP",
+        "Sporting Clube de Portugal",
+        "士砵亭",
+        "葡萄牙体育",
+        "里斯本竞技"
+      ]
+    },
+    {
+      "id": "fb_stade_brestois_29",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Stade Brestois 29",
+      "translations": {
+        "zh-Hans": "布雷斯特",
+        "zh-Hant": "比斯特",
+        "en": "Brest",
+        "ja": "スタッド・ブレスト29",
+        "es": "Brest"
+      },
+      "aliases": [
+        "Brest",
+        "Stade Brestois 29",
+        "布雷斯特",
+        "比斯特"
+      ]
+    },
+    {
+      "id": "fb_stade_rennais_fc_1901",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Stade Rennais FC 1901",
+      "translations": {
+        "zh-Hans": "雷恩",
+        "zh-Hant": "雷恩",
+        "en": "Rennes",
+        "ja": "スタッド・レンヌ",
+        "es": "Rennes"
+      },
+      "aliases": [
+        "Rennes",
+        "Stade Rennais FC 1901",
+        "雷恩"
+      ]
+    },
+    {
+      "id": "fb_stoke_city_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Stoke City FC",
+      "translations": {
+        "zh-Hans": "斯托克城",
+        "zh-Hant": "史笃城",
+        "en": "Stoke City",
+        "ja": "ストーク・シティ",
+        "es": "Stoke City"
+      },
+      "aliases": [
+        "Stoke City",
+        "Stoke City FC",
+        "史笃城",
+        "斯托克城"
+      ]
+    },
+    {
+      "id": "fb_sunderland_afc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Sunderland AFC",
+      "translations": {
+        "zh-Hans": "桑德兰",
+        "zh-Hant": "新特兰",
+        "en": "Sunderland",
+        "ja": "サンダーランド",
+        "es": "Sunderland"
+      },
+      "aliases": [
+        "Sunderland",
+        "Sunderland AFC",
+        "新特兰",
+        "桑德兰"
+      ]
+    },
+    {
+      "id": "fb_swansea_city_afc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Swansea City AFC",
+      "translations": {
+        "zh-Hans": "斯旺西城",
+        "zh-Hant": "史雲斯",
+        "en": "Swansea City",
+        "ja": "スウォンジー・シティ",
+        "es": "Swansea City"
+      },
+      "aliases": [
+        "Swansea City",
+        "Swansea City AFC",
+        "史雲斯",
+        "斯旺西城"
+      ]
+    },
+    {
+      "id": "fb_sweden",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Sweden",
+      "translations": {
+        "zh-Hans": "瑞典",
+        "zh-Hant": "瑞典",
+        "en": "Sweden",
+        "ja": "スウェーデン",
+        "es": "Suecia"
+      },
+      "aliases": [
+        "Sweden",
+        "瑞典"
+      ]
+    },
+    {
+      "id": "fb_switzerland",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Switzerland",
+      "translations": {
+        "zh-Hans": "瑞士",
+        "zh-Hant": "瑞士",
+        "en": "Switzerland",
+        "ja": "スイス",
+        "es": "Suiza"
+      },
+      "aliases": [
+        "Switzerland",
+        "瑞士"
+      ]
+    },
+    {
+      "id": "fb_s_o_paulo_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "São Paulo FC",
+      "translations": {
+        "zh-Hans": "圣保罗",
+        "zh-Hant": "聖保羅",
+        "en": "São Paulo",
+        "ja": "サンパウロ",
+        "es": "São Paulo"
+      },
+      "aliases": [
+        "Sao Paulo",
+        "São Paulo",
+        "São Paulo FC",
+        "圣保罗",
+        "聖保羅"
+      ]
+    },
+    {
+      "id": "fb_tsg_1899_hoffenheim",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "TSG 1899 Hoffenheim",
+      "translations": {
+        "zh-Hans": "霍芬海姆",
+        "zh-Hant": "賀芬咸",
+        "en": "Hoffenheim",
+        "ja": "TSG1899ホッフェンハイム",
+        "es": "Hoffenheim"
+      },
+      "aliases": [
+        "Hoffenheim",
+        "TSG 1899 Hoffenheim",
+        "賀芬咸",
+        "霍芬海姆"
+      ]
+    },
+    {
+      "id": "fb_telstar_1963",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Telstar 1963",
+      "translations": {
+        "zh-Hans": "特尔斯达",
+        "zh-Hant": "泰斯達",
+        "en": "Telstar",
+        "ja": "テルスター",
+        "es": "Telstar"
+      },
+      "aliases": [
+        "Telstar",
+        "Telstar 1963",
+        "泰斯達",
+        "特尔斯达"
+      ]
+    },
+    {
+      "id": "fb_torino_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Torino FC",
+      "translations": {
+        "zh-Hans": "都灵",
+        "zh-Hant": "拖連奴",
+        "en": "Torino",
+        "ja": "トリノFC",
+        "es": "Torino"
+      },
+      "aliases": [
+        "Torino",
+        "Torino FC",
+        "拖連奴",
+        "都灵"
+      ]
+    },
+    {
+      "id": "fb_tottenham_hotspur_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Tottenham Hotspur FC",
+      "translations": {
+        "zh-Hans": "托特纳姆热刺",
+        "zh-Hant": "熱刺",
+        "en": "Tottenham Hotspur",
+        "ja": "トッテナム・ホットスパー",
+        "es": "Tottenham Hotspur"
+      },
+      "aliases": [
+        "Spurs",
+        "Tottenham",
+        "Tottenham Hotspur",
+        "Tottenham Hotspur FC",
+        "托特纳姆热刺",
+        "热刺",
+        "熱刺"
+      ]
+    },
+    {
+      "id": "fb_toulouse_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Toulouse FC",
+      "translations": {
+        "zh-Hans": "图卢兹",
+        "zh-Hant": "圖盧茲",
+        "en": "Toulouse",
+        "ja": "トゥールーズFC",
+        "es": "Toulouse"
+      },
+      "aliases": [
+        "Toulouse",
+        "Toulouse FC",
+        "图卢兹",
+        "圖盧茲"
+      ]
+    },
+    {
+      "id": "fb_tunisia",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Tunisia",
+      "translations": {
+        "zh-Hans": "突尼斯",
+        "zh-Hant": "突尼西亞",
+        "en": "Tunisia",
+        "ja": "チュニジア",
+        "es": "Túnez"
+      },
+      "aliases": [
+        "Tunisia",
+        "突尼斯",
+        "突尼西亞"
+      ]
+    },
+    {
+      "id": "fb_turkey",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Turkey",
+      "translations": {
+        "zh-Hans": "土耳其",
+        "zh-Hant": "土耳其",
+        "en": "Turkey",
+        "ja": "トルコ",
+        "es": "Turquía"
+      },
+      "aliases": [
+        "Turkey",
+        "土耳其"
+      ]
+    },
+    {
+      "id": "fb_us_cremonese",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "US Cremonese",
+      "translations": {
+        "zh-Hans": "克雷莫内塞",
+        "zh-Hant": "克雷莫納",
+        "en": "Cremonese",
+        "ja": "USクレモネーゼ",
+        "es": "Cremonese"
+      },
+      "aliases": [
+        "Cremonese",
+        "US Cremonese",
+        "克雷莫内塞",
+        "克雷莫納"
+      ]
+    },
+    {
+      "id": "fb_us_lecce",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "US Lecce",
+      "translations": {
+        "zh-Hans": "莱切",
+        "zh-Hant": "萊切",
+        "en": "Lecce",
+        "ja": "USレッチェ",
+        "es": "Lecce"
+      },
+      "aliases": [
+        "Lecce",
+        "US Lecce",
+        "莱切",
+        "萊切"
+      ]
+    },
+    {
+      "id": "fb_us_sassuolo_calcio",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "US Sassuolo Calcio",
+      "translations": {
+        "zh-Hans": "萨索洛",
+        "zh-Hant": "薩斯索羅",
+        "en": "Sassuolo",
+        "ja": "USサッスオーロ・カルチョ",
+        "es": "Sassuolo"
+      },
+      "aliases": [
+        "Sassuolo",
+        "US Sassuolo Calcio",
+        "萨索洛",
+        "薩斯索羅"
+      ]
+    },
+    {
+      "id": "fb_udinese_calcio",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Udinese Calcio",
+      "translations": {
+        "zh-Hans": "乌迪内斯",
+        "zh-Hant": "烏甸尼斯",
+        "en": "Udinese",
+        "ja": "ウディネーゼ・カルチョ",
+        "es": "Udinese"
+      },
+      "aliases": [
+        "Udinese",
+        "Udinese Calcio",
+        "乌迪内斯",
+        "烏甸尼斯"
+      ]
+    },
+    {
+      "id": "fb_united_states",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "United States",
+      "translations": {
+        "zh-Hans": "美国",
+        "zh-Hant": "美國",
+        "en": "United States",
+        "ja": "アメリカ合衆国",
+        "es": "Estados Unidos"
+      },
+      "aliases": [
+        "USA",
+        "United States",
+        "美国",
+        "美國"
+      ]
+    },
+    {
+      "id": "fb_universidad_catolica",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Universidad Catolica",
+      "translations": {
+        "zh-Hans": "厄瓜多尔天主教大学",
+        "zh-Hant": "天主教大學(厄)",
+        "en": "Universidad Católica",
+        "ja": "ウニベルシダ・カトリカ(ECU)",
+        "es": "Universidad Católica (Ecuador)"
+      },
+      "aliases": [
+        "Universidad Catolica",
+        "Universidad Católica",
+        "厄瓜多尔天主教大学",
+        "天主教大学",
+        "天主教大學(厄)"
+      ]
+    },
+    {
+      "id": "fb_universidad_central_de_venezuela_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Universidad Central de Venezuela FC",
+      "translations": {
+        "zh-Hans": "委内瑞拉中央大学",
+        "zh-Hant": "委內瑞拉中央大學",
+        "en": "UCV FC",
+        "ja": "UCV FC",
+        "es": "Universidad Central de Venezuela"
+      },
+      "aliases": [
+        "UCV FC",
+        "Universidad Central de Venezuela FC",
+        "委內瑞拉中央大學",
+        "委内瑞拉中央大学"
+      ]
+    },
+    {
+      "id": "fb_uruguay",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Uruguay",
+      "translations": {
+        "zh-Hans": "乌拉圭",
+        "zh-Hant": "烏拉圭",
+        "en": "Uruguay",
+        "ja": "ウルグアイ",
+        "es": "Uruguay"
+      },
+      "aliases": [
+        "Uruguay",
+        "乌拉圭",
+        "烏拉圭"
+      ]
+    },
+    {
+      "id": "fb_uzbekistan",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Uzbekistan",
+      "translations": {
+        "zh-Hans": "乌兹别克斯坦",
+        "zh-Hant": "烏茲別克",
+        "en": "Uzbekistan",
+        "ja": "ウズベキスタン",
+        "es": "Uzbekistán"
+      },
+      "aliases": [
+        "Uzbekistan",
+        "乌兹别克斯坦",
+        "烏茲別克"
+      ]
+    },
+    {
+      "id": "fb_valencia_cf",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Valencia CF",
+      "translations": {
+        "zh-Hans": "瓦伦西亚",
+        "zh-Hant": "華伦西亞",
+        "en": "Valencia",
+        "ja": "バレンシアCF",
+        "es": "Valencia"
+      },
+      "aliases": [
+        "Valencia",
+        "Valencia CF",
+        "瓦伦西亚",
+        "華伦西亞",
+        "蝙蝠军团"
+      ]
+    },
+    {
+      "id": "fb_venezia_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Venezia FC",
+      "translations": {
+        "zh-Hans": "威尼斯",
+        "zh-Hant": "威尼斯",
+        "en": "Venezia",
+        "ja": "ヴェネツィアFC",
+        "es": "Venecia"
+      },
+      "aliases": [
+        "Venezia",
+        "Venezia FC",
+        "威尼斯"
+      ]
+    },
+    {
+      "id": "fb_vfb_stuttgart",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "VfB Stuttgart",
+      "translations": {
+        "zh-Hans": "斯图加特",
+        "zh-Hant": "史特加",
+        "en": "VfB Stuttgart",
+        "ja": "VfBシュトゥットガルト",
+        "es": "Stuttgart"
+      },
+      "aliases": [
+        "Stuttgart",
+        "VfB Stuttgart",
+        "史特加",
+        "斯图加特"
+      ]
+    },
+    {
+      "id": "fb_vfl_wolfsburg",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "VfL Wolfsburg",
+      "translations": {
+        "zh-Hans": "沃尔夫斯堡",
+        "zh-Hant": "禾夫斯堡",
+        "en": "VfL Wolfsburg",
+        "ja": "VfLヴォルフスブルク",
+        "es": "Wolfsburgo"
+      },
+      "aliases": [
+        "VfL Wolfsburg",
+        "Wolfsburg",
+        "沃尔夫斯堡",
+        "狼堡",
+        "禾夫斯堡"
+      ]
+    },
+    {
+      "id": "fb_viking_fk",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Viking FK",
+      "translations": {
+        "zh-Hans": "维京",
+        "zh-Hant": "維京",
+        "en": "Viking FK",
+        "ja": "バイキングFK",
+        "es": "Viking FK"
+      },
+      "aliases": [
+        "Viking",
+        "Viking FK",
+        "維京",
+        "维京"
+      ]
+    },
+    {
+      "id": "fb_villarreal_cf",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Villarreal CF",
+      "translations": {
+        "zh-Hans": "比利亚雷亚尔",
+        "zh-Hant": "維拉利爾",
+        "en": "Villarreal",
+        "ja": "ビジャレアルCF",
+        "es": "Villarreal"
+      },
+      "aliases": [
+        "Villarreal",
+        "Villarreal CF",
+        "比利亚雷亚尔",
+        "維拉利爾",
+        "黄色潜水艇"
+      ]
+    },
+    {
+      "id": "fb_vit_ria_sc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Vitória SC",
+      "translations": {
+        "zh-Hans": "吉马良斯",
+        "zh-Hant": "甘馬雷斯",
+        "en": "Vitória de Guimarães",
+        "ja": "ヴィトーリアSC",
+        "es": "Vitória de Guimarães"
+      },
+      "aliases": [
+        "Vitoria de Guimaraes",
+        "Vitória SC",
+        "Vitória de Guimarães",
+        "吉马良斯",
+        "甘馬雷斯"
+      ]
+    },
+    {
+      "id": "fb_watford_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Watford FC",
+      "translations": {
+        "zh-Hans": "沃特福德",
+        "zh-Hant": "屈福特",
+        "en": "Watford",
+        "ja": "ワトフォード",
+        "es": "Watford"
+      },
+      "aliases": [
+        "Watford",
+        "Watford FC",
+        "屈福特",
+        "沃特福德"
+      ]
+    },
+    {
+      "id": "fb_west_bromwich_albion_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "West Bromwich Albion FC",
+      "translations": {
+        "zh-Hans": "西布罗姆维奇",
+        "zh-Hant": "西布朗",
+        "en": "West Bromwich Albion",
+        "ja": "ウェスト・ブロムウィッチ・アルビオン",
+        "es": "West Bromwich Albion"
+      },
+      "aliases": [
+        "West Brom",
+        "West Bromwich Albion",
+        "West Bromwich Albion FC",
+        "西布朗",
+        "西布罗姆维奇"
+      ]
+    },
+    {
+      "id": "fb_west_ham_united_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "West Ham United FC",
+      "translations": {
+        "zh-Hans": "西汉姆联",
+        "zh-Hant": "韋斯咸",
+        "en": "West Ham United",
+        "ja": "ウェストハム・ユナイテッド",
+        "es": "West Ham United"
+      },
+      "aliases": [
+        "West Ham",
+        "West Ham United",
+        "West Ham United FC",
+        "西汉姆联",
+        "韋斯咸"
+      ]
+    },
+    {
+      "id": "fb_willem_ii_tilburg",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Willem II Tilburg",
+      "translations": {
+        "zh-Hans": "威廉二世",
+        "zh-Hant": "威廉二世",
+        "en": "Willem II",
+        "ja": "ヴィレムII",
+        "es": "Willem II"
+      },
+      "aliases": [
+        "Willem II",
+        "Willem II Tilburg",
+        "威廉二世"
+      ]
+    },
+    {
+      "id": "fb_wolverhampton_wanderers_fc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Wolverhampton Wanderers FC",
+      "translations": {
+        "zh-Hans": "狼队",
+        "zh-Hant": "狼隊",
+        "en": "Wolverhampton Wanderers",
+        "ja": "ウルヴァーハンプトン・ワンダラーズ",
+        "es": "Wolverhampton Wanderers"
+      },
+      "aliases": [
+        "Wolverhampton Wanderers",
+        "Wolverhampton Wanderers FC",
+        "Wolves",
+        "伍尔弗汉普顿流浪者",
+        "狼队",
+        "狼隊"
+      ]
+    },
+    {
+      "id": "fb_wrexham_afc",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "Wrexham AFC",
+      "translations": {
+        "zh-Hans": "雷克瑟姆",
+        "zh-Hant": "域斯咸",
+        "en": "Wrexham",
+        "ja": "レクサム",
+        "es": "Wrexham"
+      },
+      "aliases": [
+        "Wrexham",
+        "Wrexham AFC",
+        "域斯咸",
+        "雷克瑟姆"
+      ]
+    },
+    {
+      "id": "fb_k_slovan_bratislava",
+      "sport": "football",
+      "type": "team",
+      "canonical_name": "ŠK Slovan Bratislava",
+      "translations": {
+        "zh-Hans": "布拉迪斯拉发斯拉夫",
+        "zh-Hant": "斯洛雲",
+        "en": "Slovan Bratislava",
+        "ja": "ŠKスロヴァン・ブラチスラヴァ",
+        "es": "Slovan Bratislava"
+      },
+      "aliases": [
+        "Slovan Bratislava",
+        "ŠK Slovan Bratislava",
+        "布拉迪斯拉发",
+        "布拉迪斯拉发斯拉夫",
+        "斯洛雲"
+      ]
+    },
+    {
+      "id": "comp_nba",
+      "sport": "basketball",
+      "type": "league",
+      "canonical_name": "NBA",
+      "translations": {
+        "zh-Hans": "NBA",
+        "zh-Hant": "NBA",
+        "en": "NBA",
+        "ja": "NBA",
+        "es": "NBA"
+      },
+      "aliases": [
+        "NBA",
+        "National Basketball Association",
+        "美职篮"
+      ]
+    },
+    {
+      "id": "nba_bos",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Boston Celtics",
+      "translations": {
+        "zh-Hans": "波士顿凯尔特人",
+        "zh-Hant": "波士頓塞爾提克",
+        "en": "Boston Celtics",
+        "ja": "ボストン・セルティックス",
+        "es": "Boston Celtics"
+      },
+      "aliases": [
+        "Boston Celtics",
+        "Celtics",
+        "凯尔特人",
+        "绿衫军"
+      ]
+    },
+    {
+      "id": "nba_bkn",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Brooklyn Nets",
+      "translations": {
+        "zh-Hans": "布鲁克林篮网",
+        "zh-Hant": "布魯克林籃網",
+        "en": "Brooklyn Nets",
+        "ja": "ブルックリン・ネッツ",
+        "es": "Brooklyn Nets"
+      },
+      "aliases": [
+        "Brooklyn Nets",
+        "Nets",
+        "篮网"
+      ]
+    },
+    {
+      "id": "nba_nyk",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "New York Knicks",
+      "translations": {
+        "zh-Hans": "纽约尼克斯",
+        "zh-Hant": "紐約尼克",
+        "en": "New York Knicks",
+        "ja": "ニューヨーク・ニックス",
+        "es": "New York Knicks"
+      },
+      "aliases": [
+        "New York Knicks",
+        "Knicks",
+        "尼克斯",
+        "尼克"
+      ]
+    },
+    {
+      "id": "nba_phi",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Philadelphia 76ers",
+      "translations": {
+        "zh-Hans": "费城76人",
+        "zh-Hant": "費城76人",
+        "en": "Philadelphia 76ers",
+        "ja": "フィラデルフィア・セブンティシクサーズ",
+        "es": "Philadelphia 76ers"
+      },
+      "aliases": [
+        "Philadelphia 76ers",
+        "76ers",
+        "Sixers",
+        "76人"
+      ]
+    },
+    {
+      "id": "nba_tor",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Toronto Raptors",
+      "translations": {
+        "zh-Hans": "多伦多猛龙",
+        "zh-Hant": "多倫多暴龍",
+        "en": "Toronto Raptors",
+        "ja": "トロント・ラプターズ",
+        "es": "Toronto Raptors"
+      },
+      "aliases": [
+        "Toronto Raptors",
+        "Raptors",
+        "猛龙",
+        "暴龙"
+      ]
+    },
+    {
+      "id": "nba_chi",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Chicago Bulls",
+      "translations": {
+        "zh-Hans": "芝加哥公牛",
+        "zh-Hant": "芝加哥公牛",
+        "en": "Chicago Bulls",
+        "ja": "シカゴ・ブルズ",
+        "es": "Chicago Bulls"
+      },
+      "aliases": [
+        "Chicago Bulls",
+        "Bulls",
+        "公牛"
+      ]
+    },
+    {
+      "id": "nba_cle",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Cleveland Cavaliers",
+      "translations": {
+        "zh-Hans": "克利夫兰骑士",
+        "zh-Hant": "克里夫蘭騎士",
+        "en": "Cleveland Cavaliers",
+        "ja": "クリーブランド・キャバリアーズ",
+        "es": "Cleveland Cavaliers"
+      },
+      "aliases": [
+        "Cleveland Cavaliers",
+        "Cavaliers",
+        "Cavs",
+        "骑士"
+      ]
+    },
+    {
+      "id": "nba_det",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Detroit Pistons",
+      "translations": {
+        "zh-Hans": "底特律活塞",
+        "zh-Hant": "底特律活塞",
+        "en": "Detroit Pistons",
+        "ja": "デトロイト・ピストンズ",
+        "es": "Detroit Pistons"
+      },
+      "aliases": [
+        "Detroit Pistons",
+        "Pistons",
+        "活塞"
+      ]
+    },
+    {
+      "id": "nba_ind",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Indiana Pacers",
+      "translations": {
+        "zh-Hans": "印第安纳步行者",
+        "zh-Hant": "印第安那溜馬",
+        "en": "Indiana Pacers",
+        "ja": "インディアナ・ペイサーズ",
+        "es": "Indiana Pacers"
+      },
+      "aliases": [
+        "Indiana Pacers",
+        "Pacers",
+        "步行者",
+        "溜马"
+      ]
+    },
+    {
+      "id": "nba_mil",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Milwaukee Bucks",
+      "translations": {
+        "zh-Hans": "密尔沃基雄鹿",
+        "zh-Hant": "密爾瓦基公鹿",
+        "en": "Milwaukee Bucks",
+        "ja": "ミルウォーキー・バックス",
+        "es": "Milwaukee Bucks"
+      },
+      "aliases": [
+        "Milwaukee Bucks",
+        "Bucks",
+        "雄鹿",
+        "公鹿"
+      ]
+    },
+    {
+      "id": "nba_atl",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Atlanta Hawks",
+      "translations": {
+        "zh-Hans": "亚特兰大老鹰",
+        "zh-Hant": "亞特蘭大老鷹",
+        "en": "Atlanta Hawks",
+        "ja": "アトランタ・ホークス",
+        "es": "Atlanta Hawks"
+      },
+      "aliases": [
+        "Atlanta Hawks",
+        "Hawks",
+        "老鹰"
+      ]
+    },
+    {
+      "id": "nba_cha",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Charlotte Hornets",
+      "translations": {
+        "zh-Hans": "夏洛特黄蜂",
+        "zh-Hant": "夏洛特黃蜂",
+        "en": "Charlotte Hornets",
+        "ja": "シャーロット・ホーネッツ",
+        "es": "Charlotte Hornets"
+      },
+      "aliases": [
+        "Charlotte Hornets",
+        "Hornets",
+        "黄蜂"
+      ]
+    },
+    {
+      "id": "nba_mia",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Miami Heat",
+      "translations": {
+        "zh-Hans": "迈阿密热火",
+        "zh-Hant": "邁阿密熱火",
+        "en": "Miami Heat",
+        "ja": "マイアミ・ヒート",
+        "es": "Miami Heat"
+      },
+      "aliases": [
+        "Miami Heat",
+        "Heat",
+        "热火"
+      ]
+    },
+    {
+      "id": "nba_orl",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Orlando Magic",
+      "translations": {
+        "zh-Hans": "奥兰多魔术",
+        "zh-Hant": "奧蘭多魔術",
+        "en": "Orlando Magic",
+        "ja": "オーランド・マジック",
+        "es": "Orlando Magic"
+      },
+      "aliases": [
+        "Orlando Magic",
+        "Magic",
+        "魔术"
+      ]
+    },
+    {
+      "id": "nba_was",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Washington Wizards",
+      "translations": {
+        "zh-Hans": "华盛顿奇才",
+        "zh-Hant": "華盛頓巫師",
+        "en": "Washington Wizards",
+        "ja": "ワシントン・ウィザーズ",
+        "es": "Washington Wizards"
+      },
+      "aliases": [
+        "Washington Wizards",
+        "Wizards",
+        "奇才",
+        "巫师"
+      ]
+    },
+    {
+      "id": "nba_den",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Denver Nuggets",
+      "translations": {
+        "zh-Hans": "丹佛掘金",
+        "zh-Hant": "丹佛金塊",
+        "en": "Denver Nuggets",
+        "ja": "デンバー・ナゲッツ",
+        "es": "Denver Nuggets"
+      },
+      "aliases": [
+        "Denver Nuggets",
+        "Nuggets",
+        "掘金",
+        "金块"
+      ]
+    },
+    {
+      "id": "nba_min",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Minnesota Timberwolves",
+      "translations": {
+        "zh-Hans": "明尼苏达森林狼",
+        "zh-Hant": "明尼蘇達灰狼",
+        "en": "Minnesota Timberwolves",
+        "ja": "ミネソタ・ティンバーウルブズ",
+        "es": "Minnesota Timberwolves"
+      },
+      "aliases": [
+        "Minnesota Timberwolves",
+        "Timberwolves",
+        "Wolves",
+        "森林狼",
+        "灰狼"
+      ]
+    },
+    {
+      "id": "nba_okc",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Oklahoma City Thunder",
+      "translations": {
+        "zh-Hans": "俄克拉荷马城雷霆",
+        "zh-Hant": "奧克拉荷馬城雷霆",
+        "en": "Oklahoma City Thunder",
+        "ja": "オクラホマシティ・サンダー",
+        "es": "Oklahoma City Thunder"
+      },
+      "aliases": [
+        "Oklahoma City Thunder",
+        "Thunder",
+        "OKC",
+        "雷霆"
+      ]
+    },
+    {
+      "id": "nba_por",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Portland Trail Blazers",
+      "translations": {
+        "zh-Hans": "波特兰开拓者",
+        "zh-Hant": "波特蘭拓荒者",
+        "en": "Portland Trail Blazers",
+        "ja": "ポートランド・トレイルブレイザーズ",
+        "es": "Portland Trail Blazers"
+      },
+      "aliases": [
+        "Portland Trail Blazers",
+        "Trail Blazers",
+        "Blazers",
+        "开拓者",
+        "拓荒者"
+      ]
+    },
+    {
+      "id": "nba_uta",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Utah Jazz",
+      "translations": {
+        "zh-Hans": "犹他爵士",
+        "zh-Hant": "猶他爵士",
+        "en": "Utah Jazz",
+        "ja": "ユタ・ジャズ",
+        "es": "Utah Jazz"
+      },
+      "aliases": [
+        "Utah Jazz",
+        "Jazz",
+        "爵士"
+      ]
+    },
+    {
+      "id": "nba_gsw",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Golden State Warriors",
+      "translations": {
+        "zh-Hans": "金州勇士",
+        "zh-Hant": "金州勇士",
+        "en": "Golden State Warriors",
+        "ja": "ゴールデンステート・ウォリアーズ",
+        "es": "Golden State Warriors"
+      },
+      "aliases": [
+        "Golden State Warriors",
+        "Warriors",
+        "GSW",
+        "勇士",
+        "金州勇士"
+      ]
+    },
+    {
+      "id": "nba_lac",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "LA Clippers",
+      "translations": {
+        "zh-Hans": "洛杉矶快船",
+        "zh-Hant": "洛杉磯快艇",
+        "en": "LA Clippers",
+        "ja": "ロサンゼルス・クリッパーズ",
+        "es": "Los Angeles Clippers"
+      },
+      "aliases": [
+        "LA Clippers",
+        "Los Angeles Clippers",
+        "Clippers",
+        "快船",
+        "快艇"
+      ]
+    },
+    {
+      "id": "nba_lal",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Los Angeles Lakers",
+      "translations": {
+        "zh-Hans": "洛杉矶湖人",
+        "zh-Hant": "洛杉磯湖人",
+        "en": "Los Angeles Lakers",
+        "ja": "ロサンゼルス・レイカーズ",
+        "es": "Los Angeles Lakers"
+      },
+      "aliases": [
+        "Los Angeles Lakers",
+        "Lakers",
+        "LAL",
+        "湖人",
+        "洛杉矶湖人",
+        "紫金军团"
+      ]
+    },
+    {
+      "id": "nba_phx",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Phoenix Suns",
+      "translations": {
+        "zh-Hans": "菲尼克斯太阳",
+        "zh-Hant": "鳳凰城太陽",
+        "en": "Phoenix Suns",
+        "ja": "フェニックス・サンズ",
+        "es": "Phoenix Suns"
+      },
+      "aliases": [
+        "Phoenix Suns",
+        "Suns",
+        "太阳"
+      ]
+    },
+    {
+      "id": "nba_sac",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Sacramento Kings",
+      "translations": {
+        "zh-Hans": "萨克拉门托国王",
+        "zh-Hant": "沙加緬度國王",
+        "en": "Sacramento Kings",
+        "ja": "サクラメント・キングス",
+        "es": "Sacramento Kings"
+      },
+      "aliases": [
+        "Sacramento Kings",
+        "Kings",
+        "国王"
+      ]
+    },
+    {
+      "id": "nba_dal",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Dallas Mavericks",
+      "translations": {
+        "zh-Hans": "达拉斯独行侠",
+        "zh-Hant": "達拉斯獨行俠",
+        "en": "Dallas Mavericks",
+        "ja": "ダラス・マーベリックス",
+        "es": "Dallas Mavericks"
+      },
+      "aliases": [
+        "Dallas Mavericks",
+        "Mavericks",
+        "Mavs",
+        "独行侠",
+        "小牛"
+      ]
+    },
+    {
+      "id": "nba_hou",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Houston Rockets",
+      "translations": {
+        "zh-Hans": "休斯顿火箭",
+        "zh-Hant": "休士頓火箭",
+        "en": "Houston Rockets",
+        "ja": "ヒューストン・ロケッツ",
+        "es": "Houston Rockets"
+      },
+      "aliases": [
+        "Houston Rockets",
+        "Rockets",
+        "火箭"
+      ]
+    },
+    {
+      "id": "nba_mem",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "Memphis Grizzlies",
+      "translations": {
+        "zh-Hans": "孟菲斯灰熊",
+        "zh-Hant": "曼菲斯灰熊",
+        "en": "Memphis Grizzlies",
+        "ja": "メンフィス・グリズリーズ",
+        "es": "Memphis Grizzlies"
+      },
+      "aliases": [
+        "Memphis Grizzlies",
+        "Grizzlies",
+        "灰熊"
+      ]
+    },
+    {
+      "id": "nba_nop",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "New Orleans Pelicans",
+      "translations": {
+        "zh-Hans": "新奥尔良鹈鹕",
+        "zh-Hant": "紐奧良鵜鶘",
+        "en": "New Orleans Pelicans",
+        "ja": "ニューオーリンズ・ペリカンズ",
+        "es": "New Orleans Pelicans"
+      },
+      "aliases": [
+        "New Orleans Pelicans",
+        "Pelicans",
+        "鹈鹕"
+      ]
+    },
+    {
+      "id": "nba_sas",
+      "sport": "basketball",
+      "type": "team",
+      "canonical_name": "San Antonio Spurs",
+      "translations": {
+        "zh-Hans": "圣安东尼奥马刺",
+        "zh-Hant": "聖安東尼奧馬刺",
+        "en": "San Antonio Spurs",
+        "ja": "サンアントニオ・スパーズ",
+        "es": "San Antonio Spurs"
+      },
+      "aliases": [
+        "San Antonio Spurs",
+        "Spurs",
+        "马刺"
+      ]
+    },
+    {
+      "id": "comp_asian_games",
+      "sport": "asian-games",
+      "type": "league",
+      "canonical_name": "Asian Games 2026",
+      "translations": {
+        "zh-Hans": "亚运会",
+        "zh-Hant": "亞運會",
+        "en": "Asian Games",
+        "ja": "アジア競技大会",
+        "es": "Asian Games 2026"
+      },
+      "aliases": [
+        "20th Asian Games",
+        "Asian Games",
+        "Asian Games 2026",
+        "亚运会",
+        "名古屋亚运会"
+      ]
+    },
+    {
+      "id": "ag_afg",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Afghanistan",
+      "translations": {
+        "zh-Hans": "阿富汗",
+        "zh-Hant": "阿富汗",
+        "en": "Afghanistan",
+        "ja": "アフガニスタン",
+        "es": "Afganistán"
+      },
+      "aliases": [
+        "AFG",
+        "Afganistán",
+        "Afghanistan",
+        "阿富汗"
+      ]
+    },
+    {
+      "id": "ag_brn",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Bahrain",
+      "translations": {
+        "zh-Hans": "巴林",
+        "zh-Hant": "巴林",
+        "en": "Bahrain",
+        "ja": "バーレーン",
+        "es": "Baréin"
+      },
+      "aliases": [
+        "BRN",
+        "Bahrain",
+        "Baréin",
+        "巴林"
+      ]
+    },
+    {
+      "id": "ag_ban",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Bangladesh",
+      "translations": {
+        "zh-Hans": "孟加拉国",
+        "zh-Hant": "孟加拉",
+        "en": "Bangladesh",
+        "ja": "バングラデシュ",
+        "es": "Bangladés"
+      },
+      "aliases": [
+        "BAN",
+        "Bangladesh",
+        "Bangladés",
+        "孟加拉",
+        "孟加拉国"
+      ]
+    },
+    {
+      "id": "ag_bhu",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Bhutan",
+      "translations": {
+        "zh-Hans": "不丹",
+        "zh-Hant": "不丹",
+        "en": "Bhutan",
+        "ja": "ブータン",
+        "es": "Bután"
+      },
+      "aliases": [
+        "BHU",
+        "Bhutan",
+        "Bután",
+        "不丹"
+      ]
+    },
+    {
+      "id": "ag_bru",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Brunei",
+      "translations": {
+        "zh-Hans": "文莱",
+        "zh-Hant": "汶萊",
+        "en": "Brunei",
+        "ja": "ブルネイ",
+        "es": "Brunéi"
+      },
+      "aliases": [
+        "BRU",
+        "Brunei",
+        "Brunéi",
+        "文莱",
+        "汶莱"
+      ]
+    },
+    {
+      "id": "ag_cam",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Cambodia",
+      "translations": {
+        "zh-Hans": "柬埔寨",
+        "zh-Hant": "柬埔寨",
+        "en": "Cambodia",
+        "ja": "カンボジア",
+        "es": "Camboya"
+      },
+      "aliases": [
+        "CAM",
+        "Cambodia",
+        "Camboya",
+        "柬埔寨"
+      ]
+    },
+    {
+      "id": "ag_chn",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "China",
+      "translations": {
+        "zh-Hans": "中国",
+        "zh-Hant": "中國",
+        "en": "China",
+        "ja": "中国",
+        "es": "China"
+      },
+      "aliases": [
+        "CHN",
+        "China",
+        "中华人民共和国",
+        "中国"
+      ]
+    },
+    {
+      "id": "ag_tpe",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Chinese Taipei",
+      "translations": {
+        "zh-Hans": "中华台北",
+        "zh-Hant": "中華台北",
+        "en": "Chinese Taipei",
+        "ja": "チャイニーズタイペイ",
+        "es": "China Taipéi"
+      },
+      "aliases": [
+        "China Taipéi",
+        "Chinese Taipei",
+        "TPE",
+        "中华台北",
+        "中華台北",
+        "台湾"
+      ]
+    },
+    {
+      "id": "ag_hkg",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Hong Kong, China",
+      "translations": {
+        "zh-Hans": "中国香港",
+        "zh-Hant": "中國香港",
+        "en": "Hong Kong, China",
+        "ja": "香港",
+        "es": "Hong Kong, China"
+      },
+      "aliases": [
+        "HKG",
+        "Hong Kong",
+        "Hong Kong, China",
+        "中国香港",
+        "香港"
+      ]
+    },
+    {
+      "id": "ag_ind",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "India",
+      "translations": {
+        "zh-Hans": "印度",
+        "zh-Hant": "印度",
+        "en": "India",
+        "ja": "インド",
+        "es": "India"
+      },
+      "aliases": [
+        "IND",
+        "India",
+        "印度"
+      ]
+    },
+    {
+      "id": "ag_ina",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Indonesia",
+      "translations": {
+        "zh-Hans": "印度尼西亚",
+        "zh-Hant": "印尼",
+        "en": "Indonesia",
+        "ja": "インドネシア",
+        "es": "Indonesia"
+      },
+      "aliases": [
+        "INA",
+        "Indonesia",
+        "印尼",
+        "印度尼西亚"
+      ]
+    },
+    {
+      "id": "ag_iri",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Iran",
+      "translations": {
+        "zh-Hans": "伊朗",
+        "zh-Hant": "伊朗",
+        "en": "Iran",
+        "ja": "イラン",
+        "es": "Irán"
+      },
+      "aliases": [
+        "IRI",
+        "Iran",
+        "Irán",
+        "伊朗"
+      ]
+    },
+    {
+      "id": "ag_irq",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Iraq",
+      "translations": {
+        "zh-Hans": "伊拉克",
+        "zh-Hant": "伊拉克",
+        "en": "Iraq",
+        "ja": "イラク",
+        "es": "Irak"
+      },
+      "aliases": [
+        "IRQ",
+        "Irak",
+        "Iraq",
+        "伊拉克"
+      ]
+    },
+    {
+      "id": "ag_jpn",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Japan (Host)",
+      "translations": {
+        "zh-Hans": "日本（东道主）",
+        "zh-Hant": "日本（東道主）",
+        "en": "Japan (Host)",
+        "ja": "日本（開催国）",
+        "es": "Japón (Anfitrión)"
+      },
+      "aliases": [
+        "JPN",
+        "Japan",
+        "Japan (Host)",
+        "Japón (Anfitrión)",
+        "日本"
+      ]
+    },
+    {
+      "id": "ag_jor",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Jordan",
+      "translations": {
+        "zh-Hans": "约旦",
+        "zh-Hant": "約旦",
+        "en": "Jordan",
+        "ja": "ヨルダン",
+        "es": "Jordania"
+      },
+      "aliases": [
+        "JOR",
+        "Jordan",
+        "Jordania",
+        "约旦"
+      ]
+    },
+    {
+      "id": "ag_kaz",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Kazakhstan",
+      "translations": {
+        "zh-Hans": "哈萨克斯坦",
+        "zh-Hant": "哈薩克",
+        "en": "Kazakhstan",
+        "ja": "カザフスタン",
+        "es": "Kazajistán"
+      },
+      "aliases": [
+        "KAZ",
+        "Kazajistán",
+        "Kazakhstan",
+        "哈萨克",
+        "哈萨克斯坦"
+      ]
+    },
+    {
+      "id": "ag_kuw",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Kuwait",
+      "translations": {
+        "zh-Hans": "科威特",
+        "zh-Hant": "科威特",
+        "en": "Kuwait",
+        "ja": "クウェート",
+        "es": "Kuwait"
+      },
+      "aliases": [
+        "KUW",
+        "Kuwait",
+        "科威特"
+      ]
+    },
+    {
+      "id": "ag_kgz",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Kyrgyzstan",
+      "translations": {
+        "zh-Hans": "吉尔吉斯斯坦",
+        "zh-Hant": "吉爾吉斯",
+        "en": "Kyrgyzstan",
+        "ja": "キルギス",
+        "es": "Kirguistán"
+      },
+      "aliases": [
+        "KGZ",
+        "Kirguistán",
+        "Kyrgyzstan",
+        "吉尔吉斯",
+        "吉尔吉斯斯坦"
+      ]
+    },
+    {
+      "id": "ag_lao",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Laos",
+      "translations": {
+        "zh-Hans": "老挝",
+        "zh-Hant": "寮國",
+        "en": "Laos",
+        "ja": "ラオス",
+        "es": "Laos"
+      },
+      "aliases": [
+        "LAO",
+        "Laos",
+        "寮国",
+        "老挝"
+      ]
+    },
+    {
+      "id": "ag_lbn",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Lebanon",
+      "translations": {
+        "zh-Hans": "黎巴嫩",
+        "zh-Hant": "黎巴嫩",
+        "en": "Lebanon",
+        "ja": "レバノン",
+        "es": "Líbano"
+      },
+      "aliases": [
+        "LBN",
+        "Lebanon",
+        "Líbano",
+        "黎巴嫩"
+      ]
+    },
+    {
+      "id": "ag_mac",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Macau, China",
+      "translations": {
+        "zh-Hans": "中国澳门",
+        "zh-Hant": "中國澳門",
+        "en": "Macau, China",
+        "ja": "マカオ",
+        "es": "Macao, China"
+      },
+      "aliases": [
+        "MAC",
+        "Macao, China",
+        "Macau",
+        "Macau, China",
+        "中国澳门",
+        "澳门"
+      ]
+    },
+    {
+      "id": "ag_mas",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Malaysia",
+      "translations": {
+        "zh-Hans": "马来西亚",
+        "zh-Hant": "馬來西亞",
+        "en": "Malaysia",
+        "ja": "マレーシア",
+        "es": "Malasia"
+      },
+      "aliases": [
+        "MAS",
+        "Malasia",
+        "Malaysia",
+        "大马",
+        "马来西亚"
+      ]
+    },
+    {
+      "id": "ag_mdv",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Maldives",
+      "translations": {
+        "zh-Hans": "马尔代夫",
+        "zh-Hant": "馬爾地夫",
+        "en": "Maldives",
+        "ja": "モルディブ",
+        "es": "Maldivas"
+      },
+      "aliases": [
+        "MDV",
+        "Maldivas",
+        "Maldives",
+        "马尔代夫",
+        "马尔地夫"
+      ]
+    },
+    {
+      "id": "ag_mgl",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Mongolia",
+      "translations": {
+        "zh-Hans": "蒙古",
+        "zh-Hant": "蒙古",
+        "en": "Mongolia",
+        "ja": "モンゴル",
+        "es": "Mongolia"
+      },
+      "aliases": [
+        "MGL",
+        "Mongolia",
+        "蒙古"
+      ]
+    },
+    {
+      "id": "ag_mya",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Myanmar",
+      "translations": {
+        "zh-Hans": "缅甸",
+        "zh-Hant": "緬甸",
+        "en": "Myanmar",
+        "ja": "ミャンマー",
+        "es": "Myanmar"
+      },
+      "aliases": [
+        "MYA",
+        "Myanmar",
+        "缅甸"
+      ]
+    },
+    {
+      "id": "ag_nep",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Nepal",
+      "translations": {
+        "zh-Hans": "尼泊尔",
+        "zh-Hant": "尼泊爾",
+        "en": "Nepal",
+        "ja": "ネパール",
+        "es": "Nepal"
+      },
+      "aliases": [
+        "NEP",
+        "Nepal",
+        "尼泊尔"
+      ]
+    },
+    {
+      "id": "ag_prk",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "North Korea",
+      "translations": {
+        "zh-Hans": "朝鲜",
+        "zh-Hant": "北韓",
+        "en": "North Korea",
+        "ja": "北朝鮮",
+        "es": "Corea del Norte"
+      },
+      "aliases": [
+        "Corea del Norte",
+        "North Korea",
+        "PRK",
+        "北韩",
+        "朝鲜"
+      ]
+    },
+    {
+      "id": "ag_oma",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Oman",
+      "translations": {
+        "zh-Hans": "阿曼",
+        "zh-Hant": "阿曼",
+        "en": "Oman",
+        "ja": "オマーン",
+        "es": "Omán"
+      },
+      "aliases": [
+        "OMA",
+        "Oman",
+        "Omán",
+        "阿曼"
+      ]
+    },
+    {
+      "id": "ag_pak",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Pakistan",
+      "translations": {
+        "zh-Hans": "巴基斯坦",
+        "zh-Hant": "巴基斯坦",
+        "en": "Pakistan",
+        "ja": "パキスタン",
+        "es": "Pakistán"
+      },
+      "aliases": [
+        "PAK",
+        "Pakistan",
+        "Pakistán",
+        "巴基斯坦"
+      ]
+    },
+    {
+      "id": "ag_ple",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Palestine",
+      "translations": {
+        "zh-Hans": "巴勒斯坦",
+        "zh-Hant": "巴勒斯坦",
+        "en": "Palestine",
+        "ja": "パレスチナ",
+        "es": "Palestina"
+      },
+      "aliases": [
+        "PLE",
+        "Palestina",
+        "Palestine",
+        "巴勒斯坦"
+      ]
+    },
+    {
+      "id": "ag_phi",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Philippines",
+      "translations": {
+        "zh-Hans": "菲律宾",
+        "zh-Hant": "菲律賓",
+        "en": "Philippines",
+        "ja": "フィリピン",
+        "es": "Filipinas"
+      },
+      "aliases": [
+        "Filipinas",
+        "PHI",
+        "Philippines",
+        "菲律宾"
+      ]
+    },
+    {
+      "id": "ag_qat",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Qatar",
+      "translations": {
+        "zh-Hans": "卡塔尔",
+        "zh-Hant": "卡達",
+        "en": "Qatar",
+        "ja": "カタール",
+        "es": "Catar"
+      },
+      "aliases": [
+        "Catar",
+        "QAT",
+        "Qatar",
+        "卡塔尔",
+        "卡达"
+      ]
+    },
+    {
+      "id": "ag_ksa",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Saudi Arabia",
+      "translations": {
+        "zh-Hans": "沙特阿拉伯",
+        "zh-Hant": "沙烏地阿拉伯",
+        "en": "Saudi Arabia",
+        "ja": "サウジアラビア",
+        "es": "Arabia Saudita"
+      },
+      "aliases": [
+        "Arabia Saudita",
+        "KSA",
+        "Saudi Arabia",
+        "沙乌地阿拉伯",
+        "沙特",
+        "沙特阿拉伯"
+      ]
+    },
+    {
+      "id": "ag_sgp",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Singapore",
+      "translations": {
+        "zh-Hans": "新加坡",
+        "zh-Hant": "新加坡",
+        "en": "Singapore",
+        "ja": "シンガポール",
+        "es": "Singapur"
+      },
+      "aliases": [
+        "SGP",
+        "Singapore",
+        "Singapur",
+        "新加坡",
+        "狮城"
+      ]
+    },
+    {
+      "id": "ag_kor",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "South Korea",
+      "translations": {
+        "zh-Hans": "韩国",
+        "zh-Hant": "南韓",
+        "en": "South Korea",
+        "ja": "韓国",
+        "es": "Corea del Sur"
+      },
+      "aliases": [
+        "Corea del Sur",
+        "KOR",
+        "Korea",
+        "South Korea",
+        "南韩",
+        "大韩民国",
+        "韩国"
+      ]
+    },
+    {
+      "id": "ag_sri",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Sri Lanka",
+      "translations": {
+        "zh-Hans": "斯里兰卡",
+        "zh-Hant": "斯里蘭卡",
+        "en": "Sri Lanka",
+        "ja": "スリランカ",
+        "es": "Sri Lanka"
+      },
+      "aliases": [
+        "SRI",
+        "Sri Lanka",
+        "斯里兰卡"
+      ]
+    },
+    {
+      "id": "ag_syr",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Syria",
+      "translations": {
+        "zh-Hans": "叙利亚",
+        "zh-Hant": "敘利亞",
+        "en": "Syria",
+        "ja": "シリア",
+        "es": "Siria"
+      },
+      "aliases": [
+        "SYR",
+        "Siria",
+        "Syria",
+        "叙利亚"
+      ]
+    },
+    {
+      "id": "ag_tjk",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Tajikistan",
+      "translations": {
+        "zh-Hans": "塔吉克斯坦",
+        "zh-Hant": "塔吉克",
+        "en": "Tajikistan",
+        "ja": "タジキスタン",
+        "es": "Tayikistán"
+      },
+      "aliases": [
+        "TJK",
+        "Tajikistan",
+        "Tayikistán",
+        "塔吉克",
+        "塔吉克斯坦"
+      ]
+    },
+    {
+      "id": "ag_tha",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Thailand",
+      "translations": {
+        "zh-Hans": "泰国",
+        "zh-Hant": "泰國",
+        "en": "Thailand",
+        "ja": "タイ",
+        "es": "Tailandia"
+      },
+      "aliases": [
+        "THA",
+        "Tailandia",
+        "Thailand",
+        "泰国"
+      ]
+    },
+    {
+      "id": "ag_tls",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Timor-Leste",
+      "translations": {
+        "zh-Hans": "东帝汶",
+        "zh-Hant": "東帝汶",
+        "en": "Timor-Leste",
+        "ja": "東ティモール",
+        "es": "Timor Oriental"
+      },
+      "aliases": [
+        "TLS",
+        "Timor Oriental",
+        "Timor-Leste",
+        "东帝汶"
+      ]
+    },
+    {
+      "id": "ag_tkm",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Turkmenistan",
+      "translations": {
+        "zh-Hans": "土库曼斯坦",
+        "zh-Hant": "土庫曼",
+        "en": "Turkmenistan",
+        "ja": "トルクメニスタン",
+        "es": "Turkmenistán"
+      },
+      "aliases": [
+        "TKM",
+        "Turkmenistan",
+        "Turkmenistán",
+        "土库曼",
+        "土库曼斯坦"
+      ]
+    },
+    {
+      "id": "ag_uae",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "United Arab Emirates",
+      "translations": {
+        "zh-Hans": "阿联酋",
+        "zh-Hant": "阿聯酋",
+        "en": "United Arab Emirates",
+        "ja": "アラブ首長国連邦",
+        "es": "Emiratos Árabes Unidos"
+      },
+      "aliases": [
+        "Emiratos Árabes Unidos",
+        "UAE",
+        "United Arab Emirates",
+        "阿联酋"
+      ]
+    },
+    {
+      "id": "ag_uzb",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Uzbekistan",
+      "translations": {
+        "zh-Hans": "乌兹别克斯坦",
+        "zh-Hant": "烏茲別克",
+        "en": "Uzbekistan",
+        "ja": "ウズベキスタン",
+        "es": "Uzbekistán"
+      },
+      "aliases": [
+        "UZB",
+        "Uzbekistan",
+        "Uzbekistán",
+        "乌兹别克",
+        "乌兹别克斯坦"
+      ]
+    },
+    {
+      "id": "ag_vie",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Vietnam",
+      "translations": {
+        "zh-Hans": "越南",
+        "zh-Hant": "越南",
+        "en": "Vietnam",
+        "ja": "ベトナム",
+        "es": "Vietnam"
+      },
+      "aliases": [
+        "VIE",
+        "Vietnam",
+        "越南"
+      ]
+    },
+    {
+      "id": "ag_yem",
+      "sport": "asian-games",
+      "type": "country",
+      "canonical_name": "Yemen",
+      "translations": {
+        "zh-Hans": "也门",
+        "zh-Hant": "葉門",
+        "en": "Yemen",
+        "ja": "イエメン",
+        "es": "Yemen"
+      },
+      "aliases": [
+        "YEM",
+        "Yemen",
+        "也门",
+        "叶门"
+      ]
+    }
+  ]
+}

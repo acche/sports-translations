@@ -1,0 +1,397 @@
+id,sport,type,canonical_name,zh_hans,zh_hant,en,ja,es,aliases
+premier_league,football,league,Premier League,英超,英超,Premier League,プレミアリーグ,Premier League,英超 | Premier League | EPL | English Premier League
+primera_division,football,league,Primera Division,西甲,西甲,La Liga,ラ・リーガ,La Liga,西甲 | La Liga | LaLiga | Primera Division
+serie_a,football,league,Serie A,意甲,意甲,Serie A,セリエA,Serie A,意甲 | Serie A | Italian Serie A
+bundesliga,football,league,Bundesliga,德甲,德甲,Bundesliga,ブンデスリーガ,Bundesliga,德甲 | Bundesliga | German Bundesliga
+ligue_1,football,league,Ligue 1,法甲,法甲,Ligue 1,リーグ・アン,Ligue 1,法甲 | Ligue 1 | French Ligue 1
+championship,football,league,Championship,英冠,英冠,EFL Championship,EFLチャンピオンシップ,EFL Championship,英冠 | Championship | EFL Championship
+campeonato_brasileiro_serie_a,football,league,Campeonato Brasileiro Série A,巴甲,巴甲,Brasileirão Série A,カンピオナート・ブラジレイロ・セリエA,Campeonato Brasileño Serie A,巴甲 | Brasileirão | Brasileirao | Serie A Brazil | Campeonato Brasileiro | Campeonato Brasileiro Série A
+eredivisie,football,league,Eredivisie,荷甲,荷甲,Eredivisie,エールディヴィジ,Eredivisie,荷甲 | Eredivisie | Dutch Eredivisie
+primeira_liga,football,league,Primeira Liga,葡超,葡超,Primeira Liga,プリメイラ・リーガ,Primeira Liga,葡超 | Primeira Liga | Liga Portugal
+copa_libertadores,football,league,Copa Libertadores,南美解放者杯,南美自由盃,Copa Libertadores,コパ・リベルタドーレス,Copa Libertadores,解放者杯 | 自由盃 | Libertadores | Copa Libertadores
+uefa_champions_league,football,league,UEFA Champions League,欧冠,歐冠,UEFA Champions League,UEFAチャンピオンズリーグ,Liga de Campeones de la UEFA,欧冠 | 歐聯 | UCL | Champions League | UEFA Champions League
+european_championship,football,league,European Championship,欧洲杯,歐洲國家盃,UEFA European Championship,欧州選手権,Campeonato Europeo de la UEFA,欧洲杯 | 歐國盃 | UEFA Euro | Euro 2024 | European Championship
+fifa_world_cup,football,league,FIFA World Cup,世界杯,世界盃,FIFA World Cup,FIFAワールドカップ,Copa Mundial de la FIFA,世界杯 | 世足 | World Cup | FIFA World Cup
+fb_1_fc_heidenheim_1846,football,team,1. FC Heidenheim 1846,海登海姆,海登咸,Heidenheim,1.FCハイデンハイム1846,Heidenheim,1. FC Heidenheim 1846 | Heidenheim | 海登咸 | 海登海姆
+fb_1_fc_k_ln,football,team,1. FC Köln,科隆,科隆,FC Köln,1.FCケルン,Colonia,1. FC Koln | 1. FC Köln | FC Köln | Koln | 科隆
+fb_1_fc_union_berlin,football,team,1. FC Union Berlin,柏林联合,柏林聯,Union Berlin,1.FCウニオン・ベルリン,Unión Berlín,1. FC Union Berlin | Union Berlin | 柏林联合 | 柏林聯
+fb_1_fsv_mainz_05,football,team,1. FSV Mainz 05,美因茨,緬恩斯,Mainz 05,1.FSVマインツ05,Maguncia,1. FSV Mainz 05 | Mainz | Mainz 05 | 緬恩斯 | 美因茨
+fb_2_de_mayo,football,team,2 de Mayo,五月二日,五月二日,2 de Mayo,2・デ・マヨ,2 de Mayo,2 de Mayo | 五月二日
+fb_aa_argentinos_juniors,football,team,AA Argentinos Juniors,阿根廷青年人,小阿根廷人,Argentinos Juniors,AAアルヘンティノス・ジュニアーズ,Argentinos Juniors,AA Argentinos Juniors | Argentinos Juniors | 小阿根廷人 | 阿根廷青年人
+fb_ac_milan,football,team,AC Milan,AC米兰,AC米蘭,AC Milan,ACミラン,AC Milan,AC Milan | AC米兰 | AC米蘭 | Milan | 红黑军团
+fb_ac_monza,football,team,AC Monza,蒙扎,蒙沙,Monza,ACモンツァ,Monza,AC Monza | Monza | 蒙扎 | 蒙沙
+fb_ac_pisa_1909,football,team,AC Pisa 1909,比萨,比薩,Pisa,ACピサ1909,Pisa,AC Pisa 1909 | Pisa | 比萨 | 比薩
+fb_acf_fiorentina,football,team,ACF Fiorentina,佛罗伦萨,費倫天拿,Fiorentina,ACFフィオレンティーナ,Fiorentina,ACF Fiorentina | Fiorentina | 佛罗伦萨 | 紫百合 | 費倫天拿
+fb_ado_den_haag,football,team,ADO Den Haag,海牙,海牙,ADO Den Haag,ADOデン・ハーグ,ADO Den Haag,ADO Den Haag | Den Haag | 海牙
+fb_afc_ajax,football,team,AFC Ajax,阿贾克斯,阿積士,Ajax,アヤックス,Ajax,AFC Ajax | Ajax | 阿積士 | 阿贾克斯
+fb_afc_bournemouth,football,team,AFC Bournemouth,伯恩茅斯,般尼茅夫,Bournemouth,ボーンマス,Bournemouth,AFC Bournemouth | Bournemouth | 伯恩茅斯 | 般尼茅夫
+fb_aj_auxerre,football,team,AJ Auxerre,欧塞尔,歐塞爾,Auxerre,AJオセール,Auxerre,AJ Auxerre | Auxerre | 欧塞尔 | 歐塞爾
+fb_as_monaco_fc,football,team,AS Monaco FC,摩纳哥,摩納哥,Monaco,ASモナコ,Mónaco,AS Monaco FC | Monaco | 摩納哥 | 摩纳哥
+fb_as_roma,football,team,AS Roma,罗马,羅馬,AS Roma,ASローマ,AS Roma,AS Roma | Roma | 红狼 | 罗马 | 羅馬
+fb_avs,football,team,AVS,AVS俱乐部,AVS體育會,AVS,AVSフトボル,AVS,AVS | AVS Futebol | AVS俱乐部 | AVS體育會
+fb_az,football,team,AZ,阿尔克马尔,阿爾克馬爾,AZ Alkmaar,AZアルクマール,AZ Alkmaar,AZ | AZ Alkmaar | 阿尔克马尔 | 阿爾克馬爾
+fb_acad_mico_de_viseu_fc,football,team,Académico de Viseu FC,维塞乌学院,維塞烏學院,Académico de Viseu,アカデミコ・デ・ヴィゼウFC,Académico de Viseu,Academico de Viseu | Académico de Viseu | Académico de Viseu FC | 維塞烏學院 | 维塞乌学院
+fb_algeria,football,team,Algeria,阿尔及利亚,阿爾及利亞,Algeria,アルジェリア,Argelia,Algeria | 阿尔及利亚 | 阿爾及利亞
+fb_angers_sco,football,team,Angers SCO,昂热,昂熱,Angers,アンジェSCO,Angers,Angers | Angers SCO | 昂热 | 昂熱
+fb_argentina,football,team,Argentina,阿根廷,阿根廷,Argentina,アルゼンチン,Argentina,Argentina | 阿根廷
+fb_arsenal_fc,football,team,Arsenal FC,阿森纳,阿仙奴,Arsenal,アーセナル,Arsenal,Arsenal | Arsenal FC | 枪手 | 阿仙奴 | 阿森纳
+fb_aston_villa_fc,football,team,Aston Villa FC,阿斯顿维拉,阿士東維拉,Aston Villa,アストン・ヴィラ,Aston Villa,Aston Villa | Aston Villa FC | 维拉 | 阿士東維拉 | 阿斯顿维拉
+fb_atalanta_bc,football,team,Atalanta BC,亚特兰大,阿特蘭大,Atalanta,アタランタBC,Atalanta,Atalanta | Atalanta BC | 亚特兰大 | 真蓝黑 | 阿特蘭大
+fb_athletic_club,football,team,Athletic Club,毕尔巴鄂竞技,畢爾包,Athletic Club,アスレティック・ビルバオ,Athletic Club,Athletic Bilbao | Athletic Club | 毕尔巴鄂竞技 | 畢爾包
+fb_australia,football,team,Australia,澳大利亚,澳洲,Australia,オーストラリア,Australia,Australia | 澳大利亚 | 澳洲
+fb_austria,football,team,Austria,奥地利,奧地利,Austria,オーストリア,Austria,Austria | 奥地利 | 奧地利
+fb_barcelona_sc,football,team,Barcelona SC,巴塞罗那SC,巴塞隆拿SC,Barcelona SC,バルセロナSC,Barcelona SC,Barcelona SC | 厄瓜多尔巴塞罗那 | 巴塞罗那SC | 巴塞隆拿SC
+fb_bayer_04_leverkusen,football,team,Bayer 04 Leverkusen,勒沃库森,利華古遜,Bayer Leverkusen,バイエル・レバークーゼン,Bayer Leverkusen,Bayer 04 Leverkusen | Bayer Leverkusen | Leverkusen | 利華古遜 | 勒沃库森 | 药厂
+fb_belgium,football,team,Belgium,比利时,比利時,Belgium,ベルギー,Bélgica,Belgium | 比利时 | 比利時
+fb_birmingham_city_fc,football,team,Birmingham City FC,伯明翰,伯明翰,Birmingham City,バーミンガム・シティ,Birmingham City,Birmingham City | Birmingham City FC | 伯明翰
+fb_blackburn_rovers_fc,football,team,Blackburn Rovers FC,布莱克本,布力般流浪,Blackburn Rovers,ブラックバーン・ローヴァーズ,Blackburn Rovers,Blackburn Rovers | Blackburn Rovers FC | 布力般流浪 | 布莱克本
+fb_bologna_fc_1909,football,team,Bologna FC 1909,博洛尼亚,博洛尼亞,Bologna,ボローニャFC1909,Bologna,Bologna | Bologna FC 1909 | 博洛尼亚 | 博洛尼亞
+fb_bolton_wanderers_fc,football,team,Bolton Wanderers FC,博尔顿,保顿,Bolton Wanderers,ボルトン・ワンダラーズ,Bolton Wanderers,Bolton | Bolton Wanderers | Bolton Wanderers FC | 保顿 | 博尔顿
+fb_borussia_dortmund,football,team,Borussia Dortmund,多特蒙德,多蒙特,Borussia Dortmund,ボルシア・ドルトムント,Borussia Dortmund,BVB | Borussia Dortmund | Dortmund | 多特蒙德 | 多蒙特 | 大黄蜂
+fb_borussia_m_nchengladbach,football,team,Borussia Mönchengladbach,门兴格拉德巴赫,慕遜加柏,Mönchengladbach,ボルシア・メンヒェングラートバッハ,Borussia Mönchengladbach,Borussia Mönchengladbach | Gladbach | Mönchengladbach | 慕遜加柏 | 门兴 | 门兴格拉德巴赫
+fb_bosnia_herzegovina,football,team,Bosnia-Herzegovina,波黑,波斯尼亞,Bosnia and Herzegovina,ボスニア・ヘルツェゴビナ,Bosnia y Herzegovina,Bosnia and Herzegovina | Bosnia-Herzegovina | 波斯尼亚和黑塞哥维那 | 波斯尼亞 | 波黑
+fb_botafogo_fr,football,team,Botafogo FR,博塔弗戈,保地花高,Botafogo,ボタフォゴ,Botafogo,Botafogo | Botafogo FR | 保地花高 | 博塔弗戈
+fb_brazil,football,team,Brazil,巴西,巴西,Brazil,ブラジル,Brasil,Brazil | 巴西
+fb_brentford_fc,football,team,Brentford FC,布伦特福德,賓福特,Brentford,ブレントフォード,Brentford,Brentford | Brentford FC | 小蜜蜂 | 布伦特福德 | 賓福特
+fb_brighton_hove_albion_fc,football,team,Brighton & Hove Albion FC,布莱顿,白礼顿,Brighton,ブライトン,Brighton,Brighton | Brighton & Hove Albion FC | 布莱顿 | 海鸥 | 白礼顿
+fb_bristol_city_fc,football,team,Bristol City FC,布里斯托尔城,布里斯托城,Bristol City,ブリストル・シティ,Bristol City,Bristol City | Bristol City FC | 布里斯托城 | 布里斯托尔城
+fb_burnley_fc,football,team,Burnley FC,伯恩利,般尼,Burnley,バーンリー,Burnley,Burnley | Burnley FC | 伯恩利 | 般尼
+fb_ca_boca_juniors,football,team,CA Boca Juniors,博卡青年,小保加,Boca Juniors,ボカ・ジュニアーズ,Boca Juniors,Boca | Boca Juniors | CA Boca Juniors | 博卡青年 | 小保加
+fb_ca_lan_s,football,team,CA Lanús,拉努斯,拉魯斯,Lanús,CAラヌース,Lanús,CA Lanús | Lanus | Lanús | 拉努斯 | 拉魯斯
+fb_ca_mineiro,football,team,CA Mineiro,米内罗竞技,明尼路,Atlético Mineiro,アトレチコ・ミネイロ,Atlético Mineiro,Atlético Mineiro | CA Mineiro | 明尼路 | 米内罗竞技
+fb_ca_osasuna,football,team,CA Osasuna,奥萨苏纳,奧沙辛拿,Osasuna,オサスナ,Osasuna,CA Osasuna | Osasuna | 奥萨苏纳 | 奧沙辛拿
+fb_ca_paranaense,football,team,CA Paranaense,巴拉纳竞技,帕拉尼恩斯,Athletico Paranaense,アトレチコ・パラナエンセ,Athletico Paranaense,Athletico Paranaense | CA Paranaense | 巴拉纳竞技 | 帕拉尼恩斯
+fb_ca_pe_arol,football,team,CA Peñarol,佩纳罗尔,彭拿路,Peñarol,CAペニャロール,Peñarol,CA Peñarol | Penarol | Peñarol | 佩纳罗尔 | 彭拿路
+fb_ca_platense,football,team,CA Platense,普拉滕斯,普拉坦斯,Platense,CAプラテンセ,Platense,CA Platense | Platense | 普拉坦斯 | 普拉滕斯
+fb_ca_river_plate,football,team,CA River Plate,河床,河床,River Plate,リーベル・プレート,River Plate,CA River Plate | River Plate | 河床
+fb_ca_rosario_central,football,team,CA Rosario Central,罗萨里奥中央,羅沙里奧中央,Rosario Central,CAロサリオ・セントラル,Rosario Central,CA Rosario Central | Rosario Central | 罗萨里奥中央 | 羅沙里奧中央
+fb_ca_v_lez_sarsfield,football,team,CA Vélez Sarsfield,萨斯菲尔德,沙士菲,Vélez Sarsfield,CAベレス・サルスフィエルド,Vélez Sarsfield,CA Vélez Sarsfield | Velez Sarsfield | Vélez Sarsfield | 沙士菲 | 萨斯菲尔德
+fb_car_independiente_del_valle,football,team,CAR Independiente del Valle,山谷独立,迪華利獨立隊,Independiente del Valle,インデペンディエンテ・デル・バジェ,Independiente del Valle,CAR Independiente del Valle | Independiente del Valle | 山谷独立 | 迪華利獨立隊
+fb_cd_coquimbo_unido,football,team,CD Coquimbo Unido,科金博联合,哥金博,Coquimbo Unido,CDコキンボ・ウニド,Coquimbo Unido,CD Coquimbo Unido | Coquimbo Unido | 哥金博 | 科金博联合
+fb_cd_huachipato,football,team,CD Huachipato,瓦奇帕托,華奇巴托,Huachipato,CDウアチパト,Huachipato,CD Huachipato | Huachipato | 瓦奇帕托 | 華奇巴托
+fb_cd_independiente_medell_n,football,team,CD Independiente Medellín,麦德林独立,麥德林獨立,Independiente Medellín,インデペンディエンテ・メデジン,Independiente Medellín,CD Independiente Medellín | Independiente Medellin | Independiente Medellín | 麥德林獨立 | 麦德林独立
+fb_cd_nacional,football,team,CD Nacional,马德拉国民,國民隊,Nacional da Madeira,CDナシオナル,Nacional,CD Nacional | Nacional | Nacional da Madeira | 國民隊 | 马德拉国民
+fb_cd_santa_clara,football,team,CD Santa Clara,圣克拉拉,辛達卡拉,Santa Clara,CDサンタ・クララ,Santa Clara,CD Santa Clara | Santa Clara | 圣克拉拉 | 辛達卡拉
+fb_cd_tolima,football,team,CD Tolima,托利马体育,杜利馬,Deportes Tolima,CDトリマ,Deportes Tolima,CD Tolima | Deportes Tolima | 托利马体育 | 杜利馬
+fb_cd_tondela,football,team,CD Tondela,通德拉,唐迪拉,Tondela,CDトンデラ,Tondela,CD Tondela | Tondela | 唐迪拉 | 通德拉
+fb_cd_universidad_cat_lica,football,team,CD Universidad Católica,天主教大学,天主教大學,Universidad Católica,ウニベルシダ・カトリカ,Universidad Católica,CD Universidad Católica | Universidad Catolica | Universidad Católica | 天主教大学 | 天主教大學 | 智利天主教大学
+fb_cdc_atl_tico_nacional,football,team,CDC Atlético Nacional,国民竞技,國民體育會,Atlético Nacional,アトレティコ・ナシオナル,Atlético Nacional,Atletico Nacional | Atlético Nacional | CDC Atlético Nacional | 国民竞技 | 國民體育會
+fb_cdp_junior_fc,football,team,CDP Junior FC,巴兰基亚青年,青年體育會,Junior FC,ジュニオールFC,Junior de Barranquilla,CDP Junior FC | Junior FC | 巴兰基亚青年 | 青年體育會
+fb_cf_estrela_da_amadora,football,team,CF Estrela da Amadora,阿马多拉之星,阿馬多拉之星,Estrela da Amadora,CFエストレラ・アマドーラ,Estrela da Amadora,CF Estrela da Amadora | Estrela da Amadora | 阿馬多拉之星 | 阿马多拉之星
+fb_cr_flamengo,football,team,CR Flamengo,弗拉门戈,法林明高,Flamengo,フラメンゴ,Flamengo,CR Flamengo | Flamengo | 弗拉门戈 | 法林明高
+fb_cr_vasco_da_gama,football,team,CR Vasco da Gama,达伽马,華斯高,Vasco da Gama,ヴァスコ・ダ・ガマ,Vasco da Gama,CR Vasco da Gama | Vasco da Gama | 華斯高 | 达伽马
+fb_cs_cristal,football,team,CS Cristal,水晶体育,水晶體育,Sporting Cristal,スポルティング・クリスタル,Sporting Cristal,CS Cristal | Sporting Cristal | 水晶体育 | 水晶體育
+fb_cs_independiente_rivadavia,football,team,CS Independiente Rivadavia,里瓦达维亚独立,利瓦達維亞獨立,Independiente Rivadavia,インデペンディエンテ・リバダビア,Independiente Rivadavia,CS Independiente Rivadavia | Independiente Rivadavia | 利瓦達維亞獨立 | 里瓦达维亚独立
+fb_cs_mar_timo,football,team,CS Marítimo,马里蒂莫,馬里迪莫,Marítimo,CSマリティモ,Marítimo,CS Marítimo | Maritimo | Marítimo | 馬里迪莫 | 马里蒂莫
+fb_cagliari_calcio,football,team,Cagliari Calcio,卡利亚里,卡利亞里,Cagliari,カリアリ・カルチョ,Cagliari,Cagliari | Cagliari Calcio | 卡利亚里 | 卡利亞里
+fb_canada,football,team,Canada,加拿大,加拿大,Canada,カナダ,Canadá,Canada | 加拿大
+fb_cape_verde_islands,football,team,Cape Verde Islands,佛得角,佛得角,Cape Verde,カーボベルデ,Cabo Verde,Cabo Verde | Cape Verde | Cape Verde Islands | 佛得角
+fb_carabobo_fc,football,team,Carabobo FC,卡拉波波,卡拉波波,Carabobo,カラボボFC,Carabobo,Carabobo | Carabobo FC | 卡拉波波
+fb_cardiff_city_fc,football,team,Cardiff City FC,卡迪夫城,卡迪夫城,Cardiff City,カーディフ・シティ,Cardiff City,Cardiff City | Cardiff City FC | 卡迪夫城
+fb_casa_pia_ac,football,team,Casa Pia AC,卡萨皮亚,卡薩比亞,Casa Pia,カーザ・ピアAC,Casa Pia,Casa Pia | Casa Pia AC | 卡萨皮亚 | 卡薩比亞
+fb_cear_sc,football,team,Ceará SC,塞阿拉,施亞拉,Ceará,セアラー,Ceará,Ceara | Ceará | Ceará SC | 塞阿拉 | 施亞拉
+fb_chapecoense_af,football,team,Chapecoense AF,沙佩科恩斯,查比高恩斯,Chapecoense,シャペコエンセ,Chapecoense,Chapecoense | Chapecoense AF | 查比高恩斯 | 沙佩科恩斯
+fb_charlton_athletic_fc,football,team,Charlton Athletic FC,查尔顿竞技,查尔顿,Charlton Athletic,チャールトン・アスレティック,Charlton Athletic,Charlton | Charlton Athletic | Charlton Athletic FC | 查尔顿 | 查尔顿竞技
+fb_chelsea_fc,football,team,Chelsea FC,切尔西,車路士,Chelsea,チェルシー,Chelsea,Chelsea | Chelsea FC | 切尔西 | 蓝军 | 車路士
+fb_club_alianza_lima,football,team,Club Alianza Lima,利马联盟,利馬聯,Alianza Lima,アリアンサ・リマ,Alianza Lima,Alianza Lima | Club Alianza Lima | 利馬聯 | 利马联盟
+fb_club_always_ready,football,team,Club Always Ready,随时准备,常備隊,Always Ready,オールウェイズ・レディ,Always Ready,Always Ready | Club Always Ready | 常備隊 | 随时准备
+fb_club_atl_tico_de_madrid,football,team,Club Atlético de Madrid,马德里竞技,馬德里體育會,Atlético Madrid,アトレティコ・マドリード,Atlético de Madrid,Atletico Madrid | Atlético Madrid | Club Atlético de Madrid | 馬德里體育會 | 马德里竞技 | 马竞
+fb_club_bol_var,football,team,Club Bolívar,玻利瓦尔,玻利瓦爾,Club Bolívar,クラブ・ボリバル,Bolívar,Bolivar | Club Bolívar | 玻利瓦尔 | 玻利瓦爾
+fb_club_brugge_kv,football,team,Club Brugge KV,布鲁日,布魯日,Club Brugge,クラブ・ブルッヘ,Club Brujas,Club Brugge | Club Brugge KV | 布魯日 | 布鲁日
+fb_club_cerro_porte_o,football,team,Club Cerro Porteño,波特诺山丘,波特諾山丘,Cerro Porteño,セロ・ポルテーニョ,Cerro Porteño,Cerro Porteno | Cerro Porteño | Club Cerro Porteño | 波特諾山丘 | 波特诺山丘
+fb_club_guaran,football,team,Club Guaraní,瓜拉尼,瓜拉尼,Club Guaraní,クラブ・グアラニ,Guaraní,Club Guaraní | Guarani | 瓜拉尼
+fb_club_libertad_asuncion,football,team,Club Libertad Asuncion,亚松森自由,自由隊,Libertad Asunción,クラブ・リベルタ,Libertad,Club Libertad Asuncion | Libertad | Libertad Asunción | 亚松森自由 | 自由隊
+fb_club_nacional_potos,football,team,Club Nacional Potosí,波托西国民,普托斯國民,Nacional Potosí,ナシオナル・ポトシ,Nacional Potosí,Club Nacional Potosí | Nacional Potosi | Nacional Potosí | 普托斯國民 | 波托西国民
+fb_club_nacional_de_football,football,team,Club Nacional de Football,乌拉圭民族,蒙特維多國民隊,Nacional,クルブ・ナシオナル,Nacional de Montevideo,Club Nacional de Football | Nacional | 乌拉圭民族 | 蒙特維多國民隊
+fb_club_the_strongest,football,team,Club The Strongest,最强者,最強者,The Strongest,ザ・ストロンゲスト,The Strongest,Club The Strongest | The Strongest | 最強者 | 最强者
+fb_club_universitario_de_deportes,football,team,Club Universitario de Deportes,秘鲁体育大学,秘魯體育大學,Universitario,ウニベルシタリオ,Universitario de Deportes,Club Universitario de Deportes | Universitario | 秘魯體育大學 | 秘鲁体育大学
+fb_clube_do_remo,football,team,Clube do Remo,雷莫,雷莫,Remo,クルーベ・ド・レモ,Remo,Clube do Remo | Remo | 雷莫
+fb_colombia,football,team,Colombia,哥伦比亚,哥倫比亞,Colombia,コロンビア,Colombia,Colombia | 哥伦比亚 | 哥倫比亞
+fb_como_1907,football,team,Como 1907,科莫,高莫,Como,コモ1907,Como,Como | Como 1907 | 科莫 | 高莫
+fb_congo_dr,football,team,Congo DR,民主刚果,剛果民主共和國,DR Congo,コンゴ民主共和国,RD del Congo,Congo DR | DR Congo | 刚果金 | 剛果民主共和國 | 民主刚果
+fb_coritiba_fbc,football,team,Coritiba FBC,科里蒂巴,哥列迪巴,Coritiba,コリチーバ,Coritiba,Coritiba | Coritiba FBC | 哥列迪巴 | 科里蒂巴
+fb_coventry_city_fc,football,team,Coventry City FC,考文垂,高云地利,Coventry City,コヴェントリー・シティ,Coventry City,Coventry City | Coventry City FC | 考文垂 | 高云地利
+fb_croatia,football,team,Croatia,克罗地亚,克羅地亞,Croatia,クロアチア,Croacia,Croatia | 克罗地亚 | 克羅地亞
+fb_cruzeiro_ec,football,team,Cruzeiro EC,克鲁塞罗,高士路,Cruzeiro,クルゼイロ,Cruzeiro,Cruzeiro | Cruzeiro EC | 克鲁塞罗 | 高士路
+fb_crystal_palace_fc,football,team,Crystal Palace FC,水晶宫,水晶宮,Crystal Palace,クリスタル・パレス,Crystal Palace,Crystal Palace | Crystal Palace FC | 水晶宫 | 水晶宮
+fb_cura_ao,football,team,Curaçao,库拉索,庫拉索,Curaçao,キュラソー,Curazao,Curacao | Curaçao | 库拉索 | 庫拉索
+fb_cusco_fc,football,team,Cusco FC,库斯科,庫斯科,Cusco FC,クスコFC,Cusco FC,Cusco | Cusco FC | 库斯科 | 庫斯科
+fb_czechia,football,team,Czechia,捷克,捷克,Czech Republic,チェコ,Chequia,Czech Republic | Czechia | 捷克
+fb_deportivo_alav_s,football,team,Deportivo Alavés,阿拉维斯,艾拉維斯,Alavés,デポルティーボ・アラベス,Alavés,Alaves | Alavés | Deportivo Alavés | 艾拉維斯 | 阿拉维斯
+fb_deportivo_la_guaira_fc,football,team,Deportivo La Guaira FC,拉瓜伊拉,拉瓜伊拉,Deportivo La Guaira,デポルティーボ・ラ・グアイラ,Deportivo La Guaira,Deportivo La Guaira | Deportivo La Guaira FC | La Guaira | 拉瓜伊拉
+fb_deportivo_t_chira_fc,football,team,Deportivo Táchira FC,塔奇拉竞技,塔奇拉,Deportivo Táchira,デポルティーボ・タチラ,Deportivo Táchira,Deportivo Tachira | Deportivo Táchira | Deportivo Táchira FC | 塔奇拉 | 塔奇拉竞技
+fb_derby_county_fc,football,team,Derby County FC,德比郡,打比郡,Derby County,ダービー・カウンティ,Derby County,Derby County | Derby County FC | 德比郡 | 打比郡
+fb_ec_bahia,football,team,EC Bahia,巴伊亚,巴希亞,Bahia,バイーア,Bahia,Bahia | EC Bahia | 巴伊亚 | 巴希亞
+fb_ec_juventude,football,team,EC Juventude,尤文图德,青年人,Juventude,ジュベントゥージ,Juventude,EC Juventude | Juventude | 尤文图德 | 青年人
+fb_ec_vit_ria,football,team,EC Vitória,维多利亚,維多利亞,Vitória,ヴィトーリア,Vitória,EC Vitoria | EC Vitória | Vitória | 維多利亞 | 维多利亚
+fb_es_troyes_ac,football,team,ES Troyes AC,特鲁瓦,特魯瓦,Troyes,ESトロワAC,Troyes,ES Troyes AC | Troyes | 特魯瓦 | 特鲁瓦
+fb_ecuador,football,team,Ecuador,厄瓜多尔,厄瓜多爾,Ecuador,エクアドル,Ecuador,Ecuador | 厄瓜多尔 | 厄瓜多爾
+fb_egypt,football,team,Egypt,埃及,埃及,Egypt,エジプト,Egipto,Egypt | 埃及
+fb_eintracht_frankfurt,football,team,Eintracht Frankfurt,法兰克福,法蘭克福,Eintracht Frankfurt,アイントラハト・フランクフルト,Eintracht Frankfurt,Eintracht Frankfurt | Frankfurt | 法兰克福 | 法蘭克福
+fb_elche_cf,football,team,Elche CF,埃尔切,艾尔切,Elche,エルチェCF,Elche,Elche | Elche CF | 埃尔切 | 艾尔切
+fb_england,football,team,England,英格兰,英格蘭,England,イングランド,Inglaterra,England | 英格兰 | 英格蘭
+fb_estudiantes_de_la_plata,football,team,Estudiantes de La Plata,拉普拉塔大学生,學生隊,Estudiantes,エストゥディアンテス・デ・ラ・プラタ,Estudiantes de La Plata,Estudiantes | Estudiantes de La Plata | 學生隊 | 拉普拉塔大学生
+fb_everton_fc,football,team,Everton FC,埃弗顿,愛華頓,Everton,エヴァートン,Everton,Everton | Everton FC | 埃弗顿 | 太妃糖 | 愛華頓
+fb_fc_alverca,football,team,FC Alverca,阿尔维卡,阿爾維卡,Alverca,FCアルヴェルカ,Alverca,Alverca | FC Alverca | 阿尔维卡 | 阿爾維卡
+fb_fc_arouca,football,team,FC Arouca,阿罗卡,阿洛卡,Arouca,FCアロウカ,Arouca,Arouca | FC Arouca | 阿洛卡 | 阿罗卡
+fb_fc_augsburg,football,team,FC Augsburg,奥格斯堡,奧格斯堡,FC Augsburg,FCアウクスブルク,FC Augsburgo,Augsburg | FC Augsburg | 奥格斯堡 | 奧格斯堡
+fb_fc_barcelona,football,team,FC Barcelona,巴塞罗那,巴塞隆拿,Barcelona,FCバルセロナ,Barcelona,Barca | Barcelona | FC Barcelona | 巴塞罗那 | 巴塞隆拿 | 巴萨
+fb_fc_bayern_m_nchen,football,team,FC Bayern München,拜仁慕尼黑,拜仁慕尼黑,Bayern Munich,バイエルン・ミュンヘン,Bayern de Múnich,Bayern | Bayern Munich | FC Bayern München | 拜仁 | 拜仁慕尼黑
+fb_fc_famalic_o,football,team,FC Famalicão,法马利康,法馬利卡奧,Famalicão,FCファマリカン,Famalicão,FC Famalicão | Famalicao | Famalicão | 法馬利卡奧 | 法马利康
+fb_fc_groningen,football,team,FC Groningen,格罗宁根,格羅寧根,FC Groningen,FCフローニンゲン,FC Groningen,FC Groningen | Groningen | 格罗宁根 | 格羅寧根
+fb_fc_internazionale_milano,football,team,FC Internazionale Milano,国际米兰,國際米蘭,Inter Milan,インテル・ミラノ,Inter de Milán,FC Internazionale Milano | Inter | Inter Milan | 国际米兰 | 國米 | 國際米蘭 | 藍黑軍團
+fb_fc_k_benhavn,football,team,FC København,哥本哈根,哥本哈根,FC Copenhagen,FCコペンハーゲン,Copenhague,FC Copenhagen | FC København | 哥本哈根
+fb_fc_lorient,football,team,FC Lorient,洛里昂,羅連安特,Lorient,FCロリアン,Lorient,FC Lorient | Lorient | 洛里昂 | 羅連安特
+fb_fc_metz,football,team,FC Metz,梅斯,梅斯,Metz,FCメス,Metz,FC Metz | Metz | 梅斯
+fb_fc_nantes,football,team,FC Nantes,南特,南特,Nantes,FCナント,Nantes,FC Nantes | Nantes | 南特
+fb_fc_porto,football,team,FC Porto,波尔图,波圖,FC Porto,FCポルト,FC Porto,FC Porto | Porto | 波圖 | 波尔图
+fb_fc_schalke_04,football,team,FC Schalke 04,沙尔克04,史浩克零四,Schalke 04,FCシャルケ04,Schalke 04,FC Schalke 04 | Schalke | Schalke 04 | 史浩克零四 | 沙尔克04
+fb_fc_st_pauli_1910,football,team,FC St. Pauli 1910,圣保利,聖保利,St. Pauli,FCザンクトパウリ1910,St. Pauli,FC St. Pauli 1910 | St. Pauli | 圣保利 | 聖保利
+fb_fc_twente_65,football,team,FC Twente '65,特温特,川迪,FC Twente,FCトゥウェンテ,FC Twente,FC Twente | FC Twente '65 | 川迪 | 特温特
+fb_fc_utrecht,football,team,FC Utrecht,乌得勒支,烏德勒支,FC Utrecht,FCユトレヒト,FC Utrecht,FC Utrecht | Utrecht | 乌得勒支 | 烏德勒支
+fb_fc_volendam,football,team,FC Volendam,福伦丹,科寧丹,FC Volendam,FCフォレンダム,FC Volendam,FC Volendam | Volendam | 福伦丹 | 科寧丹
+fb_fk_bod_glimt,football,team,FK Bodø/Glimt,博多格林特,波杜基林特,Bodø/Glimt,FKボデ/グリムト,Bodø/Glimt,Bodo Glimt | Bodø/Glimt | FK Bodø/Glimt | 博多格林特 | 波杜基林特
+fb_fk_kairat,football,team,FK Kairat,海拉提,卡拉特,Kairat Almaty,FKカイラト,Kairat Almaty,FK Kairat | Kairat | Kairat Almaty | 卡拉特 | 海拉提
+fb_fk_shakhtar_donetsk,football,team,FK Shakhtar Donetsk,顿涅茨克矿工,薩克達,Shakhtar Donetsk,FCシャフタール・ドネツク,Shakhtar Donetsk,FK Shakhtar Donetsk | Shakhtar | Shakhtar Donetsk | 礦工 | 薩克達 | 顿涅茨克矿工
+fb_fenerbah_e_sk,football,team,Fenerbahçe SK,费内巴切,費倫巴治,Fenerbahçe,フェネルバフチェSK,Fenerbahçe,Fenerbahce | Fenerbahçe | Fenerbahçe SK | 費倫巴治 | 费内巴切
+fb_feyenoord_rotterdam,football,team,Feyenoord Rotterdam,费耶诺德,飛燕諾,Feyenoord,フェイエノールト,Feyenoord,Feyenoord | Feyenoord Rotterdam | 费耶诺德 | 飛燕諾
+fb_fluminense_fc,football,team,Fluminense FC,弗鲁米嫩塞,富明尼斯,Fluminense,フルミネンセ,Fluminense,Fluminense | Fluminense FC | 富明尼斯 | 弗鲁米嫩塞
+fb_fortaleza_ec,football,team,Fortaleza EC,福塔莱萨,科泰尼沙,Fortaleza,フォルタレーザ,Fortaleza,Fortaleza | Fortaleza EC | 福塔莱萨 | 科泰尼沙
+fb_fortuna_sittard,football,team,Fortuna Sittard,福图纳锡塔德,幸運薛達,Fortuna Sittard,フォルトゥナ・シッタート,Fortuna Sittard,Fortuna Sittard | 幸運薛達 | 福图纳锡塔德
+fb_france,football,team,France,法国,法國,France,フランス,Francia,France | 法国 | 法國
+fb_frosinone_calcio,football,team,Frosinone Calcio,弗罗西诺内,費辛隆尼,Frosinone,フロジノーネ・カルチョ,Frosinone,Frosinone | Frosinone Calcio | 弗罗西诺内 | 費辛隆尼
+fb_fulham_fc,football,team,Fulham FC,富勒姆,富咸,Fulham,フラム,Fulham,Fulham | Fulham FC | 富勒姆 | 富咸
+fb_gd_estoril_praia,football,team,GD Estoril Praia,埃斯托里尔,艾斯杜尼,Estoril Praia,GDエストリル・プライア,Estoril Praia,Estoril | Estoril Praia | GD Estoril Praia | 埃斯托里尔 | 艾斯杜尼
+fb_galatasaray_sk,football,team,Galatasaray SK,加拉塔萨雷,加拉塔沙雷,Galatasaray,ガラタサライSK,Galatasaray,Galatasaray | Galatasaray SK | 加拉塔沙雷 | 加拉塔萨雷
+fb_genoa_cfc,football,team,Genoa CFC,热那亚,熱拿亞,Genoa,ジェノアCFC,Genoa,Genoa | Genoa CFC | 热那亚 | 熱拿亞
+fb_germany,football,team,Germany,德国,德國,Germany,ドイツ,Alemania,Germany | 德国 | 德國
+fb_getafe_cf,football,team,Getafe CF,赫塔菲,基達菲,Getafe,ヘタフェCF,Getafe,Getafe | Getafe CF | 基達菲 | 赫塔菲
+fb_ghana,football,team,Ghana,加纳,加納,Ghana,ガーナ,Ghana,Ghana | 加納 | 加纳
+fb_gil_vicente_fc,football,team,Gil Vicente FC,吉尔维森特,基維辛迪,Gil Vicente,ジル・ヴィセンテFC,Gil Vicente,Gil Vicente | Gil Vicente FC | 吉尔维森特 | 基維辛迪
+fb_girona_fc,football,team,Girona FC,赫罗纳,基朗拿,Girona,ジローナFC,Girona,Girona | Girona FC | 基朗拿 | 赫罗纳
+fb_go_ahead_eagles,football,team,Go Ahead Eagles,前进之鹰,伊高斯,Go Ahead Eagles,ゴー・アヘッド・イーグルス,Go Ahead Eagles,Go Ahead Eagles | 伊高斯 | 前进之鹰
+fb_gr_mio_fbpa,football,team,Grêmio FBPA,格雷米奥,甘美奧,Grêmio,グレミオ,Grêmio,Gremio | Grêmio | Grêmio FBPA | 格雷米奥 | 甘美奧
+fb_haiti,football,team,Haiti,海地,海地,Haiti,ハイチ,Haití,Haiti | 海地
+fb_hamburger_sv,football,team,Hamburger SV,汉堡,漢堡,Hamburger SV,ハンブルガーSV,Hamburgo,Hamburg | Hamburger SV | 汉堡 | 漢堡
+fb_hellas_verona_fc,football,team,Hellas Verona FC,维罗纳,維羅納,Hellas Verona,エラス・ヴェローナFC,Hellas Verona,Hellas Verona | Hellas Verona FC | Verona | 維羅納 | 维罗纳
+fb_heracles_almelo,football,team,Heracles Almelo,赫拉克勒斯,荷華高斯,Heracles Almelo,ヘラクレス・アルメロ,Heracles Almelo,Heracles | Heracles Almelo | 荷華高斯 | 赫拉克勒斯
+fb_hull_city_afc,football,team,Hull City AFC,赫尔城,侯城,Hull City,ハル・シティ,Hull City,Hull City | Hull City AFC | 侯城 | 赫尔城
+fb_independiente_santa_fe,football,team,Independiente Santa Fe,圣菲独立,聖達菲獨立,Santa Fe,インデペンディエンテ・サンタフェ,Santa Fe,Independiente Santa Fe | Santa Fe | 圣菲独立 | 聖達菲獨立
+fb_ipswich_town_fc,football,team,Ipswich Town FC,伊普斯维奇,葉士域治,Ipswich Town,イプスウィッチ・タウン,Ipswich Town,Ipswich Town | Ipswich Town FC | 伊普斯维奇 | 葉士域治
+fb_iran,football,team,Iran,伊朗,伊朗,Iran,イラン,Irán,Iran | 伊朗
+fb_iraq,football,team,Iraq,伊拉克,伊拉克,Iraq,イラク,Irak,Iraq | 伊拉克
+fb_ivory_coast,football,team,Ivory Coast,科特迪瓦,科特迪瓦,Ivory Coast,コートジボワール,Costa de Marfil,Ivory Coast | 科特迪瓦 | 象牙海岸
+fb_japan,football,team,Japan,日本,日本,Japan,日本,Japón,Japan | 日本
+fb_jordan,football,team,Jordan,约旦,約旦,Jordan,ヨルダン,Jordania,Jordan | 約旦 | 约旦
+fb_juventud_de_las_piedras,football,team,Juventud de Las Piedras,佩德拉斯青年,青年體育會,Juventud,ユベントゥ・デ・ラス・ピエドラス,Juventud de Las Piedras,Juventud | Juventud de Las Piedras | 佩德拉斯青年 | 青年體育會
+fb_juventus_fc,football,team,Juventus FC,尤文图斯,祖雲達斯,Juventus,ユヴェントスFC,Juventus,Juve | Juventus | Juventus FC | 尤文 | 尤文图斯 | 祖雲達斯 | 老妇人
+fb_lask_linz,football,team,LASK Linz,林茨,林茨,LASK,LASKリンツ,LASK Linz,LASK | LASK Linz | 林茨
+fb_ldu_de_quito,football,team,LDU de Quito,基多大学体育,利加大學,LDU Quito,LDUキト,LDU Quito,LDU Quito | LDU de Quito | 利加大學 | 基多大学体育
+fb_le_havre_ac,football,team,Le Havre AC,勒阿弗尔,勒哈弗爾,Le Havre,ル・アーヴルAC,Le Havre,Le Havre | Le Havre AC | 勒哈弗爾 | 勒阿弗尔
+fb_le_mans_fc,football,team,Le Mans FC,勒芒,利文斯,Le Mans,ル・マンFC,Le Mans,Le Mans | Le Mans FC | 利文斯 | 勒芒
+fb_leeds_united_fc,football,team,Leeds United FC,利兹联,列斯聯,Leeds United,リーズ・ユナイテッド,Leeds United,Leeds United | Leeds United FC | 列斯聯 | 利兹联
+fb_leicester_city_fc,football,team,Leicester City FC,莱斯特城,李斯特城,Leicester City,レスター・シティ,Leicester City,Leicester | Leicester City | Leicester City FC | 李斯特城 | 莱斯特城
+fb_levante_ud,football,team,Levante UD,莱万特,利雲特,Levante,レバンテUD,Levante,Levante | Levante UD | 利雲特 | 莱万特
+fb_lille_osc,football,team,Lille OSC,里尔,里爾,Lille,リールOSC,Lille,Lille | Lille OSC | 里尔 | 里爾
+fb_lincoln_city_fc,football,team,Lincoln City FC,林肯城,林肯城,Lincoln City,リンカーン・シティ,Lincoln City,Lincoln City | Lincoln City FC | 林肯城
+fb_liverpool_fc,football,team,Liverpool FC,利物浦,利物浦,Liverpool,リヴァプール,Liverpool,Liverpool | Liverpool FC | 利物浦 | 红军
+fb_manchester_city_fc,football,team,Manchester City FC,曼城,曼城,Manchester City,マンチェスター・シティ,Manchester City,Man City | Manchester City | Manchester City FC | 曼城 | 蓝月亮
+fb_manchester_united_fc,football,team,Manchester United FC,曼联,曼聯,Manchester United,マンチェスター・ユナイテッド,Manchester United,Man United | Man Utd | Manchester United | Manchester United FC | 曼联 | 曼聯 | 红魔
+fb_mexico,football,team,Mexico,墨西哥,墨西哥,Mexico,メキシコ,México,Mexico | 墨西哥
+fb_middlesbrough_fc,football,team,Middlesbrough FC,米德尔斯堡,米杜士堡,Middlesbrough,ミドルズブラ,Middlesbrough,Middlesbrough | Middlesbrough FC | 米德尔斯堡 | 米杜士堡
+fb_millwall_fc,football,team,Millwall FC,米尔沃尔,米禾尔,Millwall,ミルウォール,Millwall,Millwall | Millwall FC | 米尔沃尔 | 米禾尔
+fb_mirassol_fc,football,team,Mirassol FC,米拉索尔,米拉索爾,Mirassol,ミラソウ,Mirassol,Mirassol | Mirassol FC | 米拉索尔 | 米拉索爾
+fb_moreirense_fc,football,team,Moreirense FC,莫雷拉人,摩里倫斯,Moreirense,モレイレンセFC,Moreirense,Moreirense | Moreirense FC | 摩里倫斯 | 莫雷拉人
+fb_morocco,football,team,Morocco,摩洛哥,摩洛哥,Morocco,モロッコ,Marruecos,Morocco | 摩洛哥
+fb_m_laga_cf,football,team,Málaga CF,马拉加,馬拉加,Málaga,マラガCF,Málaga,Malaga | Málaga | Málaga CF | 馬拉加 | 马拉加
+fb_nac_breda,football,team,NAC Breda,布雷达,比達,NAC Breda,NACブレダ,NAC Breda,NAC Breda | 布雷达 | 比達
+fb_nec,football,team,NEC,奈梅亨,奈梅亨,NEC Nijmegen,NECナイメヘン,NEC Nijmegen,NEC | NEC Nijmegen | 奈梅亨
+fb_netherlands,football,team,Netherlands,荷兰,荷蘭,Netherlands,オランダ,Países Bajos,Netherlands | 荷兰 | 荷蘭
+fb_new_zealand,football,team,New Zealand,新西兰,紐西蘭,New Zealand,ニュージーランド,Nueva Zelanda,New Zealand | 新西兰 | 紐西蘭
+fb_newcastle_united_fc,football,team,Newcastle United FC,纽卡斯尔联,紐卡素,Newcastle United,ニューカッスル・ユナイテッド,Newcastle United,Newcastle | Newcastle United | Newcastle United FC | 喜鹊 | 紐卡素 | 纽卡斯尔 | 纽卡斯尔联
+fb_norway,football,team,Norway,挪威,挪威,Norway,ノルウェー,Noruega,Norway | 挪威
+fb_norwich_city_fc,football,team,Norwich City FC,诺维奇,諾域治,Norwich City,ノーリッジ・シティ,Norwich City,Norwich City | Norwich City FC | 諾域治 | 诺维奇
+fb_nottingham_forest_fc,football,team,Nottingham Forest FC,诺丁汉森林,諾定咸森林,Nottingham Forest,ノッティンガム・フォレスト,Nottingham Forest,Nottingham Forest | Nottingham Forest FC | 諾定咸森林 | 诺丁汉森林
+fb_o_higgins_fc,football,team,O'Higgins FC,奥希金斯,奧希金斯,O'Higgins,オヒギンスFC,O'Higgins,O'Higgins | O'Higgins FC | 奥希金斯 | 奧希金斯
+fb_ogc_nice,football,team,OGC Nice,尼斯,尼斯,Nice,OGCニース,Niza,Nice | OGC Nice | 尼斯
+fb_olympique_lyonnais,football,team,Olympique Lyonnais,里昂,里昂,Lyon,オリンピック・リヨン,Olympique de Lyon,Lyon | Olympique Lyonnais | 里昂
+fb_olympique_de_marseille,football,team,Olympique de Marseille,马赛,馬賽,Marseille,オリンピック・マルセイユ,Olympique de Marsella,Marseille | Olympique de Marseille | 馬賽 | 马赛
+fb_oxford_united_fc,football,team,Oxford United FC,牛津联,牛津聯,Oxford United,オックスフォード・ユナイテッド,Oxford United,Oxford United | Oxford United FC | 牛津联 | 牛津聯
+fb_pae_aek,football,team,PAE AEK,雅典AEK,AEK雅典,AEK Athens,AEKアテネ,AEK Atenas,AEK Athens | AEK雅典 | PAE AEK | 雅典AEK
+fb_pae_olympiakos_sfp,football,team,PAE Olympiakos SFP,奥林匹亚科斯,奧林比亞高斯,Olympiacos,オリンピアコスFC,Olympiacos,Olympiacos | PAE Olympiakos SFP | 奥林匹亚科斯 | 奧林比亞高斯
+fb_pec_zwolle,football,team,PEC Zwolle,兹沃勒,施禾利,PEC Zwolle,PECズヴォレ,PEC Zwolle,PEC Zwolle | 兹沃勒 | 施禾利
+fb_psv,football,team,PSV,埃因霍温,PSV燕豪芬,PSV Eindhoven,PSVアイントホーフェン,PSV Eindhoven,PSV | PSV Eindhoven | PSV燕豪芬 | 埃因霍温 | 燕豪芬
+fb_panama,football,team,Panama,巴拿马,巴拿馬,Panama,パナマ,Panamá,Panama | 巴拿馬 | 巴拿马
+fb_paphos_fc,football,team,Paphos FC,帕福斯,柏福斯,Pafos FC,パフォスFC,Pafos FC,Pafos | Pafos FC | Paphos FC | 帕福斯 | 柏福斯
+fb_paraguay,football,team,Paraguay,巴拉圭,巴拉圭,Paraguay,パラグアイ,Paraguay,Paraguay | 巴拉圭
+fb_paris_fc,football,team,Paris FC,巴黎FC,巴黎FC,Paris FC,パリFC,Paris FC,Paris FC | 巴黎FC
+fb_paris_saint_germain_fc,football,team,Paris Saint-Germain FC,巴黎圣日耳曼,巴黎聖日耳門,Paris Saint-Germain,パリ・サンジェルマンFC,París Saint-Germain,PSG | Paris Saint-Germain | Paris Saint-Germain FC | 大巴黎 | 巴黎圣日耳曼 | 巴黎聖日耳門
+fb_parma_calcio_1913,football,team,Parma Calcio 1913,帕尔马,帕爾馬,Parma,パルマ・カルチョ1913,Parma,Parma | Parma Calcio 1913 | 帕尔马 | 帕爾馬
+fb_portsmouth_fc,football,team,Portsmouth FC,朴茨茅斯,樸茨茅夫,Portsmouth,ポーツマス,Portsmouth,Portsmouth | Portsmouth FC | 朴茨茅斯 | 樸茨茅夫
+fb_portugal,football,team,Portugal,葡萄牙,葡萄牙,Portugal,ポルトガル,Portugal,Portugal | 葡萄牙
+fb_preston_north_end_fc,football,team,Preston North End FC,普雷斯顿,普雷斯顿,Preston North End,プレストン・ノースエンド,Preston North End,Preston | Preston North End | Preston North End FC | 普雷斯顿
+fb_qaraba_a_dam_fk,football,team,Qarabağ Ağdam FK,卡拉巴赫,卡拉巴克,Qarabağ,カラバフFK,Qarabağ,Qarabag | Qarabağ | Qarabağ Ağdam FK | 卡拉巴克 | 卡拉巴赫
+fb_qatar,football,team,Qatar,卡塔尔,卡塔爾,Qatar,カタール,Catar,Qatar | 卡塔尔 | 卡塔爾
+fb_queens_park_rangers_fc,football,team,Queens Park Rangers FC,女王公园巡游者,昆士柏流浪,Queens Park Rangers,クイーンズ・パーク・レンジャーズ,Queens Park Rangers,QPR | Queens Park Rangers | Queens Park Rangers FC | 女王公园巡游者 | 昆士柏流浪
+fb_rb_bragantino,football,team,RB Bragantino,布拉干蒂诺红牛,巴甘蒂诺紅牛,Red Bull Bragantino,レッドブル・ブラガンチーノ,Red Bull Bragantino,Bragantino | RB Bragantino | Red Bull Bragantino | 巴甘蒂诺紅牛 | 布拉干蒂诺红牛
+fb_rb_leipzig,football,team,RB Leipzig,莱比锡红牛,RB萊比錫,RB Leipzig,RBライプツィヒ,RB Leipzig,Leipzig | RB Leipzig | RB萊比錫 | 莱比锡 | 莱比锡红牛
+fb_rc_celta_de_vigo,football,team,RC Celta de Vigo,塞尔塔,切爾達,Celta Vigo,セルタ・デ・ビーゴ,Celta de Vigo,Celta Vigo | RC Celta de Vigo | 切爾達 | 塞尔塔
+fb_rc_deportivo_la_coru_a,football,team,RC Deportivo La Coruña,拉科鲁尼亚,拉科魯尼亞,Deportivo La Coruña,デポルティーボ・ラ・コルーニャ,Deportivo La Coruña,Deportivo La Coruna | Deportivo La Coruña | RC Deportivo La Coruña | 拉科魯尼亞 | 拉科鲁尼亚
+fb_rc_strasbourg_alsace,football,team,RC Strasbourg Alsace,斯特拉斯堡,斯特拉斯堡,Strasbourg,RCストラスブール,Estrasburgo,RC Strasbourg Alsace | Strasbourg | 斯特拉斯堡
+fb_rcd_espanyol_de_barcelona,football,team,RCD Espanyol de Barcelona,西班牙人,愛斯賓奴,Espanyol,RCDエスパニョール,Espanyol,Espanyol | RCD Espanyol de Barcelona | 愛斯賓奴 | 西班牙人
+fb_rcd_mallorca,football,team,RCD Mallorca,马略卡,馬略卡,Mallorca,RCDマジョルカ,Mallorca,Mallorca | RCD Mallorca | 馬略卡 | 马略卡
+fb_racing_club,football,team,Racing Club,阿根廷竞技,競賽會,Racing Club,ラシン・クラブ,Racing Club,Racing | Racing Club | 竞技俱乐部 | 競賽會 | 阿根廷竞技
+fb_racing_club_de_lens,football,team,Racing Club de Lens,朗斯,朗斯,Lens,RCランス,Lens,Lens | Racing Club de Lens | 朗斯
+fb_rayo_vallecano_de_madrid,football,team,Rayo Vallecano de Madrid,巴列卡诺,華历简奴,Rayo Vallecano,ラージョ・バジェカーノ,Rayo Vallecano,Rayo Vallecano | Rayo Vallecano de Madrid | 巴列卡诺 | 華历简奴
+fb_real_betis_balompi,football,team,Real Betis Balompié,皇家贝蒂斯,皇家貝迪斯,Real Betis,レアル・ベティス,Real Betis,Real Betis | Real Betis Balompié | 皇家貝迪斯 | 皇家贝蒂斯 | 贝蒂斯
+fb_real_madrid_cf,football,team,Real Madrid CF,皇家马德里,皇家馬德里,Real Madrid,レアル・マドリード,Real Madrid,Real Madrid | Real Madrid CF | 皇家馬德里 | 皇家马德里 | 皇马 | 银河战舰
+fb_real_oviedo,football,team,Real Oviedo,奥维耶多,奧維耶多,Real Oviedo,レアル・オビエド,Real Oviedo,Oviedo | Real Oviedo | 奥维耶多 | 奧維耶多
+fb_real_racing_club_de_santander,football,team,Real Racing Club de Santander,桑坦德竞技,桑坦德,Racing Santander,ラシン・サンタンデール,Racing de Santander,Racing Santander | Real Racing Club de Santander | 桑坦德 | 桑坦德竞技
+fb_real_sociedad_de_f_tbol,football,team,Real Sociedad de Fútbol,皇家社会,皇家蘇斯達,Real Sociedad,レアル・ソシエダ,Real Sociedad,Real Sociedad | Real Sociedad de Fútbol | 皇家社会 | 皇家蘇斯達
+fb_rio_ave_fc,football,team,Rio Ave FC,里奥阿维,里奧艾維,Rio Ave,リオ・アヴェFC,Rio Ave,Rio Ave | Rio Ave FC | 里奥阿维 | 里奧艾維
+fb_royale_union_saint_gilloise,football,team,Royale Union Saint-Gilloise,圣吉罗斯联合,聖基萊斯聯,Union Saint-Gilloise,ロイヤル・ユニオン・サン＝ジロワーズ,Union Saint-Gilloise,Royale Union Saint-Gilloise | Union SG | Union Saint-Gilloise | 圣吉罗斯联合 | 聖基萊斯聯
+fb_sbv_excelsior,football,team,SBV Excelsior,精英队,精英隊,Excelsior,SBVエクセルシオール,Excelsior,Excelsior | SBV Excelsior | 精英队 | 精英隊 | 鹿特丹精英
+fb_sc_cambuur_leeuwarden,football,team,SC Cambuur-Leeuwarden,坎布尔,甘堡爾,SC Cambuur,SCカンブール・レーワルデン,SC Cambuur,Cambuur | SC Cambuur | SC Cambuur-Leeuwarden | 坎布尔 | 甘堡爾
+fb_sc_corinthians_paulista,football,team,SC Corinthians Paulista,科林蒂安,哥连泰斯,Corinthians,コリンチャンス,Corinthians,Corinthians | SC Corinthians | SC Corinthians Paulista | 哥连泰斯 | 科林蒂安
+fb_sc_freiburg,football,team,SC Freiburg,弗赖堡,費雷堡,SC Freiburg,SCフライブルク,Friburgo,Freiburg | SC Freiburg | 弗赖堡 | 費雷堡
+fb_sc_heerenveen,football,team,SC Heerenveen,海伦芬,海倫芬,SC Heerenveen,SCヘーレンフェーン,SC Heerenveen,Heerenveen | SC Heerenveen | 海伦芬 | 海倫芬
+fb_sc_internacional,football,team,SC Internacional,国际,國際體育會,Internacional,インテルナシオナル,Internacional,Internacional | SC Internacional | 国际 | 國際體育會 | 巴西国际
+fb_sc_paderborn_07,football,team,SC Paderborn 07,帕德博恩,柏達邦,SC Paderborn,SCパーダーボルン07,Paderborn,Paderborn | SC Paderborn | SC Paderborn 07 | 帕德博恩 | 柏達邦
+fb_sc_recife,football,team,SC Recife,累西腓体育,利斯菲體育會,Sport Recife,スポルチ・レシフェ,Sport Recife,SC Recife | Sport Recife | 利斯菲體育會 | 累西腓体育
+fb_se_palmeiras,football,team,SE Palmeiras,帕尔梅拉斯,彭美拉斯,Palmeiras,パルメイラス,Palmeiras,Palmeiras | SE Palmeiras | 帕尔梅拉斯 | 彭美拉斯
+fb_sk_slavia_praha,football,team,SK Slavia Praha,布拉格斯拉维亚,布拉格斯拉維亞,Slavia Prague,SKスラヴィア・プラハ,Slavia Praga,SK Slavia Praha | Slavia Prague | 布拉格斯拉維亞 | 布拉格斯拉维亚
+fb_ss_lazio,football,team,SS Lazio,拉齐奥,拉素,Lazio,SSラツィオ,Lazio,Lazio | SS Lazio | 拉素 | 拉齐奥 | 蓝鹰
+fb_ssc_napoli,football,team,SSC Napoli,那不勒斯,拿坡里,Napoli,SSCナポリ,Nápoles,Napoli | SSC Napoli | 拿坡里 | 那不勒斯
+fb_sv_07_elversberg,football,team,SV 07 Elversberg,埃尔沃斯堡,艾華斯堡,SV Elversberg,SV07エルフェアスベルク,Elversberg,Elversberg | SV 07 Elversberg | SV Elversberg | 埃尔沃斯堡 | 艾華斯堡
+fb_sv_werder_bremen,football,team,SV Werder Bremen,云达不莱梅,雲達不萊梅,Werder Bremen,ヴェルダー・ブレーメン,Werder Bremen,SV Werder Bremen | Werder Bremen | 不莱梅 | 云达不莱梅 | 雲達不萊梅
+fb_sabah_fk,football,team,Sabah FK,萨巴赫,沙巴巴赫,Sabah FC,サバFK,Sabah FK,Sabah FC | Sabah FK | 沙巴巴赫 | 萨巴赫
+fb_santos_fc,football,team,Santos FC,桑托斯,山度士,Santos,サントス,Santos,Santos | Santos FC | 山度士 | 桑托斯
+fb_saudi_arabia,football,team,Saudi Arabia,沙特阿拉伯,沙地阿拉伯,Saudi Arabia,サウジアラビア,Arabia Saudita,Saudi Arabia | 沙地阿拉伯 | 沙特 | 沙特阿拉伯
+fb_scotland,football,team,Scotland,苏格兰,蘇格蘭,Scotland,スコットランド,Escocia,Scotland | 苏格兰 | 蘇格蘭
+fb_senegal,football,team,Senegal,塞内加尔,塞內加爾,Senegal,セネガル,Senegal,Senegal | 塞內加爾 | 塞内加尔
+fb_sevilla_fc,football,team,Sevilla FC,塞维利亚,西維爾,Sevilla,セビージャFC,Sevilla,Sevilla | Sevilla FC | 塞维利亚 | 西維爾
+fb_sheffield_united_fc,football,team,Sheffield United FC,谢菲尔德联,錫菲聯,Sheffield United,シェフィールド・ユナイテッド,Sheffield United,Sheffield United | Sheffield United FC | 谢菲尔德联 | 谢菲联 | 錫菲聯
+fb_sheffield_wednesday_fc,football,team,Sheffield Wednesday FC,谢菲尔德星期三,錫周三,Sheffield Wednesday,シェフィールド・ウェンズデイ,Sheffield Wednesday,Sheffield Wednesday | Sheffield Wednesday FC | 谢周三 | 谢菲尔德星期三 | 錫周三
+fb_south_africa,football,team,South Africa,南非,南非,South Africa,南アフリカ,Sudáfrica,South Africa | 南非
+fb_south_korea,football,team,South Korea,韩国,南韓,South Korea,韓国,Corea del Sur,South Korea | 南韓 | 韩国
+fb_southampton_fc,football,team,Southampton FC,南安普顿,修咸顿,Southampton,サウサンプトン,Southampton,Southampton | Southampton FC | 修咸顿 | 南安普顿
+fb_spain,football,team,Spain,西班牙,西班牙,Spain,スペイン,España,Spain | 西班牙
+fb_sparta_rotterdam,football,team,Sparta Rotterdam,鹿特丹斯巴达,鹿特丹斯巴達,Sparta Rotterdam,スパルタ・ロッテルダム,Sparta Rotterdam,Sparta Rotterdam | 鹿特丹斯巴达 | 鹿特丹斯巴達
+fb_sport_lisboa_e_benfica,football,team,Sport Lisboa e Benfica,本菲卡,賓菲加,Benfica,SLベンフィカ,Benfica,Benfica | Sport Lisboa e Benfica | 本菲卡 | 賓菲加
+fb_sporting_clube_de_braga,football,team,Sporting Clube de Braga,布拉加,布拉加,Sporting Braga,スポルティング・デ・ブラガ,Sporting de Braga,Braga | Sporting Braga | Sporting Clube de Braga | 布拉加
+fb_sporting_clube_de_portugal,football,team,Sporting Clube de Portugal,葡萄牙体育,士砵亭,Sporting CP,スポルティングCP,Sporting de Portugal,Sporting CP | Sporting Clube de Portugal | 士砵亭 | 葡萄牙体育 | 里斯本竞技
+fb_stade_brestois_29,football,team,Stade Brestois 29,布雷斯特,比斯特,Brest,スタッド・ブレスト29,Brest,Brest | Stade Brestois 29 | 布雷斯特 | 比斯特
+fb_stade_rennais_fc_1901,football,team,Stade Rennais FC 1901,雷恩,雷恩,Rennes,スタッド・レンヌ,Rennes,Rennes | Stade Rennais FC 1901 | 雷恩
+fb_stoke_city_fc,football,team,Stoke City FC,斯托克城,史笃城,Stoke City,ストーク・シティ,Stoke City,Stoke City | Stoke City FC | 史笃城 | 斯托克城
+fb_sunderland_afc,football,team,Sunderland AFC,桑德兰,新特兰,Sunderland,サンダーランド,Sunderland,Sunderland | Sunderland AFC | 新特兰 | 桑德兰
+fb_swansea_city_afc,football,team,Swansea City AFC,斯旺西城,史雲斯,Swansea City,スウォンジー・シティ,Swansea City,Swansea City | Swansea City AFC | 史雲斯 | 斯旺西城
+fb_sweden,football,team,Sweden,瑞典,瑞典,Sweden,スウェーデン,Suecia,Sweden | 瑞典
+fb_switzerland,football,team,Switzerland,瑞士,瑞士,Switzerland,スイス,Suiza,Switzerland | 瑞士
+fb_s_o_paulo_fc,football,team,São Paulo FC,圣保罗,聖保羅,São Paulo,サンパウロ,São Paulo,Sao Paulo | São Paulo | São Paulo FC | 圣保罗 | 聖保羅
+fb_tsg_1899_hoffenheim,football,team,TSG 1899 Hoffenheim,霍芬海姆,賀芬咸,Hoffenheim,TSG1899ホッフェンハイム,Hoffenheim,Hoffenheim | TSG 1899 Hoffenheim | 賀芬咸 | 霍芬海姆
+fb_telstar_1963,football,team,Telstar 1963,特尔斯达,泰斯達,Telstar,テルスター,Telstar,Telstar | Telstar 1963 | 泰斯達 | 特尔斯达
+fb_torino_fc,football,team,Torino FC,都灵,拖連奴,Torino,トリノFC,Torino,Torino | Torino FC | 拖連奴 | 都灵
+fb_tottenham_hotspur_fc,football,team,Tottenham Hotspur FC,托特纳姆热刺,熱刺,Tottenham Hotspur,トッテナム・ホットスパー,Tottenham Hotspur,Spurs | Tottenham | Tottenham Hotspur | Tottenham Hotspur FC | 托特纳姆热刺 | 热刺 | 熱刺
+fb_toulouse_fc,football,team,Toulouse FC,图卢兹,圖盧茲,Toulouse,トゥールーズFC,Toulouse,Toulouse | Toulouse FC | 图卢兹 | 圖盧茲
+fb_tunisia,football,team,Tunisia,突尼斯,突尼西亞,Tunisia,チュニジア,Túnez,Tunisia | 突尼斯 | 突尼西亞
+fb_turkey,football,team,Turkey,土耳其,土耳其,Turkey,トルコ,Turquía,Turkey | 土耳其
+fb_us_cremonese,football,team,US Cremonese,克雷莫内塞,克雷莫納,Cremonese,USクレモネーゼ,Cremonese,Cremonese | US Cremonese | 克雷莫内塞 | 克雷莫納
+fb_us_lecce,football,team,US Lecce,莱切,萊切,Lecce,USレッチェ,Lecce,Lecce | US Lecce | 莱切 | 萊切
+fb_us_sassuolo_calcio,football,team,US Sassuolo Calcio,萨索洛,薩斯索羅,Sassuolo,USサッスオーロ・カルチョ,Sassuolo,Sassuolo | US Sassuolo Calcio | 萨索洛 | 薩斯索羅
+fb_udinese_calcio,football,team,Udinese Calcio,乌迪内斯,烏甸尼斯,Udinese,ウディネーゼ・カルチョ,Udinese,Udinese | Udinese Calcio | 乌迪内斯 | 烏甸尼斯
+fb_united_states,football,team,United States,美国,美國,United States,アメリカ合衆国,Estados Unidos,USA | United States | 美国 | 美國
+fb_universidad_catolica,football,team,Universidad Catolica,厄瓜多尔天主教大学,天主教大學(厄),Universidad Católica,ウニベルシダ・カトリカ(ECU),Universidad Católica (Ecuador),Universidad Catolica | Universidad Católica | 厄瓜多尔天主教大学 | 天主教大学 | 天主教大學(厄)
+fb_universidad_central_de_venezuela_fc,football,team,Universidad Central de Venezuela FC,委内瑞拉中央大学,委內瑞拉中央大學,UCV FC,UCV FC,Universidad Central de Venezuela,UCV FC | Universidad Central de Venezuela FC | 委內瑞拉中央大學 | 委内瑞拉中央大学
+fb_uruguay,football,team,Uruguay,乌拉圭,烏拉圭,Uruguay,ウルグアイ,Uruguay,Uruguay | 乌拉圭 | 烏拉圭
+fb_uzbekistan,football,team,Uzbekistan,乌兹别克斯坦,烏茲別克,Uzbekistan,ウズベキスタン,Uzbekistán,Uzbekistan | 乌兹别克斯坦 | 烏茲別克
+fb_valencia_cf,football,team,Valencia CF,瓦伦西亚,華伦西亞,Valencia,バレンシアCF,Valencia,Valencia | Valencia CF | 瓦伦西亚 | 華伦西亞 | 蝙蝠军团
+fb_venezia_fc,football,team,Venezia FC,威尼斯,威尼斯,Venezia,ヴェネツィアFC,Venecia,Venezia | Venezia FC | 威尼斯
+fb_vfb_stuttgart,football,team,VfB Stuttgart,斯图加特,史特加,VfB Stuttgart,VfBシュトゥットガルト,Stuttgart,Stuttgart | VfB Stuttgart | 史特加 | 斯图加特
+fb_vfl_wolfsburg,football,team,VfL Wolfsburg,沃尔夫斯堡,禾夫斯堡,VfL Wolfsburg,VfLヴォルフスブルク,Wolfsburgo,VfL Wolfsburg | Wolfsburg | 沃尔夫斯堡 | 狼堡 | 禾夫斯堡
+fb_viking_fk,football,team,Viking FK,维京,維京,Viking FK,バイキングFK,Viking FK,Viking | Viking FK | 維京 | 维京
+fb_villarreal_cf,football,team,Villarreal CF,比利亚雷亚尔,維拉利爾,Villarreal,ビジャレアルCF,Villarreal,Villarreal | Villarreal CF | 比利亚雷亚尔 | 維拉利爾 | 黄色潜水艇
+fb_vit_ria_sc,football,team,Vitória SC,吉马良斯,甘馬雷斯,Vitória de Guimarães,ヴィトーリアSC,Vitória de Guimarães,Vitoria de Guimaraes | Vitória SC | Vitória de Guimarães | 吉马良斯 | 甘馬雷斯
+fb_watford_fc,football,team,Watford FC,沃特福德,屈福特,Watford,ワトフォード,Watford,Watford | Watford FC | 屈福特 | 沃特福德
+fb_west_bromwich_albion_fc,football,team,West Bromwich Albion FC,西布罗姆维奇,西布朗,West Bromwich Albion,ウェスト・ブロムウィッチ・アルビオン,West Bromwich Albion,West Brom | West Bromwich Albion | West Bromwich Albion FC | 西布朗 | 西布罗姆维奇
+fb_west_ham_united_fc,football,team,West Ham United FC,西汉姆联,韋斯咸,West Ham United,ウェストハム・ユナイテッド,West Ham United,West Ham | West Ham United | West Ham United FC | 西汉姆联 | 韋斯咸
+fb_willem_ii_tilburg,football,team,Willem II Tilburg,威廉二世,威廉二世,Willem II,ヴィレムII,Willem II,Willem II | Willem II Tilburg | 威廉二世
+fb_wolverhampton_wanderers_fc,football,team,Wolverhampton Wanderers FC,狼队,狼隊,Wolverhampton Wanderers,ウルヴァーハンプトン・ワンダラーズ,Wolverhampton Wanderers,Wolverhampton Wanderers | Wolverhampton Wanderers FC | Wolves | 伍尔弗汉普顿流浪者 | 狼队 | 狼隊
+fb_wrexham_afc,football,team,Wrexham AFC,雷克瑟姆,域斯咸,Wrexham,レクサム,Wrexham,Wrexham | Wrexham AFC | 域斯咸 | 雷克瑟姆
+fb_k_slovan_bratislava,football,team,ŠK Slovan Bratislava,布拉迪斯拉发斯拉夫,斯洛雲,Slovan Bratislava,ŠKスロヴァン・ブラチスラヴァ,Slovan Bratislava,Slovan Bratislava | ŠK Slovan Bratislava | 布拉迪斯拉发 | 布拉迪斯拉发斯拉夫 | 斯洛雲
+comp_nba,basketball,league,NBA,NBA,NBA,NBA,NBA,NBA,NBA | National Basketball Association | 美职篮
+nba_bos,basketball,team,Boston Celtics,波士顿凯尔特人,波士頓塞爾提克,Boston Celtics,ボストン・セルティックス,Boston Celtics,Boston Celtics | Celtics | 凯尔特人 | 绿衫军
+nba_bkn,basketball,team,Brooklyn Nets,布鲁克林篮网,布魯克林籃網,Brooklyn Nets,ブルックリン・ネッツ,Brooklyn Nets,Brooklyn Nets | Nets | 篮网
+nba_nyk,basketball,team,New York Knicks,纽约尼克斯,紐約尼克,New York Knicks,ニューヨーク・ニックス,New York Knicks,New York Knicks | Knicks | 尼克斯 | 尼克
+nba_phi,basketball,team,Philadelphia 76ers,费城76人,費城76人,Philadelphia 76ers,フィラデルフィア・セブンティシクサーズ,Philadelphia 76ers,Philadelphia 76ers | 76ers | Sixers | 76人
+nba_tor,basketball,team,Toronto Raptors,多伦多猛龙,多倫多暴龍,Toronto Raptors,トロント・ラプターズ,Toronto Raptors,Toronto Raptors | Raptors | 猛龙 | 暴龙
+nba_chi,basketball,team,Chicago Bulls,芝加哥公牛,芝加哥公牛,Chicago Bulls,シカゴ・ブルズ,Chicago Bulls,Chicago Bulls | Bulls | 公牛
+nba_cle,basketball,team,Cleveland Cavaliers,克利夫兰骑士,克里夫蘭騎士,Cleveland Cavaliers,クリーブランド・キャバリアーズ,Cleveland Cavaliers,Cleveland Cavaliers | Cavaliers | Cavs | 骑士
+nba_det,basketball,team,Detroit Pistons,底特律活塞,底特律活塞,Detroit Pistons,デトロイト・ピストンズ,Detroit Pistons,Detroit Pistons | Pistons | 活塞
+nba_ind,basketball,team,Indiana Pacers,印第安纳步行者,印第安那溜馬,Indiana Pacers,インディアナ・ペイサーズ,Indiana Pacers,Indiana Pacers | Pacers | 步行者 | 溜马
+nba_mil,basketball,team,Milwaukee Bucks,密尔沃基雄鹿,密爾瓦基公鹿,Milwaukee Bucks,ミルウォーキー・バックス,Milwaukee Bucks,Milwaukee Bucks | Bucks | 雄鹿 | 公鹿
+nba_atl,basketball,team,Atlanta Hawks,亚特兰大老鹰,亞特蘭大老鷹,Atlanta Hawks,アトランタ・ホークス,Atlanta Hawks,Atlanta Hawks | Hawks | 老鹰
+nba_cha,basketball,team,Charlotte Hornets,夏洛特黄蜂,夏洛特黃蜂,Charlotte Hornets,シャーロット・ホーネッツ,Charlotte Hornets,Charlotte Hornets | Hornets | 黄蜂
+nba_mia,basketball,team,Miami Heat,迈阿密热火,邁阿密熱火,Miami Heat,マイアミ・ヒート,Miami Heat,Miami Heat | Heat | 热火
+nba_orl,basketball,team,Orlando Magic,奥兰多魔术,奧蘭多魔術,Orlando Magic,オーランド・マジック,Orlando Magic,Orlando Magic | Magic | 魔术
+nba_was,basketball,team,Washington Wizards,华盛顿奇才,華盛頓巫師,Washington Wizards,ワシントン・ウィザーズ,Washington Wizards,Washington Wizards | Wizards | 奇才 | 巫师
+nba_den,basketball,team,Denver Nuggets,丹佛掘金,丹佛金塊,Denver Nuggets,デンバー・ナゲッツ,Denver Nuggets,Denver Nuggets | Nuggets | 掘金 | 金块
+nba_min,basketball,team,Minnesota Timberwolves,明尼苏达森林狼,明尼蘇達灰狼,Minnesota Timberwolves,ミネソタ・ティンバーウルブズ,Minnesota Timberwolves,Minnesota Timberwolves | Timberwolves | Wolves | 森林狼 | 灰狼
+nba_okc,basketball,team,Oklahoma City Thunder,俄克拉荷马城雷霆,奧克拉荷馬城雷霆,Oklahoma City Thunder,オクラホマシティ・サンダー,Oklahoma City Thunder,Oklahoma City Thunder | Thunder | OKC | 雷霆
+nba_por,basketball,team,Portland Trail Blazers,波特兰开拓者,波特蘭拓荒者,Portland Trail Blazers,ポートランド・トレイルブレイザーズ,Portland Trail Blazers,Portland Trail Blazers | Trail Blazers | Blazers | 开拓者 | 拓荒者
+nba_uta,basketball,team,Utah Jazz,犹他爵士,猶他爵士,Utah Jazz,ユタ・ジャズ,Utah Jazz,Utah Jazz | Jazz | 爵士
+nba_gsw,basketball,team,Golden State Warriors,金州勇士,金州勇士,Golden State Warriors,ゴールデンステート・ウォリアーズ,Golden State Warriors,Golden State Warriors | Warriors | GSW | 勇士 | 金州勇士
+nba_lac,basketball,team,LA Clippers,洛杉矶快船,洛杉磯快艇,LA Clippers,ロサンゼルス・クリッパーズ,Los Angeles Clippers,LA Clippers | Los Angeles Clippers | Clippers | 快船 | 快艇
+nba_lal,basketball,team,Los Angeles Lakers,洛杉矶湖人,洛杉磯湖人,Los Angeles Lakers,ロサンゼルス・レイカーズ,Los Angeles Lakers,Los Angeles Lakers | Lakers | LAL | 湖人 | 洛杉矶湖人 | 紫金军团
+nba_phx,basketball,team,Phoenix Suns,菲尼克斯太阳,鳳凰城太陽,Phoenix Suns,フェニックス・サンズ,Phoenix Suns,Phoenix Suns | Suns | 太阳
+nba_sac,basketball,team,Sacramento Kings,萨克拉门托国王,沙加緬度國王,Sacramento Kings,サクラメント・キングス,Sacramento Kings,Sacramento Kings | Kings | 国王
+nba_dal,basketball,team,Dallas Mavericks,达拉斯独行侠,達拉斯獨行俠,Dallas Mavericks,ダラス・マーベリックス,Dallas Mavericks,Dallas Mavericks | Mavericks | Mavs | 独行侠 | 小牛
+nba_hou,basketball,team,Houston Rockets,休斯顿火箭,休士頓火箭,Houston Rockets,ヒューストン・ロケッツ,Houston Rockets,Houston Rockets | Rockets | 火箭
+nba_mem,basketball,team,Memphis Grizzlies,孟菲斯灰熊,曼菲斯灰熊,Memphis Grizzlies,メンフィス・グリズリーズ,Memphis Grizzlies,Memphis Grizzlies | Grizzlies | 灰熊
+nba_nop,basketball,team,New Orleans Pelicans,新奥尔良鹈鹕,紐奧良鵜鶘,New Orleans Pelicans,ニューオーリンズ・ペリカンズ,New Orleans Pelicans,New Orleans Pelicans | Pelicans | 鹈鹕
+nba_sas,basketball,team,San Antonio Spurs,圣安东尼奥马刺,聖安東尼奧馬刺,San Antonio Spurs,サンアントニオ・スパーズ,San Antonio Spurs,San Antonio Spurs | Spurs | 马刺
+comp_asian_games,asian-games,league,Asian Games 2026,亚运会,亞運會,Asian Games,アジア競技大会,Asian Games 2026,20th Asian Games | Asian Games | Asian Games 2026 | 亚运会 | 名古屋亚运会
+ag_afg,asian-games,country,Afghanistan,阿富汗,阿富汗,Afghanistan,アフガニスタン,Afganistán,AFG | Afganistán | Afghanistan | 阿富汗
+ag_brn,asian-games,country,Bahrain,巴林,巴林,Bahrain,バーレーン,Baréin,BRN | Bahrain | Baréin | 巴林
+ag_ban,asian-games,country,Bangladesh,孟加拉国,孟加拉,Bangladesh,バングラデシュ,Bangladés,BAN | Bangladesh | Bangladés | 孟加拉 | 孟加拉国
+ag_bhu,asian-games,country,Bhutan,不丹,不丹,Bhutan,ブータン,Bután,BHU | Bhutan | Bután | 不丹
+ag_bru,asian-games,country,Brunei,文莱,汶萊,Brunei,ブルネイ,Brunéi,BRU | Brunei | Brunéi | 文莱 | 汶莱
+ag_cam,asian-games,country,Cambodia,柬埔寨,柬埔寨,Cambodia,カンボジア,Camboya,CAM | Cambodia | Camboya | 柬埔寨
+ag_chn,asian-games,country,China,中国,中國,China,中国,China,CHN | China | 中华人民共和国 | 中国
+ag_tpe,asian-games,country,Chinese Taipei,中华台北,中華台北,Chinese Taipei,チャイニーズタイペイ,China Taipéi,China Taipéi | Chinese Taipei | TPE | 中华台北 | 中華台北 | 台湾
+ag_hkg,asian-games,country,"Hong Kong, China",中国香港,中國香港,"Hong Kong, China",香港,"Hong Kong, China","HKG | Hong Kong | Hong Kong, China | 中国香港 | 香港"
+ag_ind,asian-games,country,India,印度,印度,India,インド,India,IND | India | 印度
+ag_ina,asian-games,country,Indonesia,印度尼西亚,印尼,Indonesia,インドネシア,Indonesia,INA | Indonesia | 印尼 | 印度尼西亚
+ag_iri,asian-games,country,Iran,伊朗,伊朗,Iran,イラン,Irán,IRI | Iran | Irán | 伊朗
+ag_irq,asian-games,country,Iraq,伊拉克,伊拉克,Iraq,イラク,Irak,IRQ | Irak | Iraq | 伊拉克
+ag_jpn,asian-games,country,Japan (Host),日本（东道主）,日本（東道主）,Japan (Host),日本（開催国）,Japón (Anfitrión),JPN | Japan | Japan (Host) | Japón (Anfitrión) | 日本
+ag_jor,asian-games,country,Jordan,约旦,約旦,Jordan,ヨルダン,Jordania,JOR | Jordan | Jordania | 约旦
+ag_kaz,asian-games,country,Kazakhstan,哈萨克斯坦,哈薩克,Kazakhstan,カザフスタン,Kazajistán,KAZ | Kazajistán | Kazakhstan | 哈萨克 | 哈萨克斯坦
+ag_kuw,asian-games,country,Kuwait,科威特,科威特,Kuwait,クウェート,Kuwait,KUW | Kuwait | 科威特
+ag_kgz,asian-games,country,Kyrgyzstan,吉尔吉斯斯坦,吉爾吉斯,Kyrgyzstan,キルギス,Kirguistán,KGZ | Kirguistán | Kyrgyzstan | 吉尔吉斯 | 吉尔吉斯斯坦
+ag_lao,asian-games,country,Laos,老挝,寮國,Laos,ラオス,Laos,LAO | Laos | 寮国 | 老挝
+ag_lbn,asian-games,country,Lebanon,黎巴嫩,黎巴嫩,Lebanon,レバノン,Líbano,LBN | Lebanon | Líbano | 黎巴嫩
+ag_mac,asian-games,country,"Macau, China",中国澳门,中國澳門,"Macau, China",マカオ,"Macao, China","MAC | Macao, China | Macau | Macau, China | 中国澳门 | 澳门"
+ag_mas,asian-games,country,Malaysia,马来西亚,馬來西亞,Malaysia,マレーシア,Malasia,MAS | Malasia | Malaysia | 大马 | 马来西亚
+ag_mdv,asian-games,country,Maldives,马尔代夫,馬爾地夫,Maldives,モルディブ,Maldivas,MDV | Maldivas | Maldives | 马尔代夫 | 马尔地夫
+ag_mgl,asian-games,country,Mongolia,蒙古,蒙古,Mongolia,モンゴル,Mongolia,MGL | Mongolia | 蒙古
+ag_mya,asian-games,country,Myanmar,缅甸,緬甸,Myanmar,ミャンマー,Myanmar,MYA | Myanmar | 缅甸
+ag_nep,asian-games,country,Nepal,尼泊尔,尼泊爾,Nepal,ネパール,Nepal,NEP | Nepal | 尼泊尔
+ag_prk,asian-games,country,North Korea,朝鲜,北韓,North Korea,北朝鮮,Corea del Norte,Corea del Norte | North Korea | PRK | 北韩 | 朝鲜
+ag_oma,asian-games,country,Oman,阿曼,阿曼,Oman,オマーン,Omán,OMA | Oman | Omán | 阿曼
+ag_pak,asian-games,country,Pakistan,巴基斯坦,巴基斯坦,Pakistan,パキスタン,Pakistán,PAK | Pakistan | Pakistán | 巴基斯坦
+ag_ple,asian-games,country,Palestine,巴勒斯坦,巴勒斯坦,Palestine,パレスチナ,Palestina,PLE | Palestina | Palestine | 巴勒斯坦
+ag_phi,asian-games,country,Philippines,菲律宾,菲律賓,Philippines,フィリピン,Filipinas,Filipinas | PHI | Philippines | 菲律宾
+ag_qat,asian-games,country,Qatar,卡塔尔,卡達,Qatar,カタール,Catar,Catar | QAT | Qatar | 卡塔尔 | 卡达
+ag_ksa,asian-games,country,Saudi Arabia,沙特阿拉伯,沙烏地阿拉伯,Saudi Arabia,サウジアラビア,Arabia Saudita,Arabia Saudita | KSA | Saudi Arabia | 沙乌地阿拉伯 | 沙特 | 沙特阿拉伯
+ag_sgp,asian-games,country,Singapore,新加坡,新加坡,Singapore,シンガポール,Singapur,SGP | Singapore | Singapur | 新加坡 | 狮城
+ag_kor,asian-games,country,South Korea,韩国,南韓,South Korea,韓国,Corea del Sur,Corea del Sur | KOR | Korea | South Korea | 南韩 | 大韩民国 | 韩国
+ag_sri,asian-games,country,Sri Lanka,斯里兰卡,斯里蘭卡,Sri Lanka,スリランカ,Sri Lanka,SRI | Sri Lanka | 斯里兰卡
+ag_syr,asian-games,country,Syria,叙利亚,敘利亞,Syria,シリア,Siria,SYR | Siria | Syria | 叙利亚
+ag_tjk,asian-games,country,Tajikistan,塔吉克斯坦,塔吉克,Tajikistan,タジキスタン,Tayikistán,TJK | Tajikistan | Tayikistán | 塔吉克 | 塔吉克斯坦
+ag_tha,asian-games,country,Thailand,泰国,泰國,Thailand,タイ,Tailandia,THA | Tailandia | Thailand | 泰国
+ag_tls,asian-games,country,Timor-Leste,东帝汶,東帝汶,Timor-Leste,東ティモール,Timor Oriental,TLS | Timor Oriental | Timor-Leste | 东帝汶
+ag_tkm,asian-games,country,Turkmenistan,土库曼斯坦,土庫曼,Turkmenistan,トルクメニスタン,Turkmenistán,TKM | Turkmenistan | Turkmenistán | 土库曼 | 土库曼斯坦
+ag_uae,asian-games,country,United Arab Emirates,阿联酋,阿聯酋,United Arab Emirates,アラブ首長国連邦,Emiratos Árabes Unidos,Emiratos Árabes Unidos | UAE | United Arab Emirates | 阿联酋
+ag_uzb,asian-games,country,Uzbekistan,乌兹别克斯坦,烏茲別克,Uzbekistan,ウズベキスタン,Uzbekistán,UZB | Uzbekistan | Uzbekistán | 乌兹别克 | 乌兹别克斯坦
+ag_vie,asian-games,country,Vietnam,越南,越南,Vietnam,ベトナム,Vietnam,VIE | Vietnam | 越南
+ag_yem,asian-games,country,Yemen,也门,葉門,Yemen,イエメン,Yemen,YEM | Yemen | 也门 | 叶门
